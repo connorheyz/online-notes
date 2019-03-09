@@ -7,18 +7,18 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 |--|--|--|
 | 3/7 Iran Notes | 3/7/2019 | Scott Wilson |
 
-### Study Guides
+### [Study Guides](ap-comp-gov/index.html#study-guides)
 | Most Recent Study Guide | Test | Teacher |
 |--|--|--|
 | -- | -- | Scott Wilson |
 
 ## [IB Chemstry](ib-chemistry/index.html)
-### Notes
+### [Notes](ib-chemistry/index.html#notes)
 | Most Recent Notes | Date | Teacher |
 |--|--|--|
 | -- | -- | Karen McClean |
 
-### Study Guides
+### [Study Guides](ap-comp-gov/index.html#notes)
 | Most Recent Study Guide | Test | Teacher |
 |--|--|--|
 | -- | -- | Karen McClean |
@@ -34,5 +34,5 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 |--|--|--|
 | -- | -- | Christopher Devine |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDgxMDczNl19
+eyJoaXN0b3J5IjpbNzI5ODkwNTUxXX0=
 -->
