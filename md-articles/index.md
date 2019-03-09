@@ -4,23 +4,28 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 ## [AP Comparative Government](ap-comp-gov/index.html)
 | Most Recent Notes | Date | Teacher |
 |--|--|--|
-| 3/7 Iran Notes | 3/7 | Scott Wilson |
+| 3/7 Iran Notes | 3/7/2019 | Scott Wilson |
 
 ## [IB Chemstry](ib-chemistry/index.html)
 ### Notes
 | Most Recent Notes | Date | Teacher |
 |--|--|--|
-| -- | 3/7/2019 | Karen McClean |
+| -- | -- | Karen McClean |
 
 ### Study Guides
-| Most Recent Notes | Class Period | Teacher |
+| Most Recent Study Guide | Test | Teacher |
 |--|--|--|
-| -- | 4 | Karen McClean |
+| -- | -- | Karen McClean |
 
 ## [IB Math 1 HL](ib-chemistry/index.html)
-| Most Recent Notes | Class Period | Teacher |
+| Most Recent Notes | Date | Teacher |
 |--|--|--|
-| -- | 1 | Christopher Devine |
+| -- | -- | Christopher Devine |
+
+### Study Guides
+| Most Recent Study Guide | Test | Teacher |
+|--|--|--|
+| -- | -- | Karen McClean |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODg1OTMyNF19
+eyJoaXN0b3J5IjpbLTkyNzM1MDI2NF19
 -->
