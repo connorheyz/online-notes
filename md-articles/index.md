@@ -3,10 +3,11 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 
 ## [AP Comparative Government](ap-comp-gov/index.html)
 ### [Notes](ap-comp-gov/index.html#notes)
+
 | Most Recent Notes | Date | Teacher |
 |--|--|--|
 | 3/7 Iran Notes | 3/7/2019 | Scott Wilson |
----
+
 ### [Study Guides](ap-comp-gov/index.html#study-guides)
 | Most Recent Study Guide | Test | Teacher |
 |--|--|--|
@@ -34,5 +35,5 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 |--|--|--|
 | -- | -- | Christopher Devine |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMTQ0MjIzM119
+eyJoaXN0b3J5IjpbLTIwMDIyMzg2NDhdfQ==
 -->
