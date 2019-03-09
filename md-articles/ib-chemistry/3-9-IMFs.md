@@ -2,9 +2,10 @@
 
 ## Hydrogen Bonding
 $$
-D
+{D_1 \ti V1}
 $$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjc1Njg3NSwtMTk5OTI3NDM5MV19
+eyJoaXN0b3J5IjpbLTE3MzkwODg4MzUsLTE5OTkyNzQzOTFdfQ
+==
 -->
