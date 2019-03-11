@@ -25,7 +25,9 @@ Thomas meets his in-laws in the hot tub every morning to discuss women and polit
 - Women can't sit in the front of the bus
 - Women shouldn't ask the man to marry them.
 
+There is a lot of cliched journalism.  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTI4MjkwNCwtMTc3MTYxNDkxNCwxNz
+eyJoaXN0b3J5IjpbMTgxMjc5NzA5NSwtMTc3MTYxNDkxNCwxNz
 Y3MzY2OTYwXX0=
 -->
