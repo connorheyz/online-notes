@@ -25,9 +25,9 @@ Thomas meets his in-laws in the hot tub every morning to discuss women and polit
 - Women can't sit in the front of the bus
 - Women shouldn't ask the man to marry them.
 
-There is a lot of cliched journalism.  
+There is a lot of cliched journalism.  The westerners try to say stuff like, "We bypassed the rules and saw {x}" 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjc5NzA5NSwtMTc3MTYxNDkxNCwxNz
+eyJoaXN0b3J5IjpbLTE0MTg4OTI1NSwtMTc3MTYxNDkxNCwxNz
 Y3MzY2OTYwXX0=
 -->
