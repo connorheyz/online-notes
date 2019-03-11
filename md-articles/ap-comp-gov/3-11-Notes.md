@@ -10,13 +10,13 @@ Tehran's youth is mostly pro western. They want western influence. They have mod
 A documentary of Tehran by Thomas Erdbrink.
 
 ### People
-The people were very worried about foreigners. They think is is not honorable for the woman to ask the man
+The people were very worried about foreigners. They think is is not honorable for the woman to ask the man.
 - **Muhammad Pahlavi** - overthrown in 1979. After his reign, women were forced to wear veils and alcohol was banned.
 ### Institutions
 
 ### Day to Day Life
-Thomas meets his in-laws in the hot tub every morning to discuss women and politics. 
+Thomas meets his in-laws in the hot tub every morning to discuss women and politics. After lunch, Thomas goes out. The people approach him because foreigners are so rare.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTQ3MjkzMCwxNzY3MzY2OTYwXX0=
+eyJoaXN0b3J5IjpbMTA4NDMyODIyNCwxNzY3MzY2OTYwXX0=
 -->
