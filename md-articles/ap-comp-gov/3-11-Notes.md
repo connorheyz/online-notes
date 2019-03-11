@@ -8,12 +8,13 @@ There are a lot of educated women. More than half of college students are women 
 Tehran's youth is mostly pro western. They want western influence. They have modem buildings
 ## Documentary
 A documentary of Tehran by Thomas Erdbrink.
+
 ### People
-- 
+- **Muhammad Pahlavi** - overthrown in 1979. After his reign, 
 ### Institutions
 
 ### Day to Day Life
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzY1MDg3NCwxNzY3MzY2OTYwXX0=
+eyJoaXN0b3J5IjpbMjExNjQ1NjY2MCwxNzY3MzY2OTYwXX0=
 -->
