@@ -10,11 +10,11 @@ Tehran's youth is mostly pro western. They want western influence. They have mod
 A documentary of Tehran by Thomas Erdbrink.
 
 ### People
-- **Muhammad Pahlavi** - overthrown in 1979. After his reign, 
+- **Muhammad Pahlavi** - overthrown in 1979. After his reign, women were forced to wear veils and alcohol was banned.
 ### Institutions
 
 ### Day to Day Life
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjQ1NjY2MCwxNzY3MzY2OTYwXX0=
+eyJoaXN0b3J5IjpbLTE1MDk5NTQxMzUsMTc2NzM2Njk2MF19
 -->
