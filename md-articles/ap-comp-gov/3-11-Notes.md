@@ -15,8 +15,8 @@ The people were very worried about foreigners. They think is is not honorable fo
 ### Institutions
 
 ### Day to Day Life
-Thomas meets his in-laws in the hot tub every morning to discuss women and politics. After lunch, Thomas goes out. The people approach him because foreigners are so rare.
+Thomas meets his in-laws in the hot tub every morning to discuss women and politics. After lunch, Thomas goes out. The people approach him because foreigners are so rare. People ask him question like, "What are you doing?", "Why are you here?", and "What does America think of Tehran?"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NDMyODIyNCwxNzY3MzY2OTYwXX0=
+eyJoaXN0b3J5IjpbMTkxMzc3NTYwMCwxNzY3MzY2OTYwXX0=
 -->
