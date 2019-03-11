@@ -14,7 +14,8 @@ A documentary of Tehran by Thomas Erdbrink.
 ### Institutions
 
 ### Day to Day Life
+Thomas meets his in-laws in the hot tub every morning to discuss women and politics. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDk5NTQxMzUsMTc2NzM2Njk2MF19
+eyJoaXN0b3J5IjpbMTQzMzEzODU3NCwxNzY3MzY2OTYwXX0=
 -->
