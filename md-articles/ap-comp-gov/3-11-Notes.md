@@ -21,9 +21,11 @@ A documentary of Tehran by Thomas Erdbrink.
 It's like traveling 20 years into the past. There are five prayer services a day and all women wear black. Things do not change that much. Tehran is like a metropolis compared to here.
 
 ### Day to Day Life in Tehran
-Thomas meets his in-laws in the hot tub every morning to discuss women and politics. After lunch, Thomas goes out. The people approach him because foreigners are so rare. People ask him questions like, "What are you doing?", "Why are you here?", and "What does America think of Tehran?" 
+Thomas meets his in-laws in the hot tub every morning to discuss women and politics. After lunch, Thomas goes out. The people approach him because foreigners are so rare. People ask him questions like, "What are you doing?", "Why are you here?", and "What does America think of Tehran?" There are a lot of invisible rules like:
+- Women can't sit in the front of the bus
+- Women shouldn't ask the man to marry them.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY1NjY2OTMwLC0xNzcxNjE0OTE0LDE3Nj
-czNjY5NjBdfQ==
+eyJoaXN0b3J5IjpbLTY0MTI4MjkwNCwtMTc3MTYxNDkxNCwxNz
+Y3MzY2OTYwXX0=
 -->
