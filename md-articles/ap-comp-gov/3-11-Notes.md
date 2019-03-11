@@ -14,12 +14,13 @@ A documentary of Tehran by Thomas Erdbrink.
 - They think is is not honorable for the woman to ask the man. 
 - A lot of people are not willing to rent an apartment to a single woman.
 - Some people can't deal with the fact that their wives work.
-- **Muhammad Pahlavi** - overthrown in 1979. After his reign, women were forced to wear veils and alcohol was banned.
+- People still hold on to traditional values such as wearing a chad-or and praying all the time.
+- **Muhammad Pahlavi** -- overthrown in 1979. After his reign, women were forced to wear veils and alcohol was banned.
 ### Institutions
-
+**Conservative Towns**-- It's like traveling 20 years 
 ### Day to Day Life
 Thomas meets his in-laws in the hot tub every morning to discuss women and politics. After lunch, Thomas goes out. The people approach him because foreigners are so rare. People ask him question like, "What are you doing?", "Why are you here?", and "What does America think of Tehran?"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzMDE1NDY3LDE3NjczNjY5NjBdfQ==
+eyJoaXN0b3J5IjpbMTExMzc2MjI2MywxNzY3MzY2OTYwXX0=
 -->
