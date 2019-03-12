@@ -33,16 +33,18 @@ $$P_{total} = P_1 + P_2 + P_3 + ...$$
 ### Partial Pressure and Vapor Pressure
 - **Vapor Pressure** - pressure due to the evaporation of a substance
 - **Evaporation** -- the process of a liquid turning into a gas at temperatures below the boiling point
--
-Partial Pressures can be reported in % composition or mole fractions
-Values can be determined from total molar amounts.
+
+Partial Pressures can be reported in % composition or mole fractions. Values can be determined from total molar amounts.
 #### Air Compsition
 ##### Percent Comp
 - N$_2$ = 78.1%
 ##### Mole Fraction
 - N$_2$ = 0.781
+### Partial Pressure and Mole Fraction
 - Frequently used when collecting gas over water
 - Subtract Vapor Pressure from total pressure of system.
+
+![Image result for partial pressure](http://ch301.cm.utexas.edu/svg/partial-pressures.svg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzA3NTE5MzgsNDYzNjY1MDIzXX0=
+eyJoaXN0b3J5IjpbNDQ3MzcwNzg0LDQ2MzY2NTAyM119
 -->
