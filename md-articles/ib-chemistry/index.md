@@ -4,7 +4,9 @@
 
 ## Notes
 <img height="144." width="500." src="http://www4c.wolframalpha.com/Calculate/MSP/MSP20021id3dggf0dgbi8hh00001dbc02h8a24g58he?MSPStoreType=image/gif&s=38&amp;w=500.&amp;h=144.&amp;cdf=Resizeable" id="i_0200_1" alt="" title=""   data-attribution="" />
+<img height="23." width="203." src="http://www4c.wolframalpha.com/Calculate/MSP/MSP19971id3dggf0dgbi8hh000066963d7di58a4df7?MSPStoreType=image/gif&s=38&amp;w=203.&amp;h=23." id="i_0100_1" alt="butane | Lewis dot structure" title="butane | Lewis dot structure"   data-attribution="" />
+
 ## Study Guides
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyMTk5NTczXX0=
+eyJoaXN0b3J5IjpbNTIyOTE0NDYzXX0=
 -->
