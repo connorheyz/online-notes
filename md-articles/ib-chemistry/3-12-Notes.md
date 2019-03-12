@@ -44,7 +44,12 @@ Partial Pressures can be reported in % composition or mole fractions. Values can
 - Frequently used when collecting gas over water
 - Subtract Vapor Pressure from total pressure of system.
 
-![Image result for partial pressure](http://ch301.cm.utexas.edu/svg/partial-pressures.svg)
+![Image result for partial pressure gas over water](https://slideplayer.com/slide/10948214/39/images/2/Dalton%E2%80%99s+Law+of+Partial+Pressures%3A+in+a+mixture+of+gases%2C+each+gas+exerts+a+pressure+%28partial+pressure%29+and+the+total+pressure+is+the+sum+of+all+the+partial+pressures..jpg)
+### Vapor Pressure Diagram
+
+### Sample Problem
+- A gas is 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ3MzcwNzg0LDQ2MzY2NTAyM119
+eyJoaXN0b3J5IjpbLTE4NDY5MjExODksNDYzNjY1MDIzXX0=
 -->
