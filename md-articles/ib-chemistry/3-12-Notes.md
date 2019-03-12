@@ -49,9 +49,10 @@ Partial Pressures can be reported in % composition or mole fractions. Values can
 - A gas is collected by water displacement at 50°C and a barometric pressure of 95.00 kPa. What is the pressure exerted by the dry gas? (vapor pressure of water at 50°C = 12.34 kPa) 
 <br>
 - Oxygen gas is collected by water displacement from the reaction of water at 23°C and 1 atm. What is the mass of the dry O$_2$? (vapor pressure of water at 23°C = 2.81 kPa)
-$$ 0.318  
+$$ 98.49 \times 0.318 = n \times 8.314 \times 296$$ 
+$n = 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDE2Mzk2OTMsNDYzNjY1MDIzXX0=
+eyJoaXN0b3J5IjpbNDU0MzExMTE2LDQ2MzY2NTAyM119
 -->
