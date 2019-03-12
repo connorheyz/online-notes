@@ -20,12 +20,13 @@ $= 29.0L$
 
 - At STP 1 mol (of any gas) = 22.4 L
 - What volume of hydrogen at STP is produced by adding 15.0 g of sodium to an excess of nitric acid?
-$$2Na(s) + 2HNO3(aq) -> H2(g) + 2NaNO3(aq)$$
+$$2Na(s) + 2HNO3(aq) → H2(g) + 2NaNO3(aq)$$
+
 | 15 g Na | 1 mol Na | 1 mol H2 | 22.4 L H2 |
 |--|--|--|--|
-
-
+| | 22.9 g Na | 2 mol Na | 1 mol H2|
+= 7.31 L
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MjkzNTQzMyw0NjM2NjUwMjNdfQ==
+eyJoaXN0b3J5IjpbLTIwODA2MjIzMTEsNDYzNjY1MDIzXX0=
 -->
