@@ -9,11 +9,14 @@ $n = 500g$
 $R = 8.314 kPa/mol$
 $T = 298K$
 $$ PV = nRT $$
-| 500g | 1molCO2 |
-| -- | --|
-|  | 44.01gCO2
+
+| 500g | 1 mol CO2 |
+|--|--|
+| | 1molCO2 |
+= 11.4 mol CO2
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNjAzMzQ3OCw0NjM2NjUwMjNdfQ==
+eyJoaXN0b3J5IjpbLTExMjA1MjM0MCw0NjM2NjUwMjNdfQ==
 -->
