@@ -1,7 +1,7 @@
 # 3/12 Ideal Gas Notes
 ## Ideal Gas Law
 - $P$
-## Sample Problem
+## Sample Problems
 - A 500. g block of dry ice vaoprizes to a gas a room temperature. Calculate the volume of gas produeced at 25C and 975 kPa.
 $P = 975 kPa$
 $V = ?$
@@ -12,11 +12,15 @@ $$ PV = nRT $$
 
 | 500g | 1 mol CO2 |
 |--|--|
-| | 1molCO2 |
-= 11.4 mol CO2
+| | 44.01 g CO2 |
+$= 11.4 mol CO2$
+$$975 = 11.4(8.314)(298)$$
+$= 29.0L$
+### Gasses
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjA1MjM0MCw0NjM2NjUwMjNdfQ==
+eyJoaXN0b3J5IjpbLTE3MTM2MzAwLDQ2MzY2NTAyM119
 -->
