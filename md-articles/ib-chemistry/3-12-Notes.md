@@ -43,16 +43,19 @@ Partial Pressures can be reported in % composition or mole fractions. Values can
 - Subtract Vapor Pressure from total pressure of system.
 
 ![Image result for partial pressure gas over water](https://slideplayer.com/slide/10948214/39/images/2/Dalton%E2%80%99s+Law+of+Partial+Pressures%3A+in+a+mixture+of+gases%2C+each+gas+exerts+a+pressure+%28partial+pressure%29+and+the+total+pressure+is+the+sum+of+all+the+partial+pressures..jpg)
-### Vapor Pressure Diagram
-
 ### Sample Problems
 - A gas is collected by water displacement at 50°C and a barometric pressure of 95.00 kPa. What is the pressure exerted by the dry gas? (vapor pressure of water at 50°C = 12.34 kPa) 
 <br>
 - Oxygen gas is collected by water displacement from the reaction of water at 23°C and 1 atm. What is the mass of the dry O$_2$? (vapor pressure of water at 23°C = 2.81 kPa)
 $$ 98.49 \times 0.318 = n \times 8.314 \times 296$$ 
-$n = 
+$n = 0.0127$ mol
+
+| 0.0127| 32.00g O$_2$ |
+|--|--| 
+| | 1 mol |
+= 0.406g
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU0MzExMTE2LDQ2MzY2NTAyM119
+eyJoaXN0b3J5IjpbLTIwMTkzMTA0NjQsNDYzNjY1MDIzXX0=
 -->
