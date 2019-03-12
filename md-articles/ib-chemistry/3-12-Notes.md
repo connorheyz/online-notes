@@ -1,6 +1,4 @@
 # 3/12 Ideal Gas Notes
-## Ideal Gas Law
-- $P$
 ## Sample Problems
 - A 500. g block of dry ice vaoprizes to a gas a room temperature. Calculate the volume of gas produeced at 25C and 975 kPa.
 $P = 975 kPa$
@@ -51,8 +49,9 @@ Partial Pressures can be reported in % composition or mole fractions. Values can
 - A gas is collected by water displacement at 50°C and a barometric pressure of 95.00 kPa. What is the pressure exerted by the dry gas? (vapor pressure of water at 50°C = 12.34 kPa) 
 <br>
 - Oxygen gas is collected by water displacement from the reaction of water at 23°C and 1 atm. What is the mass of the dry O$_2$? (vapor pressure of water at 23°C = 2.81 kPa)
+$$ 0.318  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNzAyMDUxNCw0NjM2NjUwMjNdfQ==
+eyJoaXN0b3J5IjpbLTEyMDE2Mzk2OTMsNDYzNjY1MDIzXX0=
 -->
