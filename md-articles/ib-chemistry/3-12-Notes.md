@@ -16,11 +16,13 @@ $$ PV = nRT $$
 $= 11.4 mol CO2$
 $$975 = 11.4(8.314)(298)$$
 $= 29.0L$
-### Gasses
+### Gases in Stoichiometry Problems
 
-
+- At STP 1 mol (of any gas) = 22.4 L
+- What volume of hydrogen at STP is produced by adding 15.0 g of sodium to an excess of nitric acid?
+$$2Na(s) + 2
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTM2MzAwLDQ2MzY2NTAyM119
+eyJoaXN0b3J5IjpbMTg0MjQzMzg2NSw0NjM2NjUwMjNdfQ==
 -->
