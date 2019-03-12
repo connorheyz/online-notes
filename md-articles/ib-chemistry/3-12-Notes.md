@@ -27,8 +27,10 @@ $$2Na(s) + 2HNO_3(aq) → H_2(g) + 2NaNO_3(aq)$$
 | | 22.9 g Na | 2 mol Na | 1 mol H<sub>2|
 = 7.31 L
 ## Kinetic Molecular Theory
-## Dalton's Law of Partial Pressure
-- The total pressure in a gas mixture is the sum of
+### Dalton's Law of Partial Pressure
+- The total pressure in a gas mixture is the sum of the partial pressures of the individual components.
+$$P_{total} = P_1 + P_2 + P_3 + ...$$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODk1OTU1OTksNDYzNjY1MDIzXX0=
+eyJoaXN0b3J5IjpbLTE4MDA4NTI5OTcsNDYzNjY1MDIzXX0=
 -->
