@@ -33,6 +33,8 @@ $$P_{total} = P_1 + P_2 + P_3 + ...$$
 ### Partial Pressure and Vapor Pressure
 - **Vapor Pressure** - pressure due to the evaporation of a substance
 - **Evaporation** -- the process of a liquid turning into a gas at temperatures below the boiling point
+- Partial Pressures can be reported in % composition or mole fractions
+- Values can be determined from total molar amounts.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDE2Mjc4Miw0NjM2NjUwMjNdfQ==
+eyJoaXN0b3J5IjpbODY1MDk2MDk2LDQ2MzY2NTAyM119
 -->
