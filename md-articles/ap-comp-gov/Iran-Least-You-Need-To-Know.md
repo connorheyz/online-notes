@@ -76,10 +76,27 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 ### Religion
 
-### De
+### Democratic Elements
+
+## Cleavages
+
+### Religion
+
+#### Sunni
+
+#### Shi'ism
+
+#### Zoroastrianism
+
+#### Judaism
+
+#### Christian
+
+### Ethnicity
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTg3NDIsMTM2NjM3MTM4OSwxMDkxNz
-UyMjddfQ==
+eyJoaXN0b3J5IjpbLTE1NTA3Mzk1OTAsMTM2NjM3MTM4OSwxMD
+kxNzUyMjddfQ==
 -->
