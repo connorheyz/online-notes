@@ -142,7 +142,7 @@ ___
 ![](https://www5b.wolframalpha.com/Calculate/MSP/MSP1413188d2a12086d8i4d0000618fd8id5ebcc7cg?MSPStoreType=image/gif&s=37)
 ___
 #### Constitution of 1906
-
+The Persia Constitution of 1906 was the first constitution of Persia (Iran) that resulted from the Persian Constitutional Revolution and it was written by Hassan Pirnia, Hossein Pirnia, and Ismail Mumtaz, among others. It divides into five chapters with many articles that developed over several years. The Belgian constitution, like the constitutions of other European states, served as a partial model for the Iranian constitution.
 #### Tehran
 
 #### Secularization
@@ -307,7 +307,7 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTczNTc2OCwtMTY0MDEzNTY1OCw4NT
+eyJoaXN0b3J5IjpbLTQ0OTg1MzI4OSwtMTY0MDEzNTY1OCw4NT
 UxNDI4MjYsLTE0NzQzMjkxNDUsLTQ5MTc1OTIzMCwtNDczOTMz
 NDQ0LDEzNjYzNzEzODksMTA5MTc1MjI3XX0=
 -->
