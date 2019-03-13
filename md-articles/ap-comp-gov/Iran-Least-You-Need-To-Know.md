@@ -31,14 +31,16 @@ place of death | Tehran, Tehran, Iran](https://www5b.wolframalpha.com/Calculate/
 country | Iran | Iran
 start date | February 5, 1979 | January 1, 1980
 end date | February 4, 1980 | June 3, 1989](https://www5b.wolframalpha.com/Calculate/MSP/MSP5431gf09bi24ddc8aig00001258f0763i7978b8?MSPStoreType=image/gif&s=41)
+Sayyid Ruhollah Mūsavi Khomeini (24 September 1902 - 3 June 1989), known in the Western world as Ayatollah Khomeini, was an Iranian politician and marja. He was the founder of the Islamic Republic of Iran and the leader of the 1979 Iranian Revolution that saw the overthrow of the last Shah of Iran.
+___
 #### Notable Facts
  - Grand Ayatollah and leader of 1979 Iranian Revolution which deposed the Shah, and became Supreme Leader, the highest ranking political and religious authority
  - Issued a fatwa in 1989 calling for the death of British citizen Salman Rushdie for blasphemy of his novel The Satanic Verses
  - Supported hostage takers during the 1979 hostage crisis when 66 Americans were held by Islamic students and militants for 444 days
- - Returned to Iran from exile in 1979, welcomed by a crowd of millions, and claimed authority in opposition to the Shapour  -  Bakhtiar's provisional government
-Prior to the Iranian Revolution spent more than 14 years in exile, mostly in the holy Shia city of Najaf, Iraq
-As a marja in Twelver Shi'a Islam, advocated expanding the role of clerical authority to include governing by theocracy of Islamic jurists
-Iraq's 1980 invasion rallied Iranians behind Khomeini's regime and allowed him to consolidate and stabilize his leadership
+ - Returned to Iran from exile in 1979, welcomed by a crowd of millions, and claimed authority in opposition to the Shapour Bakhtiar's provisional government
+- Prior to the Iranian Revolution spent more than 14 years in exile, mostly in the holy Shia city of Najaf, Iraq
+- As a marja in Twelver Shi'a Islam, advocated expanding the role of clerical authority to include governing by theocracy of Islamic jurists
+- Iraq's 1980 invasion rallied Iranians behind Khomeini's regime and allowed him to consolidate and stabilize his leadership
 ___
 ### Ayatollah Ali Khamenei
 
@@ -222,6 +224,6 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDU5Mzc2MSwtNDczOTMzNDQ0LDEzNj
+eyJoaXN0b3J5IjpbMTE3NjIzNjc0NywtNDczOTMzNDQ0LDEzNj
 YzNzEzODksMTA5MTc1MjI3XX0=
 -->
