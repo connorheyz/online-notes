@@ -87,7 +87,13 @@ start date | August 3, 2005
 end date | August 3, 2013](https://www5b.wolframalpha.com/Calculate/MSP/MSP19810ia222hc97642gc0000681g058352323b02?MSPStoreType=image/gif&s=26)
 ___
 #### Notable Facts
-
+ - Former President of the Islamic Republic of Iran, a controversial figure both within and outside of Iran for his economic weaknesses and perceived disregard for human rights
+ - Disputed election to a second presidential term in 2009 led to domestic protests and attracted international criticism
+ - Primary political leader of the Alliance of Builders of Islamic Iran, a coalition of conservative political groups
+ - As mayor of Tehran, took a religious hard-line, undoing the reforms of previous, more moderate mayors
+ - Enacted a gas rationing plan to reduce the Islamic Republic of Iran's fuel consumption, and supports the country's nuclear energy program
+ - Cut the allowable interest rates for public and private banking facilities
+ ___
 ### Mir-Hossein Mousavi
 
 ## History
@@ -264,6 +270,6 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3NzYzODY4LC00OTE3NTkyMzAsLTQ3Mz
-kzMzQ0NCwxMzY2MzcxMzg5LDEwOTE3NTIyN119
+eyJoaXN0b3J5IjpbLTM3OTM2ODcyMSwtNDkxNzU5MjMwLC00Nz
+M5MzM0NDQsMTM2NjM3MTM4OSwxMDkxNzUyMjddfQ==
 -->
