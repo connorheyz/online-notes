@@ -39,10 +39,10 @@ Ever since the revolution of 1979, Iran  has been in disarray. However, one pers
 - **Ammendments** -- 1989
 	- Khomeni replaced by Khameni
 	1. Selection process with  Assembly of Experts
-	2. Guardian Council** -- Upper house with jurist guardianship
+	2. **Guardian Council** -- Upper house with jurist guardianship
 	3. The Assembly may remove the Supreme Leader
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEzMjgzMTUxLC0xNDcxOTg1MDMsMTk2OD
-U1MjExMCwtMTE1NTU1ODczNSwxNTI3NjE4MDQ0LC00NjM1OTEx
-NzUsLTc3MDU3MTc0NF19
+eyJoaXN0b3J5IjpbLTExOTc0MTg2NzMsLTE0NzE5ODUwMywxOT
+Y4NTUyMTEwLC0xMTU1NTU4NzM1LDE1Mjc2MTgwNDQsLTQ2MzU5
+MTE3NSwtNzcwNTcxNzQ0XX0=
 -->
