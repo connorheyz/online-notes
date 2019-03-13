@@ -43,8 +43,18 @@ ___
 - Iraq's 1980 invasion rallied Iranians behind Khomeini's regime and allowed him to consolidate and stabilize his leadership
 ___
 ### Ayatollah Ali Khamenei
-
-
+![full name | Seyyed Ali Khamenei
+date of birth | Saturday, July 15, 1939 (age: 79 years)
+place of birth | Mashhad, Razavi Khorasan, Iran](https://www5b.wolframalpha.com/Calculate/MSP/MSP1738232252h2b3f65ah700005i7b80hi2042888f?MSPStoreType=image/gif&s=51)
+![official position | Rahbar
+country | Iran
+start date | June 4, 1989](https://www5b.wolframalpha.com/Calculate/MSP/MSP1741232252h2b3f65ah700005g0cgbchfdi6e121?MSPStoreType=image/gif&s=51)
+___
+#### Notable Facts
+ - Iranian politician known as one of three people considered to have had important influences on the Islamic Republic of Iran
+Supported the re-election of Mahmoud Ahmadinejad amidst the protests following the 2009 presidential elections
+ - Victim of assassination attack which left his right arm paralyzed for life
+Imprisoned intellectual dissenters and had riot police attack protesters in Tehran in 2010
 ### Muhammad Khatami
 
 ### Mahmoud Ahmadinejad
@@ -225,6 +235,6 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNjI5NTIwMywtNDczOTMzNDQ0LDEzNj
+eyJoaXN0b3J5IjpbLTk4NzM2OTY2MSwtNDczOTMzNDQ0LDEzNj
 YzNzEzODksMTA5MTc1MjI3XX0=
 -->
