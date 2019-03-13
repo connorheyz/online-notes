@@ -29,8 +29,8 @@ Hassan Rouhani (Standard born Hassan Fereydoun on 12 November 1948) is an Irania
  - Uses extremism to weaken the economy through mismanagement
  - Antagonizes the west
  - Khatami and Rafsanjani endorsed Rouhani
- - 
+ - The supreme leader stayed above the fray. He concluded that the economic sanctions would require a more compromising fore
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDU1MDMzNywtNzcwNTcxNzQ0XX0=
+eyJoaXN0b3J5IjpbODM2MzAyOTYwLC03NzA1NzE3NDRdfQ==
 -->
