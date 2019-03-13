@@ -4,7 +4,9 @@
 ### Early Life
 - Born in 1949
 - Grew up in a non-clerical household
+- Hassan participated in anti-Shah activities.
+- To confuse the police, he adopted the name Rouhani (meaning "clerical").  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTI5NzE4N119
+eyJoaXN0b3J5IjpbLTE3MzkzNTQ1MDRdfQ==
 -->
