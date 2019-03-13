@@ -143,8 +143,9 @@ ___
 ___
 #### Constitution of 1906
 The Persia Constitution of 1906 was the first constitution of Persia (Iran) that resulted from the Persian Constitutional Revolution and it was written by Hassan Pirnia, Hossein Pirnia, and Ismail Mumtaz, among others. It divides into five chapters with many articles that developed over several years. The Belgian constitution, like the constitutions of other European states, served as a partial model for the Iranian constitution.
-#### Tehran
 
+#### Tehran
+Qajar king Agha Mohammad Khan chose Tehran as the capital of Iran in 1786.
 #### Secularization
 
 ### Pahlavis
@@ -307,7 +308,8 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTg1MzI4OSwtMTY0MDEzNTY1OCw4NT
-UxNDI4MjYsLTE0NzQzMjkxNDUsLTQ5MTc1OTIzMCwtNDczOTMz
-NDQ0LDEzNjYzNzEzODksMTA5MTc1MjI3XX0=
+eyJoaXN0b3J5IjpbLTIwOTMyMTUyMDksLTQ0OTg1MzI4OSwtMT
+Y0MDEzNTY1OCw4NTUxNDI4MjYsLTE0NzQzMjkxNDUsLTQ5MTc1
+OTIzMCwtNDczOTMzNDQ0LDEzNjYzNzEzODksMTA5MTc1MjI3XX
+0=
 -->
