@@ -26,8 +26,8 @@ Hassan Rouhani (Standard born Hassan Fereydoun on 12 November 1948) is an Irania
 ### 2013 Elections
  - He ran the 2013 election on a reform platform
  - **Reformist Beliefs** -- cautious realism, moderation, gender equality, hope
- - 
+ - Uses extremism to weaken the economy through mismanagement
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTg0MDk4MTBdfQ==
+eyJoaXN0b3J5IjpbLTcxMDE4MzY0XX0=
 -->
