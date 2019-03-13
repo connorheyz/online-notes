@@ -57,9 +57,19 @@
 #### Comparison With China
 
 ### Khatami
-See [Muhammad Khatami]
+See [Muhammad Khatami](#muhammad-khatami)
 #### Tehran Spring
 
+## System of Government
+
+### Unitary System
+
+### Theocracy
+
+### Jurist Guardianship
+
+#### velayet -e fa
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3OTcxMzQ3OSwxMDkxNzUyMjddfQ==
+eyJoaXN0b3J5IjpbNzgyODYzOTcxLDEwOTE3NTIyN119
 -->
