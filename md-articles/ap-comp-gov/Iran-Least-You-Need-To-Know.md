@@ -96,6 +96,17 @@ ___
  - Cut the allowable interest rates for public and private banking facilities
  ___
 ### Mir-Hossein Mousavi
+#### Basic Information
+![full name | Mir-Hossein Mousavi Khameneh
+date of birth | Monday, September 29, 1941 (age: 77 years)
+place of birth | Iran](https://www5b.wolframalpha.com/Calculate/MSP/MSP26231c829dhdg9bea4c800005hee36e289b46hde?MSPStoreType=image/gif&s=39)
+#### Leadership
+![official position | Prime Minister
+country | Iran
+start date | October 31, 1981
+end date | August 3, 1989](https://www5b.wolframalpha.com/Calculate/MSP/MSP26261c829dhdg9bea4c800004224i6g1i3c5888c?MSPStoreType=image/gif&s=39)
+___
+#### Notable Facts
 
 ## History
 
@@ -271,6 +282,6 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNTk2NjQzNywtNDkxNzU5MjMwLC00Nz
-M5MzM0NDQsMTM2NjM3MTM4OSwxMDkxNzUyMjddfQ==
+eyJoaXN0b3J5IjpbMzg0MTE2MTM3LC00OTE3NTkyMzAsLTQ3Mz
+kzMzQ0NCwxMzY2MzcxMzg5LDEwOTE3NTIyN119
 -->
