@@ -6,7 +6,14 @@
 
 ### Ayatollah Ruhollah Khomeini
 
-### Ayatollah Ali Khameni
+### Ayatollah Ali Khamenei
+
+### Muhammad Khatami
+
+### Mahmoud Ahmadinejad
+
+### Mir-Hossein Mousavi
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzI5NTMwMSwxMDkxNzUyMjddfQ==
+eyJoaXN0b3J5IjpbMjY5NzQyODA5LDEwOTE3NTIyN119
 -->
