@@ -76,6 +76,17 @@ ___
  - Served as Minister of Culture in the 1980s and 1990s
 ___
 ### Mahmoud Ahmadinejad
+#### Basic Information
+![full name | Mahmoud Ahmadinejad
+date of birth | Sunday, October 28, 1956 (age: 62 years)
+place of birth | Garmsar, Semnan, Iran](https://www5b.wolframalpha.com/Calculate/MSP/MSP19510ia222hc97642gc0000159aie65d9g93ii9?MSPStoreType=image/gif&s=26)
+#### Leadership
+![official position | President
+country | Iran
+start date | August 3, 2005
+end date | August 3, 2013](https://www5b.wolframalpha.com/Calculate/MSP/MSP19810ia222hc97642gc0000681g058352323b02?MSPStoreType=image/gif&s=26)
+___
+#### Notable Facts
 
 ### Mir-Hossein Mousavi
 
@@ -253,6 +264,6 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMjkxMzIyMiwtNDkxNzU5MjMwLC00Nz
-M5MzM0NDQsMTM2NjM3MTM4OSwxMDkxNzUyMjddfQ==
+eyJoaXN0b3J5IjpbMjg3NzYzODY4LC00OTE3NTkyMzAsLTQ3Mz
+kzMzQ0NCwxMzY2MzcxMzg5LDEwOTE3NTIyN119
 -->
