@@ -33,10 +33,11 @@ Hassan Rouhani (Standard born Hassan Fereydoun on 12 November 1948) is an Irania
  
 ## Short Essay
 Ever since the revolution of 1979, Iran  has been in disarray. However, one person managed to dominate Iranian politics. Hassan Rouhani lived in a non-clerical household and eventually became a cleric himself. In 2013, after he held many positions in the government before, he ran for president. Hassan Rouhani won by a lot. This is because of three reasons. Hassan Rohani had personal connections with some of the leaders, he had experience in the government, and he appealed to Iran's masses. Hassan Rouhani served as the nuclear advisor to Khatami. This might have caused Khatami to be more enthusiastic when endorsing Rouhani. Also, the Supreme Leader did not want to endorse the conservatives, which meant that the elections wouldn't be rigged. Hassan Rouhani also had experience in Iranian government in the past. He served on the National Security Council, the Assembly of Experts, and the ambassador to France, North Korea, and Syria. This means that Rouhani already knew how to gain influence in the Iranian government so he had the upper hand. Finally, he appealed to the Iranian masses. Rouhani had two things. He was a reformist, which appealed to the Iranian youth. He was also anti-western, which appealed to basically everyone.
-## Current Event
-
+## Class Notes
+- constitution -- 1979
+- ammendments -- 1989
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzE5ODUwMywxOTY4NTUyMTEwLC0xMT
-U1NTU4NzM1LDE1Mjc2MTgwNDQsLTQ2MzU5MTE3NSwtNzcwNTcx
-NzQ0XX0=
+eyJoaXN0b3J5IjpbMzUxMTUyNTA2LC0xNDcxOTg1MDMsMTk2OD
+U1MjExMCwtMTE1NTU1ODczNSwxNTI3NjE4MDQ0LC00NjM1OTEx
+NzUsLTc3MDU3MTc0NF19
 -->
