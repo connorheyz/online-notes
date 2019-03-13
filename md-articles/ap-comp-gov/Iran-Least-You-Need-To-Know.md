@@ -68,8 +68,9 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 ### Jurist Guardianship
 
-#### velayet -e fa
+#### *velayet -e faqih*
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyODYzOTcxLDEwOTE3NTIyN119
+eyJoaXN0b3J5IjpbMTM2NjM3MTM4OSwxMDkxNzUyMjddfQ==
 -->
