@@ -49,9 +49,9 @@ Jurist Guardianship allows the government to act based on the greater interest o
 There is a higher percentage of women in college. However, they are "equal but different" which gives men more power in some areas.
 
 ### Population Skyrockets
-In 1989, the population grew to 3.2 million. In th
+In 1989, the population grew to 3.2 million. In the 90s, the population goes to half of that. The Iran-Iraq War and family planning caused a lot 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQzMTYyNzY2LC0xNDcxOTg1MDMsMTk2OD
+eyJoaXN0b3J5IjpbNzgyMzg2Mjk3LC0xNDcxOTg1MDMsMTk2OD
 U1MjExMCwtMTE1NTU1ODczNSwxNTI3NjE4MDQ0LC00NjM1OTEx
 NzUsLTc3MDU3MTc0NF19
 -->
