@@ -133,7 +133,13 @@ ___
 #### Introduction of Shi'ism
 The Safavid dynasty established the Twelver school of Shia Islam as the official religion of the empire, marking one of the most important turning points in Muslim history.
 ### Qajars
-#### Basi
+#### Basic Information
+![full name | Qajar Empire
+dates | 1794 to 1925](https://www5b.wolframalpha.com/Calculate/MSP/MSP1231fb3gf3ib3605i6d000035e12078aiag2271?MSPStoreType=image/gif&s=52)
+___
+#### Location
+![](https://www5b.wolframalpha.com/Calculate/MSP/MSP1413188d2a12086d8i4d0000618fd8id5ebcc7cg?MSPStoreType=image/gif&s=37)
+___
 #### Constitution of 1906
 
 #### Tehran
@@ -300,7 +306,7 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTg5OTgwMzMsLTE2NDAxMzU2NTgsOD
-U1MTQyODI2LC0xNDc0MzI5MTQ1LC00OTE3NTkyMzAsLTQ3Mzkz
-MzQ0NCwxMzY2MzcxMzg5LDEwOTE3NTIyN119
+eyJoaXN0b3J5IjpbNTEwMzgwMDgyLC0xNjQwMTM1NjU4LDg1NT
+E0MjgyNiwtMTQ3NDMyOTE0NSwtNDkxNzU5MjMwLC00NzM5MzM0
+NDQsMTM2NjM3MTM4OSwxMDkxNzUyMjddfQ==
 -->
