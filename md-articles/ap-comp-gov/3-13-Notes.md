@@ -32,10 +32,10 @@ Hassan Rouhani (Standard born Hassan Fereydoun on 12 November 1948) is an Irania
  - The supreme leader stayed above the fray. He concluded that the economic sanctions would require a more compromising foreign policy. His refusal to to back the conservative esured that the conservstive clerical institutions would not interfere with the elections
  
 ## Short Essay
-Ever since the revolution of 1979, Iran  has been in disarray. However, one person managed to dominate Iranian politics. Hassan Rouhani lived in a non-c
+Ever since the revolution of 1979, Iran  has been in disarray. However, one person managed to dominate Iranian politics. Hassan Rouhani lived in a non-clerical household and eventually became a cleric himself. In 2013, after he held many positions in the government before, he ran for president. Hassan Rouhani won by a lot. This is because of his ties
 ## Current Event
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMTA3NDc5NiwtNDYzNTkxMTc1LC03Nz
+eyJoaXN0b3J5IjpbLTI4MzA3Nzg3MSwtNDYzNTkxMTc1LC03Nz
 A1NzE3NDRdfQ==
 -->
