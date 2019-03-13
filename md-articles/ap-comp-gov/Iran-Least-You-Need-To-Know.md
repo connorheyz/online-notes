@@ -30,7 +30,14 @@
 
 ### Pahlavis
 
-#### 1941 Abdication
+#### 1941 Abdication of Shah Reza Khan
+#### White Revolution
+#### Industrialization
+#### Westernization & Secularization
+#### Resurgence Party
+#### SAVAK
+#### OPEC
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTM5NTUxMCwxMDkxNzUyMjddfQ==
+eyJoaXN0b3J5IjpbMjAxMTYxNDcxNywxMDkxNzUyMjddfQ==
 -->
