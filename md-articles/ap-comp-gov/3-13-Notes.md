@@ -11,8 +11,9 @@
 ### Post-Revolution
  - After the revolution, Rouhani held a series of high posts:
 	 - parliamentary deputy
-	 - clerica
+	 - clerical representative on committees
+	 - Assembly of Experts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjU0NzI2N119
+eyJoaXN0b3J5IjpbLTE3NDA3Njc1NzRdfQ==
 -->
