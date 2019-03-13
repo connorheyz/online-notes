@@ -146,7 +146,9 @@ The Persia Constitution of 1906 was the first constitution of Persia (Iran) that
 
 #### Tehran
 Qajar king Agha Mohammad Khan chose Tehran as the capital of Iran in 1786.
+
 #### Secularization
+The consititution of 1906 Secularized the government and religion.
 
 ### Pahlavis
 
@@ -308,8 +310,8 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTMyMTUyMDksLTQ0OTg1MzI4OSwtMT
-Y0MDEzNTY1OCw4NTUxNDI4MjYsLTE0NzQzMjkxNDUsLTQ5MTc1
-OTIzMCwtNDczOTMzNDQ0LDEzNjYzNzEzODksMTA5MTc1MjI3XX
-0=
+eyJoaXN0b3J5IjpbMTUyNjE4NTg0NiwtNDQ5ODUzMjg5LC0xNj
+QwMTM1NjU4LDg1NTE0MjgyNiwtMTQ3NDMyOTE0NSwtNDkxNzU5
+MjMwLC00NzM5MzM0NDQsMTM2NjM3MTM4OSwxMDkxNzUyMjddfQ
+==
 -->
