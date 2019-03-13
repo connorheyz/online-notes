@@ -56,6 +56,7 @@ ___
  - Supported the re-election of Mahmoud Ahmadinejad amidst the protests following the 2009 presidential elections
  - Victim of assassination attack which left his right arm paralyzed for life
 Imprisoned intellectual dissenters and had riot police attack protesters in Tehran in 2010
+___
 ### Muhammad Khatami
 #### General Information
 ![full name | Mohammad Khatami
@@ -66,7 +67,13 @@ place of birth | Ardakan, Yazd, Iran](https://www5b.wolframalpha.com/Calculate/M
 country | Iran
 start date | August 3, 1997
 end date | August 3, 2005](https://www5b.wolframalpha.com/Calculate/MSP/MSP12291123ie4999g04249000044a750bh66gc3aa7?MSPStoreType=image/gif&s=30)
-
+___
+#### Notable Facts
+ - Scholar and politician who served as the President of Iran and became one of the leader's of the country's Green Movement
+ - Proposed a Dialogue Among Civilizations, which the United Nations adopted as a theme for the year 2001
+ - Promoted liberalization of foreign and domestic policy as President of Iran
+ - Served as Minister of Culture in the 1980s and 1990s
+___
 ### Mahmoud Ahmadinejad
 
 ### Mir-Hossein Mousavi
@@ -245,6 +252,6 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNzIwNTI0NywtNDkxNzU5MjMwLC00Nz
-M5MzM0NDQsMTM2NjM3MTM4OSwxMDkxNzUyMjddfQ==
+eyJoaXN0b3J5IjpbLTE5MzYzODYxMDksLTQ5MTc1OTIzMCwtND
+czOTMzNDQ0LDEzNjYzNzEzODksMTA5MTc1MjI3XX0=
 -->
