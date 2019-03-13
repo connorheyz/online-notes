@@ -1,12 +1,15 @@
 # Iran Least You Need To Know
 
 ## People
-![](https://www.wolframcdn.com/waimage/hset028/c50/c500f31e8e1977d058b67ae4f053aee4_v001s.jpg)![full name | Mohammed Mossadegh
+
+### Mohammed Mossadegh
+![full name | Mohammed Mossadegh
 date of birth | Wednesday, May 19, 1882 (Julian calendar) (136 years ago)
 place of birth | Tehran, Tehran, Iran
 date of death | Sunday, March 5, 1967 (Gregorian calendar) (age: 84 years) 
  (52 years ago)
 place of death | Tehran, Tehran, Iran](https://www5b.wolframalpha.com/Calculate/MSP/MSP17961c829ccf5ac2355d000025dh421301c903bb?MSPStoreType=image/gif&s=39)
+
 ### Ayatollah Ruhollah Khomeini
 
 ### Ayatollah Ali Khamenei
@@ -191,6 +194,6 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMzA3NDk2MSwtNDczOTMzNDQ0LDEzNj
+eyJoaXN0b3J5IjpbMTY0Mjg2OTAzOSwtNDczOTMzNDQ0LDEzNj
 YzNzEzODksMTA5MTc1MjI3XX0=
 -->
