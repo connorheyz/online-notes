@@ -9,6 +9,14 @@ place of birth | Tehran, Tehran, Iran
 date of death | Sunday, March 5, 1967 (Gregorian calendar) (age: 84 years) 
  (52 years ago)
 place of death | Tehran, Tehran, Iran](https://www5b.wolframalpha.com/Calculate/MSP/MSP17961c829ccf5ac2355d000025dh421301c903bb?MSPStoreType=image/gif&s=39)
+![official position | Prime Minister | Prime Minister
+country | Iran | Iran
+start date | April 30, 1951 | July 22, 1952
+end date | July 17, 1952 | August 19, 1953](https://www5b.wolframalpha.com/Calculate/MSP/MSP18031c829ccf5ac2355d000064c8i2ed5485hg7d?MSPStoreType=image/gif&s=39)
+
+Prime Minister of Iran for two years until his 1953 overthrow in a coup organized by the United States Central Intelligence Agency
+___
+Nationalized the Iranian oil industry, previously controlled by Great Britain, and introduced progressive social reforms
 
 ### Ayatollah Ruhollah Khomeini
 
@@ -194,6 +202,6 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Mjg2OTAzOSwtNDczOTMzNDQ0LDEzNj
+eyJoaXN0b3J5IjpbMTc2MjE2OTIzMSwtNDczOTMzNDQ0LDEzNj
 YzNzEzODksMTA5MTc1MjI3XX0=
 -->
