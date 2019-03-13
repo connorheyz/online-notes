@@ -122,7 +122,10 @@ ___
 ## History
 
 ### Safavids
-
+#### Basic Information
+![full name | Safavid Empire
+dates | ≈ 1501 to 1736](https://www5b.wolframalpha.com/Calculate/MSP/MSP15681hc9ga1hb51ff4h800006338h15f7f55bhie?MSPStoreType=image/gif&s=54)
+> The Safavid dynasty was one of the most significant ruling dynasties of Iran, often considered the beginning of modern Iranian history. The Safavid shahs ruled over one of the Gunpowder Empires. They ruled one of the greatest Iranian empires after the 7th-century Muslim conquest of Iran, and established the Twelver school of Shia Islam as the official religion of the empire, marking one of the most important turning points in Muslim history.
 #### Introduction of Shi'ism
 
 ### Qajars
@@ -293,7 +296,7 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1MTQyODI2LC0xNDc0MzI5MTQ1LC00OT
-E3NTkyMzAsLTQ3MzkzMzQ0NCwxMzY2MzcxMzg5LDEwOTE3NTIy
-N119
+eyJoaXN0b3J5IjpbLTY0NjY4NDQ0MSw4NTUxNDI4MjYsLTE0Nz
+QzMjkxNDUsLTQ5MTc1OTIzMCwtNDczOTMzNDQ0LDEzNjYzNzEz
+ODksMTA5MTc1MjI3XX0=
 -->
