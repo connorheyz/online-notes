@@ -1,6 +1,7 @@
 
 # 3/13 Iran Notes
 ## President Dr. Hassan Rouhani
+
 ### Early Life
 - Born in 1949
 - Grew up in a non-clerical household
@@ -21,7 +22,9 @@
 
 ### 2013 Elections
  - He ran the 2013 election on a reform platform
+ - **Reformist Beliefs** -- cautious realism, moderation, gender equality
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjU5ODI1MTNdfQ==
+eyJoaXN0b3J5IjpbMTE0NTk5MTM3XX0=
 -->
