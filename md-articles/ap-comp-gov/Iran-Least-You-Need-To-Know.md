@@ -48,6 +48,18 @@
 
 ### Islamic Revolution of 1979
 
+#### Revolution of Rising Expectations
+
+### Hostage Crisis
+
+### Cultural Revolution 
+
+#### Comparison With China
+
+### Khatami
+See [Muhammad Khatami]
+#### Tehran Spring
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA1NTM2OTg0LDEwOTE3NTIyN119
+eyJoaXN0b3J5IjpbMTE3OTcxMzQ3OSwxMDkxNzUyMjddfQ==
 -->
