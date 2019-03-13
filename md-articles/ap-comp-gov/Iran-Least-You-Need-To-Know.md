@@ -142,7 +142,7 @@ ___
 ![](https://www5b.wolframalpha.com/Calculate/MSP/MSP1413188d2a12086d8i4d0000618fd8id5ebcc7cg?MSPStoreType=image/gif&s=37)
 ___
 #### Constitution of 1906
-
+The **Persia Constitution of 1906**[[2]](https://en.wikipedia.org/wiki/Persian_Constitution_of_1906#cite_note-2)[[3]](https://en.wikipedia.org/wiki/Persian_Constitution_of_1906#cite_note-3)[[4]](https://en.wikipedia.org/wiki/Persian_Constitution_of_1906#cite_note-4) ([Persian](https://en.wikipedia.org/wiki/Persian_language "Persian language"): قانون اساسی مشروطه 1906‎), was the first constitution of Persia ([Iran](https://en.wikipedia.org/wiki/Iran "Iran")) that resulted from the [Persian Constitutional Revolution](https://en.wikipedia.org/wiki/Persian_Constitutional_Revolution "Persian Constitutional Revolution") and it was written by [Hassan Pirnia](https://en.wikipedia.org/wiki/Hassan_Pirnia "Hassan Pirnia"), [Hossein Pirnia](https://en.wikipedia.org/wiki/Hossein_Pirnia "Hossein Pirnia"), and [Ismail Mumtaz](https://en.wikipedia.org/wiki/Ismail_Mumtaz "Ismail Mumtaz"), among others.[[5]](https://en.wikipedia.org/wiki/Persian_Constitution_of_1906#cite_note-5) It divides into five chapters with many articles that developed over several years. The [Belgian constitution](https://en.wikipedia.org/wiki/Constitution_of_Belgium "Constitution of Belgium"), like the constitutions of other European states, served as a partial model for the Iranian constitution.[[6]](https://en.wikipedia.org/wiki/Persian_Constitution_of_1906#cite_note-IranicaBELGIAN-6)
 #### Tehran
 
 #### Secularization
@@ -307,7 +307,7 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTczNTc2OCwtMTY0MDEzNTY1OCw4NT
+eyJoaXN0b3J5IjpbMTEyMzAzODEzNiwtMTY0MDEzNTY1OCw4NT
 UxNDI4MjYsLTE0NzQzMjkxNDUsLTQ5MTc1OTIzMCwtNDczOTMz
 NDQ0LDEzNjYzNzEzODksMTA5MTc1MjI3XX0=
 -->
