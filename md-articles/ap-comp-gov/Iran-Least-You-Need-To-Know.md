@@ -70,7 +70,16 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 #### *velayet -e faqih*
 
+## Legitimacy
+
+### Constitution of 1979
+
+### Religion
+
+### De
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NjM3MTM4OSwxMDkxNzUyMjddfQ==
+eyJoaXN0b3J5IjpbMTEyNTg3NDIsMTM2NjM3MTM4OSwxMDkxNz
+UyMjddfQ==
 -->
