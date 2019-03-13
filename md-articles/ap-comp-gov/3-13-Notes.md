@@ -1,7 +1,10 @@
 
 # 3/13 Iran Notes
 ## President Dr. Hassan Rouhani
-
+![](https://www.wolframcdn.com/waimage/hset028/bf4/bf48c74a8daf05e2332c0fad65e5059f_v001s.jpg)![full name | Hassan Rouhani
+date of birth | Friday, November 12, 1948 (age: 70 years)
+place of birth | Iran](https://www4b.wolframalpha.com/Calculate/MSP/MSP233023d6fc19e6540ecb00000ib7i5h3ag78dghd?MSPStoreType=image/gif&s=55)
+Hassan Rouhani (Standard born Hassan Fereydoun on 12 November 1948) is an Iranian politician serving as the current and seventh President of Iran since 3 August 2013. He was also a lawyer, academic, former diplomat and Islamic cleric.
 ### Early Life
 - Born in 1949
 - Grew up in a non-clerical household
@@ -26,5 +29,5 @@
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTk5MTM3XX0=
+eyJoaXN0b3J5IjpbMTE1MzkyNzIzMF19
 -->
