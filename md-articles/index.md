@@ -1,4 +1,4 @@
-# Welcome To Connor's Online Notes!
+\# Welcome To Connor's Online Notes!
 This is the homepage for  Connor's Online Notes. See the links below to view class notes.
 
 ## [AP Comparative Government](articles/ap-comp-gov/index.html)
@@ -17,7 +17,7 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 ### [Notes](articles/ib-chemistry/index.html#notes)
 | Most Recent Notes | Date | Teacher |
 |--|--|--|
-|  | -- | Karen McClean |
+| Ideal Gas Notes | 3/12/2019 | Karen McClean |
 
 ### [Study Guides](articles/ib-chemistry/index.html#study-guides)
 | Most Recent Study Guide | Test | Teacher |
@@ -35,6 +35,6 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 |--|--|--|
 | -- | -- | Christopher Devine |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjEzNTA3NTAsMjQ2NTY3ODUxLDIwNT
-YwOTU3OTAsLTIwMDIyMzg2NDhdfQ==
+eyJoaXN0b3J5IjpbODIyNTM2Mzg1LDI0NjU2Nzg1MSwyMDU2MD
+k1NzkwLC0yMDAyMjM4NjQ4XX0=
 -->
