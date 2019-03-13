@@ -100,9 +100,15 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 ### Rentier State
 
+### Import Substitution Idustrialization
+
+### Impact of Sanctions on Iran
+
+## Government Institutions
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5Mjg4MzY2OCwxMzY2MzcxMzg5LDEwOT
+eyJoaXN0b3J5IjpbMTEyOTU4MDc5NSwxMzY2MzcxMzg5LDEwOT
 E3NTIyN119
 -->
