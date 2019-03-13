@@ -16,7 +16,9 @@
 	 - National Security Council
 	 - Amassador to France, Syria, and North Korea
 	 - Chief nuclear negotiator
+- Rouhani proposed a deal that was favorable to most parties, but George W. Bush rejected it
+- Rouhani wrote many books on islamic law
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzAxMDAzNTVdfQ==
+eyJoaXN0b3J5IjpbMTcyMjU0MzE2N119
 -->
