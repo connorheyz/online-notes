@@ -136,11 +136,27 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 ## Political Parties
 
-### Khordad Front (Kh
+### Khordad Front
+
+## Electoral System
+
+### Single Member Plurality
+
+### Run-Off Elections for President
+
+## System of Law
+
+### Sharia
+
+## Public Policy
+
+### Population Policy
+
+### Wo
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyNzU1NDg5LDEzNjYzNzEzODksMTA5MT
-c1MjI3XX0=
+eyJoaXN0b3J5IjpbLTE0MTYwNzA0NTksMTM2NjM3MTM4OSwxMD
+kxNzUyMjddfQ==
 -->
