@@ -57,6 +57,15 @@ ___
  - Victim of assassination attack which left his right arm paralyzed for life
 Imprisoned intellectual dissenters and had riot police attack protesters in Tehran in 2010
 ### Muhammad Khatami
+#### General Information
+![full name | Mohammad Khatami
+date of birth | Wednesday, September 29, 1943 (age: 75 years)
+place of birth | Ardakan, Yazd, Iran](https://www5b.wolframalpha.com/Calculate/MSP/MSP12261123ie4999g042490000380e0hae7gccadd0?MSPStoreType=image/gif&s=30) 
+#### Leadership
+![official position | President
+country | Iran
+start date | August 3, 1997
+end date | August 3, 2005](https://www5b.wolframalpha.com/Calculate/MSP/MSP12291123ie4999g04249000044a750bh66gc3aa7?MSPStoreType=image/gif&s=30)
 
 ### Mahmoud Ahmadinejad
 
@@ -236,6 +245,6 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTc1OTIzMCwtNDczOTMzNDQ0LDEzNj
-YzNzEzODksMTA5MTc1MjI3XX0=
+eyJoaXN0b3J5IjpbLTkwNzIwNTI0NywtNDkxNzU5MjMwLC00Nz
+M5MzM0NDQsMTM2NjM3MTM4OSwxMDkxNzUyMjddfQ==
 -->
