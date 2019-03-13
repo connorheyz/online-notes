@@ -53,9 +53,9 @@ $n = 0.0127$ mol
 | 0.0127| 32.00g O$_2$ |
 |--|--| 
 | | 1 mol |
-= 0.406g
+= 0.406g O$_2$
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTkzMTA0NjQsNDYzNjY1MDIzXX0=
+eyJoaXN0b3J5IjpbLTYwODc2MDkyNCw0NjM2NjUwMjNdfQ==
 -->
