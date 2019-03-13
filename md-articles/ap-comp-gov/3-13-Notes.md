@@ -19,6 +19,9 @@
 - Rouhani proposed a deal that was favorable to most parties, but George W. Bush rejected it
 - Rouhani wrote many books on islamic law
 
+### 2013 Elections
+ - He ran the 2013 election on a reform platform
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMjU0MzE2N119
+eyJoaXN0b3J5IjpbLTEyMjU5ODI1MTNdfQ==
 -->
