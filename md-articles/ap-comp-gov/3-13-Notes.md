@@ -43,9 +43,10 @@ Ever since the revolution of 1979, Iran  has been in disarray. However, one pers
 	3. The Assembly may remove the Supreme Leader
 
 ### Jurist Guardianship
-Jurist Guardianship allows the government to act based on the great
+Jurist Guardianship allows the government to act based on the greater interest of islam. It allows them to do whatever they want.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg2ODIyMTI1LC0xNDcxOTg1MDMsMTk2OD
-U1MjExMCwtMTE1NTU1ODczNSwxNTI3NjE4MDQ0LC00NjM1OTEx
-NzUsLTc3MDU3MTc0NF19
+eyJoaXN0b3J5IjpbLTExNTgwMjIwMDAsLTE0NzE5ODUwMywxOT
+Y4NTUyMTEwLC0xMTU1NTU4NzM1LDE1Mjc2MTgwNDQsLTQ2MzU5
+MTE3NSwtNzcwNTcxNzQ0XX0=
 -->
