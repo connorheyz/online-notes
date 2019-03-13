@@ -106,9 +106,27 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 ## Government Institutions
 
+### Supreme Leader
+
+### President
+
+### Cabinet & Bureaucracy
+
+### Majiles
+
+### Guardian Council
+
+### Expediency Council
+
+### Assembly of Religious Experts
+
+### Judiciary
+
+#### Sharia
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyOTU4MDc5NSwxMzY2MzcxMzg5LDEwOT
-E3NTIyN119
+eyJoaXN0b3J5IjpbNTU3NzYwOTY4LDEzNjYzNzEzODksMTA5MT
+c1MjI3XX0=
 -->
