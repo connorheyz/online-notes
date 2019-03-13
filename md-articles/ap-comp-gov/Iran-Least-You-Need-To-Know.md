@@ -67,6 +67,7 @@ place of birth | Ardakan, Yazd, Iran](https://www5b.wolframalpha.com/Calculate/M
 country | Iran
 start date | August 3, 1997
 end date | August 3, 2005](https://www5b.wolframalpha.com/Calculate/MSP/MSP12291123ie4999g04249000044a750bh66gc3aa7?MSPStoreType=image/gif&s=30)
+Seyyed Mohammad Khatami (born 14 October 1943) is an Iranian scholar, Shia theologian, and reformist politician. He served as the fifth President of Iran from 3 August 1997 to 3 August 2005. He also served as Iran's Minister of Culture from 1982 to 1992. He was an outspoken critic of former President Mahmoud Ahmadinejad's government.
 ___
 #### Notable Facts
  - Scholar and politician who served as the President of Iran and became one of the leader's of the country's Green Movement
@@ -252,6 +253,6 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzYzODYxMDksLTQ5MTc1OTIzMCwtND
-czOTMzNDQ0LDEzNjYzNzEzODksMTA5MTc1MjI3XX0=
+eyJoaXN0b3J5IjpbMTkzMjkxMzIyMiwtNDkxNzU5MjMwLC00Nz
+M5MzM0NDQsMTM2NjM3MTM4OSwxMDkxNzUyMjddfQ==
 -->
