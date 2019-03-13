@@ -26,16 +26,16 @@ Hassan Rouhani (Standard born Hassan Fereydoun on 12 November 1948) is an Irania
 ### 2013 Elections
  - He ran the 2013 election on a reform platform
  - **Reformist Beliefs** -- cautious realism, moderation, gender equality, hope
- - Uses extremism to weaken the economy through mismanagement
+ - Critisized Ahmadinejad's administration for extremism to weaken the economy through mismanagement
  - Antagonizes the west
  - Khatami and Rafsanjani endorsed Rouhani
  - The supreme leader stayed above the fray. He concluded that the economic sanctions would require a more compromising foreign policy. His refusal to to back the conservative esured that the conservstive clerical institutions would not interfere with the elections
  
 ## Short Essay
-Ever since the revolution of 1979, Iran  has been in disarray. However, one person managed to dominate Iranian politics. Hassan Rouhani lived in a non-clerical household and eventually became a cleric himself. In 2013, after he held many positions in the government before, he ran for president. Hassan Rouhani won by a lot. This is because of three reasons. Hassan Rohani had personal connections with some of the leaders, he had experience in the government, and he appealed to Iran's masses. Hassan Rouhani served as the nuclear advisor to Khatami. This might have caused Khatami to be more enthusiastic when endorsing Rouhani. Hassan Rouhani also had experience in Iranian government in the past. He served on the National Security Council, the Assembly of Experts, and the ambassador to France, North Korea, and Syria. This means that Rouhani already knew how to gain influence in the Iranian government so he had the upper hand. Finally, he appealed to the Iranian masses. Rouhani had two things
+Ever since the revolution of 1979, Iran  has been in disarray. However, one person managed to dominate Iranian politics. Hassan Rouhani lived in a non-clerical household and eventually became a cleric himself. In 2013, after he held many positions in the government before, he ran for president. Hassan Rouhani won by a lot. This is because of three reasons. Hassan Rohani had personal connections with some of the leaders, he had experience in the government, and he appealed to Iran's masses. Hassan Rouhani served as the nuclear advisor to Khatami. This might have caused Khatami to be more enthusiastic when endorsing Rouhani. Hassan Rouhani also had experience in Iranian government in the past. He served on the National Security Council, the Assembly of Experts, and the ambassador to France, North Korea, and Syria. This means that Rouhani already knew how to gain influence in the Iranian government so he had the upper hand. Finally, he appealed to the Iranian masses. Rouhani had two things. He was a ""reformist""
 ## Current Event
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODc1NDkyMCwxNTI3NjE4MDQ0LC00Nj
+eyJoaXN0b3J5IjpbMTEzOTIwOTk5NSwxNTI3NjE4MDQ0LC00Nj
 M1OTExNzUsLTc3MDU3MTc0NF19
 -->
