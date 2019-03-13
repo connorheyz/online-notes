@@ -6,7 +6,7 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 
 | Most Recent Notes | Date | Teacher |
 |--|--|--|
-| [3/11 Tehran Documentary](ap-comp-gov/3-11-Notes.html) | 3/11/2019 | Scott Wilson |
+| 3/11 Tehran Documentary | 3/11/2019 | Scott Wilson |
 
 ### [Study Guides](articles/ap-comp-gov/index.html#study-guides)
 | Most Recent Study Guide | Test | Teacher |
@@ -17,7 +17,7 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 ### [Notes](articles/ib-chemistry/index.html#notes)
 | Most Recent Notes | Date | Teacher |
 |--|--|--|
-| -- | -- | Karen McClean |
+|  | -- | Karen McClean |
 
 ### [Study Guides](articles/ib-chemistry/index.html#study-guides)
 | Most Recent Study Guide | Test | Teacher |
@@ -35,6 +35,6 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 |--|--|--|
 | -- | -- | Christopher Devine |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ2NTY3ODUxLDIwNTYwOTU3OTAsLTIwMD
-IyMzg2NDhdfQ==
+eyJoaXN0b3J5IjpbLTE3NjEzNTA3NTAsMjQ2NTY3ODUxLDIwNT
+YwOTU3OTAsLTIwMDIyMzg2NDhdfQ==
 -->
