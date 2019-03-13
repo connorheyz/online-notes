@@ -100,6 +100,7 @@ ___
 ![full name | Mir-Hossein Mousavi Khameneh
 date of birth | Monday, September 29, 1941 (age: 77 years)
 place of birth | Iran](https://www5b.wolframalpha.com/Calculate/MSP/MSP26231c829dhdg9bea4c800005hee36e289b46hde?MSPStoreType=image/gif&s=39)
+> Mir-Hossein Mousavi Khameneh (born 2 March 1942) is an Iranian reformist politician, artist and architect who served as the seventy-ninth and last Prime Minister of Iran from 1981 to 1989. He was a reformist candidate for the 2009 presidential election and eventually the leader of the opposition in the post-election unrest. Mousavi served as the president of the Iranian Academy of Arts until 2009, when Conservative authorities removed him.
 #### Leadership
 ![official position | Prime Minister
 country | Iran
@@ -107,7 +108,11 @@ start date | October 31, 1981
 end date | August 3, 1989](https://www5b.wolframalpha.com/Calculate/MSP/MSP26261c829dhdg9bea4c800004224i6g1i3c5888c?MSPStoreType=image/gif&s=39)
 ___
 #### Notable Facts
-
+ - Politician who was the last Prime Minister of Iran and later the leader of the Green Movement
+ - Ran against President Mahmoud Ahmadinejad in the 2009 elections, and became leader of the opposition in the following unrest
+ - Began his term as prime minister in 1981, which ended when 1989 constitutional reforms abolished the post
+ - Artist and architect who was President of the Iranian Academy of Arts until he was removed by Conservative authorities in 2009
+ - Served as editor-in-chief of the Islamic Republican Newspaper before becoming Minister of Foreign Affairs
 ## History
 
 ### Safavids
@@ -282,6 +287,6 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg0MTE2MTM3LC00OTE3NTkyMzAsLTQ3Mz
-kzMzQ0NCwxMzY2MzcxMzg5LDEwOTE3NTIyN119
+eyJoaXN0b3J5IjpbMTM3NjQ2Nzc1MywtNDkxNzU5MjMwLC00Nz
+M5MzM0NDQsMTM2NjM3MTM4OSwxMDkxNzUyMjddfQ==
 -->
