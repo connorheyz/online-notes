@@ -32,10 +32,10 @@ Hassan Rouhani (Standard born Hassan Fereydoun on 12 November 1948) is an Irania
  - The supreme leader stayed above the fray. He concluded that the economic sanctions would require a more compromising foreign policy. His refusal to to back the conservative esured that the conservstive clerical institutions would not interfere with the elections
  
 ## Short Essay
-Ever since the revolution of 1979, Iran  has been in disarray. However, one person managed to dominate Iranian politics. Hassan Rouhani lived in a non-clerical household and eventually became a cleric himself. In 2013, after he held many positions in the government before, he ran for president. Hassan Rouhani won by a lot. This is because of three reasons. Hassan Rohani had personal connections with some of the leaders, he had experience in the government, and he appealed to Iran's masses. Hassan Rouhani served as the nuclear advisor to Khatami. This might have caused Khatami to 
+Ever since the revolution of 1979, Iran  has been in disarray. However, one person managed to dominate Iranian politics. Hassan Rouhani lived in a non-clerical household and eventually became a cleric himself. In 2013, after he held many positions in the government before, he ran for president. Hassan Rouhani won by a lot. This is because of three reasons. Hassan Rohani had personal connections with some of the leaders, he had experience in the government, and he appealed to Iran's masses. Hassan Rouhani served as the nuclear advisor to Khatami. This might have caused Khatami to be more enthusiastic when endorsing Rouhani. Hassan Rouhani also had experience in Iranian government in the past. He served on the National
 ## Current Event
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NzAwMDc1MiwtNDYzNTkxMTc1LC03Nz
-A1NzE3NDRdfQ==
+eyJoaXN0b3J5IjpbLTg1NTA4NjA1LC00NjM1OTExNzUsLTc3MD
+U3MTc0NF19
 -->
