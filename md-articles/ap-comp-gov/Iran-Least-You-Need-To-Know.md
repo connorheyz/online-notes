@@ -51,7 +51,7 @@ ___
 ![full name | Seyyed Ali Khamenei
 date of birth | Saturday, July 15, 1939 (age: 79 years)
 place of birth | Mashhad, Razavi Khorasan, Iran](https://www5b.wolframalpha.com/Calculate/MSP/MSP1738232252h2b3f65ah700005i7b80hi2042888f?MSPStoreType=image/gif&s=51)
-> Sayyid Ali Hosseini Khamenei (born 17 July 1939) is a marja and the second and current Supreme Leader of Iran, in office since 1989. He was previously President of Iran from 1981 to 1989. Khamenei is the second-longest serving head of state in the Middle East (after Oman's Sultan Qaboos), as well as the second-longest serving Iranian leader of the last century, after Shah Mohammed Reza Pahlavi.
+Sayyid Ali Hosseini Khamenei (born 17 July 1939) is a marja and the second and current Supreme Leader of Iran, in office since 1989. He was previously President of Iran from 1981 to 1989. Khamenei is the second-longest serving head of state in the Middle East (after Oman's Sultan Qaboos), as well as the second-longest serving Iranian leader of the last century, after Shah Mohammed Reza Pahlavi.
 #### Leadership
 ![official position | Rahbar
 country | Iran
@@ -68,7 +68,7 @@ ___
 ![full name | Mohammad Khatami
 date of birth | Wednesday, September 29, 1943 (age: 75 years)
 place of birth | Ardakan, Yazd, Iran](https://www5b.wolframalpha.com/Calculate/MSP/MSP12261123ie4999g042490000380e0hae7gccadd0?MSPStoreType=image/gif&s=30) 
-> Seyyed Mohammad Khatami (born 14 October 1943) is an Iranian scholar, Shia theologian, and reformist politician. He served as the fifth President of Iran from 3 August 1997 to 3 August 2005. He also served as Iran's Minister of Culture from 1982 to 1992. He was an outspoken critic of former President Mahmoud Ahmadinejad's government.
+Seyyed Mohammad Khatami (born 14 October 1943) is an Iranian scholar, Shia theologian, and reformist politician. He served as the fifth President of Iran from 3 August 1997 to 3 August 2005. He also served as Iran's Minister of Culture from 1982 to 1992. He was an outspoken critic of former President Mahmoud Ahmadinejad's government.
 #### Leadership
 ![official position | President
 country | Iran
@@ -86,7 +86,7 @@ ___
 ![full name | Mahmoud Ahmadinejad
 date of birth | Sunday, October 28, 1956 (age: 62 years)
 place of birth | Garmsar, Semnan, Iran](https://www5b.wolframalpha.com/Calculate/MSP/MSP19510ia222hc97642gc0000159aie65d9g93ii9?MSPStoreType=image/gif&s=26)
->Mahmoud Ahmadinejad (born Mahmoud Sabbaghian on 28 October 1956) is an Iranian politician who was the sixth President of Iran from 2005 to 2013. He was also the main political leader of the Alliance of Builders of Islamic Iran, a coalition of conservative political groups in the country.
+Mahmoud Ahmadinejad (born Mahmoud Sabbaghian on 28 October 1956) is an Iranian politician who was the sixth President of Iran from 2005 to 2013. He was also the main political leader of the Alliance of Builders of Islamic Iran, a coalition of conservative political groups in the country.
 #### Leadership
 ![official position | President
 country | Iran
@@ -106,7 +106,7 @@ ___
 ![full name | Mir-Hossein Mousavi Khameneh
 date of birth | Monday, September 29, 1941 (age: 77 years)
 place of birth | Iran](https://www5b.wolframalpha.com/Calculate/MSP/MSP26231c829dhdg9bea4c800005hee36e289b46hde?MSPStoreType=image/gif&s=39)
-> Mir-Hossein Mousavi Khameneh (born 2 March 1942) is an Iranian reformist politician, artist and architect who served as the seventy-ninth and last Prime Minister of Iran from 1981 to 1989. He was a reformist candidate for the 2009 presidential election and eventually the leader of the opposition in the post-election unrest. Mousavi served as the president of the Iranian Academy of Arts until 2009, when Conservative authorities removed him.
+Mir-Hossein Mousavi Khameneh (born 2 March 1942) is an Iranian reformist politician, artist and architect who served as the seventy-ninth and last Prime Minister of Iran from 1981 to 1989. He was a reformist candidate for the 2009 presidential election and eventually the leader of the opposition in the post-election unrest. Mousavi served as the president of the Iranian Academy of Arts until 2009, when Conservative authorities removed him.
 #### Leadership
 ![official position | Prime Minister
 country | Iran
@@ -307,7 +307,7 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzA5MjM2MiwtMTY0MDEzNTY1OCw4NT
+eyJoaXN0b3J5IjpbMTM3NTczNTc2OCwtMTY0MDEzNTY1OCw4NT
 UxNDI4MjYsLTE0NzQzMjkxNDUsLTQ5MTc1OTIzMCwtNDczOTMz
 NDQ0LDEzNjYzNzEzODksMTA5MTc1MjI3XX0=
 -->
