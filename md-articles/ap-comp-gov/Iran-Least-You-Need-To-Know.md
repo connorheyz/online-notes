@@ -21,6 +21,7 @@ ___
  - Nationalized the Iranian oil industry, previously controlled by Great Britain, and introduced progressive social reforms
 ___
 ### Ayatollah Ruhollah Khomeini
+#### Basic Information
 ![full name | Ruhollah Musavi Khomeini
 date of birth | Tuesday, September 24, 1902 (Julian calendar) (116 years ago)
 place of birth | Khomeyn, Markazi, Iran
@@ -43,13 +44,15 @@ ___
 - Iraq's 1980 invasion rallied Iranians behind Khomeini's regime and allowed him to consolidate and stabilize his leadership
 ___
 ### Ayatollah Ali Khamenei
+#### Basic Information
 ![full name | Seyyed Ali Khamenei
 date of birth | Saturday, July 15, 1939 (age: 79 years)
 place of birth | Mashhad, Razavi Khorasan, Iran](https://www5b.wolframalpha.com/Calculate/MSP/MSP1738232252h2b3f65ah700005i7b80hi2042888f?MSPStoreType=image/gif&s=51)
+> Sayyid Ali Hosseini Khamenei (born 17 July 1939) is a marja and the second and current Supreme Leader of Iran, in office since 1989. He was previously President of Iran from 1981 to 1989. Khamenei is the second-longest serving head of state in the Middle East (after Oman's Sultan Qaboos), as well as the second-longest serving Iranian leader of the last century, after Shah Mohammed Reza Pahlavi.
+#### Leadership
 ![official position | Rahbar
 country | Iran
 start date | June 4, 1989](https://www5b.wolframalpha.com/Calculate/MSP/MSP1741232252h2b3f65ah700005g0cgbchfdi6e121?MSPStoreType=image/gif&s=51)
-Sayyid Ali Hosseini Khamenei (born 17 July 1939) is a marja and the second and current Supreme Leader of Iran, in office since 1989. He was previously President of Iran from 1981 to 1989. Khamenei is the second-longest serving head of state in the Middle East (after Oman's Sultan Qaboos), as well as the second-longest serving Iranian leader of the last century, after Shah Mohammed Reza Pahlavi.
 ___
 #### Notable Facts
  - Iranian politician known as one of three people considered to have had important influences on the Islamic Republic of Iran
@@ -62,12 +65,12 @@ ___
 ![full name | Mohammad Khatami
 date of birth | Wednesday, September 29, 1943 (age: 75 years)
 place of birth | Ardakan, Yazd, Iran](https://www5b.wolframalpha.com/Calculate/MSP/MSP12261123ie4999g042490000380e0hae7gccadd0?MSPStoreType=image/gif&s=30) 
+> Seyyed Mohammad Khatami (born 14 October 1943) is an Iranian scholar, Shia theologian, and reformist politician. He served as the fifth President of Iran from 3 August 1997 to 3 August 2005. He also served as Iran's Minister of Culture from 1982 to 1992. He was an outspoken critic of former President Mahmoud Ahmadinejad's government.
 #### Leadership
 ![official position | President
 country | Iran
 start date | August 3, 1997
 end date | August 3, 2005](https://www5b.wolframalpha.com/Calculate/MSP/MSP12291123ie4999g04249000044a750bh66gc3aa7?MSPStoreType=image/gif&s=30)
-Seyyed Mohammad Khatami (born 14 October 1943) is an Iranian scholar, Shia theologian, and reformist politician. He served as the fifth President of Iran from 3 August 1997 to 3 August 2005. He also served as Iran's Minister of Culture from 1982 to 1992. He was an outspoken critic of former President Mahmoud Ahmadinejad's government.
 ___
 #### Notable Facts
  - Scholar and politician who served as the President of Iran and became one of the leader's of the country's Green Movement
@@ -287,6 +290,6 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NjQ2Nzc1MywtNDkxNzU5MjMwLC00Nz
-M5MzM0NDQsMTM2NjM3MTM4OSwxMDkxNzUyMjddfQ==
+eyJoaXN0b3J5IjpbLTE5MjM3NzY5NzYsLTQ5MTc1OTIzMCwtND
+czOTMzNDQ0LDEzNjYzNzEzODksMTA5MTc1MjI3XX0=
 -->
