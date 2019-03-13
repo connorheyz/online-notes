@@ -10,7 +10,6 @@ place of birth | Tehran, Tehran, Iran
 date of death | Sunday, March 5, 1967 (Gregorian calendar) (age: 84 years) 
  (52 years ago)
 place of death | Tehran, Tehran, Iran](https://www5b.wolframalpha.com/Calculate/MSP/MSP17961c829ccf5ac2355d000025dh421301c903bb?MSPStoreType=image/gif&s=39)
-| full name |
 > Mohammad Mosaddegh (16 June 1882 - 5 March 1967) was the 35th prime minister of Iran, holding office from 1951 until 1953, when his government was overthrown in a coup d'état orchestrated by the United States' Central Intelligence Agency and the United Kingdom's MI6.
 #### Leadership
 ![official position | Prime Minister | Prime Minister
@@ -294,7 +293,7 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDY5NDg5OCwtMTQ3NDMyOTE0NSwtND
-kxNzU5MjMwLC00NzM5MzM0NDQsMTM2NjM3MTM4OSwxMDkxNzUy
-MjddfQ==
+eyJoaXN0b3J5IjpbODU1MTQyODI2LC0xNDc0MzI5MTQ1LC00OT
+E3NTkyMzAsLTQ3MzkzMzQ0NCwxMzY2MzcxMzg5LDEwOTE3NTIy
+N119
 -->
