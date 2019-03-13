@@ -32,10 +32,10 @@ Hassan Rouhani (Standard born Hassan Fereydoun on 12 November 1948) is an Irania
  - The supreme leader stayed above the fray. He concluded that the economic sanctions would require a more compromising foreign policy. His refusal to to back the conservative esured that the conservstive clerical institutions would not interfere with the elections
  
 ## Short Essay
-
+Ever since the revolution of 1979, Iran  has been in disarray. However, one person managed to dominate Iranian politics. Hassan 
 ## Current Event
-Ever since the revolution of 1979, Iran  has been in disarray. However, one person managed to dominate Iranian politics
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MjY5Mjc0OSwtNDYzNTkxMTc1LC03Nz
-A1NzE3NDRdfQ==
+eyJoaXN0b3J5IjpbMTg1NzMyODU3LC00NjM1OTExNzUsLTc3MD
+U3MTc0NF19
 -->
