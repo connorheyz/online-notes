@@ -49,10 +49,11 @@ place of birth | Mashhad, Razavi Khorasan, Iran](https://www5b.wolframalpha.com/
 ![official position | Rahbar
 country | Iran
 start date | June 4, 1989](https://www5b.wolframalpha.com/Calculate/MSP/MSP1741232252h2b3f65ah700005g0cgbchfdi6e121?MSPStoreType=image/gif&s=51)
+Sayyid Ali Hosseini Khamenei (born 17 July 1939) is a marja and the second and current Supreme Leader of Iran, in office since 1989. He was previously President of Iran from 1981 to 1989. Khamenei is the second-longest serving head of state in the Middle East (after Oman's Sultan Qaboos), as well as the second-longest serving Iranian leader of the last century, after Shah Mohammed Reza Pahlavi.
 ___
 #### Notable Facts
  - Iranian politician known as one of three people considered to have had important influences on the Islamic Republic of Iran
-Supported the re-election of Mahmoud Ahmadinejad amidst the protests following the 2009 presidential elections
+ - Supported the re-election of Mahmoud Ahmadinejad amidst the protests following the 2009 presidential elections
  - Victim of assassination attack which left his right arm paralyzed for life
 Imprisoned intellectual dissenters and had riot police attack protesters in Tehran in 2010
 ### Muhammad Khatami
@@ -235,6 +236,6 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NzM2OTY2MSwtNDczOTMzNDQ0LDEzNj
+eyJoaXN0b3J5IjpbLTQ5MTc1OTIzMCwtNDczOTMzNDQ0LDEzNj
 YzNzEzODksMTA5MTc1MjI3XX0=
 -->
