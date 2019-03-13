@@ -10,7 +10,7 @@ place of birth | Tehran, Tehran, Iran
 date of death | Sunday, March 5, 1967 (Gregorian calendar) (age: 84 years) 
  (52 years ago)
 place of death | Tehran, Tehran, Iran](https://www5b.wolframalpha.com/Calculate/MSP/MSP17961c829ccf5ac2355d000025dh421301c903bb?MSPStoreType=image/gif&s=39)
-> Mohammad Mosaddegh (16 June 1882 - 5 March 1967) was the 35th prime minister of Iran, holding office from 1951 until 1953, when his government was overthrown in a coup d'état orchestrated by the United States' Central Intelligence Agency and the United Kingdom's MI6.
+Mohammad Mosaddegh (16 June 1882 - 5 March 1967) was the 35th prime minister of Iran, holding office from 1951 until 1953, when his government was overthrown in a coup d'état orchestrated by the United States' Central Intelligence Agency and the United Kingdom's MI6.
 #### Leadership
 ![official position | Prime Minister | Prime Minister
 country | Iran | Iran
@@ -30,7 +30,7 @@ place of birth | Khomeyn, Markazi, Iran
 date of death | Saturday, June 3, 1989 (Gregorian calendar) (age: 86 years) 
  (29 years ago)
 place of death | Tehran, Tehran, Iran](https://www5b.wolframalpha.com/Calculate/MSP/MSP5361gf09bi24ddc8aig000064ae9i9d0agh55fi?MSPStoreType=image/gif&s=41)
-> Sayyid Ruhollah Mūsavi Khomeini (24 September 1902 - 3 June 1989), known in the Western world as Ayatollah Khomeini, was an Iranian politician and marja. He was the founder of the Islamic Republic of Iran and the leader of the 1979 Iranian Revolution that saw the overthrow of the last Shah of Iran.
+Sayyid Ruhollah Mūsavi Khomeini (24 September 1902 - 3 June 1989), known in the Western world as Ayatollah Khomeini, was an Iranian politician and marja. He was the founder of the Islamic Republic of Iran and the leader of the 1979 Iranian Revolution that saw the overthrow of the last Shah of Iran.
 #### Leadership
 ![official position | Leader of the Revolution | Rahbar
 country | Iran | Iran
@@ -136,6 +136,7 @@ The Safavid dynasty established the Twelver school of Shia Islam as the official
 #### Basic Information
 ![full name | Qajar Empire
 dates | 1794 to 1925](https://www5b.wolframalpha.com/Calculate/MSP/MSP1231fb3gf3ib3605i6d000035e12078aiag2271?MSPStoreType=image/gif&s=52)
+The Qajar dynasty (listen;also Romanised as Ghajar, Kadjar, Qachar etc.) was an Iranian royal dynasty of Turkic origin, specifically from the Qajar tribe, which ruled Persia (Iran) from 1794 to 1925. The state ruled by the dynasty was officially known as the Sublime State of Persia. The Qajar family took full control of Iran in 1794, deposing Lotf 'Ali Khan
 ___
 #### Location
 ![](https://www5b.wolframalpha.com/Calculate/MSP/MSP1413188d2a12086d8i4d0000618fd8id5ebcc7cg?MSPStoreType=image/gif&s=37)
@@ -306,7 +307,7 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwMzgwMDgyLC0xNjQwMTM1NjU4LDg1NT
-E0MjgyNiwtMTQ3NDMyOTE0NSwtNDkxNzU5MjMwLC00NzM5MzM0
-NDQsMTM2NjM3MTM4OSwxMDkxNzUyMjddfQ==
+eyJoaXN0b3J5IjpbLTU1MzA5MjM2MiwtMTY0MDEzNTY1OCw4NT
+UxNDI4MjYsLTE0NzQzMjkxNDUsLTQ5MTc1OTIzMCwtNDczOTMz
+NDQ0LDEzNjYzNzEzODksMTA5MTc1MjI3XX0=
 -->
