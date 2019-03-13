@@ -19,7 +19,7 @@ ___
  - Prime Minister of Iran for two years until his 1953 overthrow in a coup organized by the United States Central Intelligence Agency
 
  - Nationalized the Iranian oil industry, previously controlled by Great Britain, and introduced progressive social reforms
-
+___
 ### Ayatollah Ruhollah Khomeini
 
 ### Ayatollah Ali Khamenei
@@ -204,6 +204,6 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NTQyNTQ5NywtNDczOTMzNDQ0LDEzNj
-YzNzEzODksMTA5MTc1MjI3XX0=
+eyJoaXN0b3J5IjpbLTE0NTE0MTAzNTQsLTQ3MzkzMzQ0NCwxMz
+Y2MzcxMzg5LDEwOTE3NTIyN119
 -->
