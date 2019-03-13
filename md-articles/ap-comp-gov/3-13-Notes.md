@@ -45,8 +45,13 @@ Ever since the revolution of 1979, Iran  has been in disarray. However, one pers
 ### Jurist Guardianship
 Jurist Guardianship allows the government to act based on the greater interest of islam. It allows them to do whatever they want.
 
+### Women
+There is a higher percentage of women in college. However, they are "equal but different" which gives men more power in some areas.
+
+### Population Skyrockets
+In 1989, the population grew to 3.2 million. In th
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTgwMjIwMDAsLTE0NzE5ODUwMywxOT
-Y4NTUyMTEwLC0xMTU1NTU4NzM1LDE1Mjc2MTgwNDQsLTQ2MzU5
-MTE3NSwtNzcwNTcxNzQ0XX0=
+eyJoaXN0b3J5IjpbOTQzMTYyNzY2LC0xNDcxOTg1MDMsMTk2OD
+U1MjExMCwtMTE1NTU1ODczNSwxNTI3NjE4MDQ0LC00NjM1OTEx
+NzUsLTc3MDU3MTc0NF19
 -->
