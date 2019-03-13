@@ -80,6 +80,7 @@ ___
 ![full name | Mahmoud Ahmadinejad
 date of birth | Sunday, October 28, 1956 (age: 62 years)
 place of birth | Garmsar, Semnan, Iran](https://www5b.wolframalpha.com/Calculate/MSP/MSP19510ia222hc97642gc0000159aie65d9g93ii9?MSPStoreType=image/gif&s=26)
+>Mahmoud Ahmadinejad (born Mahmoud Sabbaghian on 28 October 1956) is an Iranian politician who was the sixth President of Iran from 2005 to 2013. He was also the main political leader of the Alliance of Builders of Islamic Iran, a coalition of conservative political groups in the country.
 #### Leadership
 ![official position | President
 country | Iran
@@ -270,6 +271,6 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTM2ODcyMSwtNDkxNzU5MjMwLC00Nz
+eyJoaXN0b3J5IjpbMTMxNTk2NjQzNywtNDkxNzU5MjMwLC00Nz
 M5MzM0NDQsMTM2NjM3MTM4OSwxMDkxNzUyMjddfQ==
 -->
