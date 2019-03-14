@@ -11,8 +11,7 @@
  
 Mohammad Mosaddegh (16 June 1882 - 5 March 1967) was the 35th prime minister of Iran, holding office from 1951 until 1953, when his government was overthrown in a coup d'état orchestrated by the United States' Central Intelligence Agency and the United Kingdom's MI6.
 #### Leadership
-![official position | Prime Minister | Prime Minister
-country | Iran | Iran
+![official position | Prime Minister | country | Iran
 start date | April 30, 1951 | July 22, 1952
 end date | July 17, 1952 | August 19, 1953](https://www5b.wolframalpha.com/Calculate/MSP/MSP18031c829ccf5ac2355d000064c8i2ed5485hg7d?MSPStoreType=image/gif&s=39)
 ___
@@ -309,8 +308,8 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTY1MDUzNywtMTMyMjAzNTMwNiwtND
-Q5ODUzMjg5LC0xNjQwMTM1NjU4LDg1NTE0MjgyNiwtMTQ3NDMy
-OTE0NSwtNDkxNzU5MjMwLC00NzM5MzM0NDQsMTM2NjM3MTM4OS
-wxMDkxNzUyMjddfQ==
+eyJoaXN0b3J5IjpbMTU2NzA3ODY5LC0xMzIyMDM1MzA2LC00ND
+k4NTMyODksLTE2NDAxMzU2NTgsODU1MTQyODI2LC0xNDc0MzI5
+MTQ1LC00OTE3NTkyMzAsLTQ3MzkzMzQ0NCwxMzY2MzcxMzg5LD
+EwOTE3NTIyN119
 -->
