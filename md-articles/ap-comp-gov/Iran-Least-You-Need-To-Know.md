@@ -24,6 +24,7 @@ place of birth | Khomeyn, Markazi, Iran
 date of death | Saturday, June 3, 1989 (Gregorian calendar) (age: 86 years) 
  (29 years ago)
 place of death | Tehran, Tehran, Iran](https://www5b.wolframalpha.com/Calculate/MSP/MSP5361gf09bi24ddc8aig000064ae9i9d0agh55fi?MSPStoreType=image/gif&s=41)
+
 Sayyid Ruhollah Mūsavi Khomeini (24 September 1902 - 3 June 1989), known in the Western world as Ayatollah Khomeini, was an Iranian politician and marja. He was the founder of the Islamic Republic of Iran and the leader of the 1979 Iranian Revolution that saw the overthrow of the last Shah of Iran.
 #### Leadership
 ![official position | Leader of the Revolution | Rahbar
@@ -304,8 +305,8 @@ See [Muhammad Khatami](#muhammad-khatami)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMjY3MTczNCwzOTM1NTg0NzAsLTEzMj
-IwMzUzMDYsLTQ0OTg1MzI4OSwtMTY0MDEzNTY1OCw4NTUxNDI4
-MjYsLTE0NzQzMjkxNDUsLTQ5MTc1OTIzMCwtNDczOTMzNDQ0LD
-EzNjYzNzEzODksMTA5MTc1MjI3XX0=
+eyJoaXN0b3J5IjpbLTEwOTgxOTM1MDAsMTUzMjY3MTczNCwzOT
+M1NTg0NzAsLTEzMjIwMzUzMDYsLTQ0OTg1MzI4OSwtMTY0MDEz
+NTY1OCw4NTUxNDI4MjYsLTE0NzQzMjkxNDUsLTQ5MTc1OTIzMC
+wtNDczOTMzNDQ0LDEzNjYzNzEzODksMTA5MTc1MjI3XX0=
 -->
