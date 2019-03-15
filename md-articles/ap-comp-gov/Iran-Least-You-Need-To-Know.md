@@ -1,15 +1,18 @@
+@import "https://stackedit.io/style.css"
 # Iran Least You Need To Know
-
+## General Information About Iran
+![4j3gzc3h](/assets/images/4j3gzc3h.bmp)
+![tmrrpjj6](/assets/images/tmrrpjj6.bmp)
+![bt8cmiqi](/assets/images/bt8cmiqi.bmp)
+![jn9mz7fs](/assets/images/jn9mz7fs.bmp)
 ## People
 
 ### Mohammed Mossadegh
 #### Basic Information
- 
+![](../../assets/images/gi_mohammed_mossadegh.png)
 Mohammad Mosaddegh (16 June 1882 - 5 March 1967) was the 35th prime minister of Iran, holding office from 1951 until 1953, when his government was overthrown in a coup d'état orchestrated by the United States' Central Intelligence Agency and the United Kingdom's MI6.
 #### Leadership
-![official position | Prime Minister | country | Iran |
- start date | April 30, 1951 - July 22, 1952
-end date | July 17, 1952 | August 19, 1953 |
+![](../../assets/images/lp_mohammed_mossadegh.png)
 ___
 #### Notable Facts
  - Prime Minister of Iran for two years until his 1953 overthrow in a coup organized by the United States Central Intelligence Agency
@@ -18,57 +21,40 @@ ___
 ___
 ### Ayatollah Ruhollah Khomeini
 #### Basic Information
-![full name | Ruhollah Musavi Khomeini
-date of birth | Tuesday, September 24, 1902 (Julian calendar) (116 years ago)
-place of birth | Khomeyn, Markazi, Iran
-date of death | Saturday, June 3, 1989 (Gregorian calendar) (age: 86 years) 
- (29 years ago)
-place of death | Tehran, Tehran, Iran](https://www5b.wolframalpha.com/Calculate/MSP/MSP5361gf09bi24ddc8aig000064ae9i9d0agh55fi?MSPStoreType=image/gif&s=41)
+![](../../assets/images/gi_ayatollah_khomeini.png)
 
 Sayyid Ruhollah Mūsavi Khomeini (24 September 1902 - 3 June 1989), known in the Western world as Ayatollah Khomeini, was an Iranian politician and marja. He was the founder of the Islamic Republic of Iran and the leader of the 1979 Iranian Revolution that saw the overthrow of the last Shah of Iran.
 #### Leadership
-![official position | Leader of the Revolution | Rahbar
-country | Iran | Iran
-start date | February 5, 1979 | January 1, 1980
-end date | February 4, 1980 | June 3, 1989](https://www5b.wolframalpha.com/Calculate/MSP/MSP5431gf09bi24ddc8aig00001258f0763i7978b8?MSPStoreType=image/gif&s=41)
+![](../../assets/images/lp_ayatollah_khomeini.png)
 ___
 #### Notable Facts
  - Grand Ayatollah and leader of 1979 Iranian Revolution which deposed the Shah, and became Supreme Leader, the highest ranking political and religious authority
  - Issued a fatwa in 1989 calling for the death of British citizen Salman Rushdie for blasphemy of his novel The Satanic Verses
  - Supported hostage takers during the 1979 hostage crisis when 66 Americans were held by Islamic students and militants for 444 days
  - Returned to Iran from exile in 1979, welcomed by a crowd of millions, and claimed authority in opposition to the Shapour Bakhtiar's provisional government
-- Prior to the Iranian Revolution spent more than 14 years in exile, mostly in the holy Shia city of Najaf, Iraq
-- As a marja in Twelver Shi'a Islam, advocated expanding the role of clerical authority to include governing by theocracy of Islamic jurists
-- Iraq's 1980 invasion rallied Iranians behind Khomeini's regime and allowed him to consolidate and stabilize his leadership
+ - Prior to the Iranian Revolution spent more than 14 years in exile, mostly in the holy Shia city of Najaf, Iraq
+ - As a marja in Twelver Shi'a Islam, advocated expanding the role of clerical authority to include governing by theocracy of Islamic jurists
+ - Iraq's 1980 invasion rallied Iranians behind Khomeini's regime and allowed him to consolidate and stabilize his leadership
 ___
 ### Ayatollah Ali Khamenei
 #### Basic Information
-![full name | Seyyed Ali Khamenei
-date of birth | Saturday, July 15, 1939 (age: 79 years)
-place of birth | Mashhad, Razavi Khorasan, Iran](https://www5b.wolframalpha.com/Calculate/MSP/MSP1738232252h2b3f65ah700005i7b80hi2042888f?MSPStoreType=image/gif&s=51)
+![](../../assets/images/gi_ayatollah_khamenei.png)
 Sayyid Ali Hosseini Khamenei (born 17 July 1939) is a marja and the second and current Supreme Leader of Iran, in office since 1989. He was previously President of Iran from 1981 to 1989. Khamenei is the second-longest serving head of state in the Middle East (after Oman's Sultan Qaboos), as well as the second-longest serving Iranian leader of the last century, after Shah Mohammed Reza Pahlavi.
 #### Leadership
-![official position | Rahbar
-country | Iran
-start date | June 4, 1989](https://www5b.wolframalpha.com/Calculate/MSP/MSP1741232252h2b3f65ah700005g0cgbchfdi6e121?MSPStoreType=image/gif&s=51)
+![](../../assets/images/lp_ayatollah_khamenei.png)
 ___
 #### Notable Facts
  - Iranian politician known as one of three people considered to have had important influences on the Islamic Republic of Iran
  - Supported the re-election of Mahmoud Ahmadinejad amidst the protests following the 2009 presidential elections
  - Victim of assassination attack which left his right arm paralyzed for life
-Imprisoned intellectual dissenters and had riot police attack protesters in Tehran in 2010
+ - Imprisoned intellectual dissenters and had riot police attack protesters in Tehran in 2010
 ___
-### Muhammad Khatami
+### Mohammad Khatami
 #### General Information
-![full name | Mohammad Khatami
-date of birth | Wednesday, September 29, 1943 (age: 75 years)
-place of birth | Ardakan, Yazd, Iran](https://www5b.wolframalpha.com/Calculate/MSP/MSP12261123ie4999g042490000380e0hae7gccadd0?MSPStoreType=image/gif&s=30) 
+![](../../assets/images/gi_mohammad_khatami.png)
 Seyyed Mohammad Khatami (born 14 October 1943) is an Iranian scholar, Shia theologian, and reformist politician. He served as the fifth President of Iran from 3 August 1997 to 3 August 2005. He also served as Iran's Minister of Culture from 1982 to 1992. He was an outspoken critic of former President Mahmoud Ahmadinejad's government.
 #### Leadership
-![official position | President
-country | Iran
-start date | August 3, 1997
-end date | August 3, 2005](https://www5b.wolframalpha.com/Calculate/MSP/MSP12291123ie4999g04249000044a750bh66gc3aa7?MSPStoreType=image/gif&s=30)
+![](../../assets/images/lp_mohammad_khatami.png)
 ___
 #### Notable Facts
  - Scholar and politician who served as the President of Iran and became one of the leader's of the country's Green Movement
@@ -78,15 +64,10 @@ ___
 ___
 ### Mahmoud Ahmadinejad
 #### Basic Information
-![full name | Mahmoud Ahmadinejad
-date of birth | Sunday, October 28, 1956 (age: 62 years)
-place of birth | Garmsar, Semnan, Iran](https://www5b.wolframalpha.com/Calculate/MSP/MSP19510ia222hc97642gc0000159aie65d9g93ii9?MSPStoreType=image/gif&s=26)
+![](../../assets/images/gi_mahmoud_ahmadinejad.png)
 Mahmoud Ahmadinejad (born Mahmoud Sabbaghian on 28 October 1956) is an Iranian politician who was the sixth President of Iran from 2005 to 2013. He was also the main political leader of the Alliance of Builders of Islamic Iran, a coalition of conservative political groups in the country.
 #### Leadership
-![official position | President
-country | Iran
-start date | August 3, 2005
-end date | August 3, 2013](https://www5b.wolframalpha.com/Calculate/MSP/MSP19810ia222hc97642gc0000681g058352323b02?MSPStoreType=image/gif&s=26)
+![](../../assets/images/lp_mahmoud_ahmadinejad.png)
 ___
 #### Notable Facts
  - Former President of the Islamic Republic of Iran, a controversial figure both within and outside of Iran for his economic weaknesses and perceived disregard for human rights
@@ -98,15 +79,10 @@ ___
  ___
 ### Mir-Hossein Mousavi
 #### Basic Information
-![full name | Mir-Hossein Mousavi Khameneh
-date of birth | Monday, September 29, 1941 (age: 77 years)
-place of birth | Iran](https://www5b.wolframalpha.com/Calculate/MSP/MSP26231c829dhdg9bea4c800005hee36e289b46hde?MSPStoreType=image/gif&s=39)
+![](../../assets/images/gi_mir-hossein_mousavi.png)
 Mir-Hossein Mousavi Khameneh (born 2 March 1942) is an Iranian reformist politician, artist and architect who served as the seventy-ninth and last Prime Minister of Iran from 1981 to 1989. He was a reformist candidate for the 2009 presidential election and eventually the leader of the opposition in the post-election unrest. Mousavi served as the president of the Iranian Academy of Arts until 2009, when Conservative authorities removed him.
 #### Leadership
-![official position | Prime Minister
-country | Iran
-start date | October 31, 1981
-end date | August 3, 1989](https://www5b.wolframalpha.com/Calculate/MSP/MSP26261c829dhdg9bea4c800004224i6g1i3c5888c?MSPStoreType=image/gif&s=39)
+![](../../assets/images/lp_mir-hossein_mousavi.png)
 ___
 #### Notable Facts
  - Politician who was the last Prime Minister of Iran and later the leader of the Green Movement
@@ -115,27 +91,26 @@ ___
  - Artist and architect who was President of the Iranian Academy of Arts until he was removed by Conservative authorities in 2009
  - Served as editor-in-chief of the Islamic Republican Newspaper before becoming Minister of Foreign Affairs
 ## History
-
 ### Safavids
+#### Time Period
+```mermaid
+graph LR
+d1[1501] --> d2[1736]
+```
 #### Basic Information
-![full name | Safavid Empire
-dates | ≈ 1501 to 1736](https://www5b.wolframalpha.com/Calculate/MSP/MSP15681hc9ga1hb51ff4h800006338h15f7f55bhie?MSPStoreType=image/gif&s=54)
  The Safavid dynasty was one of the most significant ruling dynasties of Iran, often considered the beginning of modern Iranian history. The Safavid shahs ruled over one of the Gunpowder Empires. They ruled one of the greatest Iranian empires after the 7th-century Muslim conquest of Iran.
-___
-#### Location
-![](https://www5b.wolframalpha.com/Calculate/MSP/MSP120016eg9cahc9h0ih10000040h86h110840867f?MSPStoreType=image/gif&s=13)
 ___
 #### Introduction of Shi'ism
 The Safavid dynasty established the Twelver school of Shia Islam as the official religion of the empire, marking one of the most important turning points in Muslim history.
 ### Qajars
+#### Time Period
+```mermaid
+graph LR
+d1[1794] --> d2[1925]
+```
 #### Basic Information
-![full name | Qajar Empire
-dates | 1794 to 1925](https://www5b.wolframalpha.com/Calculate/MSP/MSP1231fb3gf3ib3605i6d000035e12078aiag2271?MSPStoreType=image/gif&s=52)
-The Qajar dynasty (listen;also Romanised as Ghajar, Kadjar, Qachar etc.) was an Iranian royal dynasty of Turkic origin, specifically from the Qajar tribe, which ruled Persia (Iran) from 1794 to 1925. The state ruled by the dynasty was officially known as the Sublime State of Persia. The Qajar family took full control of Iran in 1794, deposing Lotf 'Ali Khan
-___
-#### Location
-![](https://www5b.wolframalpha.com/Calculate/MSP/MSP1413188d2a12086d8i4d0000618fd8id5ebcc7cg?MSPStoreType=image/gif&s=37)
-___
+The Qajar dynasty was an Iranian royal dynasty of Turkic origin, specifically from the Qajar tribe, which ruled Persia (Iran) from 1794 to 1925. The state ruled by the dynasty was officially known as the Sublime State of Persia. The Qajar family took full control of Iran in 1794, deposing Lotf 'Ali Khan.
+
 #### Constitution of 1906
 The Persia Constitution of 1906 was the first constitution of Persia (Iran) that resulted from the Persian Constitutional Revolution and it was written by Hassan Pirnia, Hossein Pirnia, and Ismail Mumtaz, among others. It divides into five chapters with many articles that developed over several years. The Belgian constitution, like the constitutions of other European states, served as a partial model for the Iranian constitution.
 
@@ -146,37 +121,48 @@ Qajar king Agha Mohammad Khan chose Tehran as the capital of Iran in 1786.
 The consititution of 1906 secularized the government and religion.
 
 ### Pahlavis
-
+#### Time Period
+```mermaid
+graph LR
+d1[1925] --> d2[1979]
+```
 #### 1953 CIA & UK Financed Coup
-
+The 1953 CIA & UK financed coup was an overthrow on the Iranian president Mohammad Mossadegh. They organized the coup after Mohammad Mossadegh announced his plans to nationalize the state's oil industry
 #### 1941 Abdication of Shah Reza Khan
-
+In 1941 Shah Reza Khan he was forced to abdicate by the Allies after the Anglo-Soviet invasion of Iran. He was succeeded by his son, Mohammad Reza Pahlavi, the last Shah of Iran.
 #### White Revolution
-
+The White Revolution, or the Shah and People Revolution, was a far-reaching series of reforms in Iran launched in 1963 by Shah Mohammad Reza Pahlavi and lasted until 1979. It consisted of several elements, including:
+ - Land reform
+ - Sale of some state-owned factories to finance this land reform
+ - Construction of an expanded road, rail, and air network
+ - A number of dam and irrigation projects
+ - The encouragement and support of industrial growth
+ - Enfranchisement of women
 #### Industrialization
 
 #### Westernization & Secularization
 
 #### Resurgence Party
-
+In 1975, Muhammad Reza Shah created the resurgence party and declared Iran to be a one party state with him as its head. He replaced the islamic calendar with a new one. He also instated religious corps to tach peasants "true islam".
 #### SAVAK
 
 #### OPEC
 
 ### Islamic Revolution of 1979
-
+The Islamic Revolution of 1979 was very unique because it was entirely religious. The people overthrew the Shah because of his ties to the west and his fast paced secularization of the government. The revolution was headed by [Ayatollah Khomeini](#ayatollah-ruhollah-khomeini) who became the next leader of Iran
 #### Revolution of Rising Expectations
+The theory of the revolution of rising expectations states that revolution is more likely to occur when people are doing better than they once were, but some type of setback happens.
 
 ### Hostage Crisis
 
-### Cultural Revolution 
-
+### Cultural Revolution
+The Cultural Revolution in Iran aimed to purify the country from the shah's regime and secular values and western ideas.
 #### Comparison With China
-
+The Cultural Revolution in iran had very similar motives to Mao Zedong's Cultural Revolution. They both seeked to "purify" the country.
 ### Khatami
 See [Muhammad Khatami](#muhammad-khatami)
 #### Tehran Spring
-
+The Tehran Spring was a period under the presidency of Muhammad Khatami when cautious economic liberalization occured, with a loosening of freedom of speech and press, a more open economy, and a friendlier stance towards the outside world. When Mahmoud Ahmadinejad became the president in 2005, the government closed down newspapers, banned and censored books, and did not tolerate peaceful protests.
 ## System of Government
 
 ### Unitary System
@@ -184,86 +170,109 @@ See [Muhammad Khatami](#muhammad-khatami)
 ### Theocracy
 
 ### Jurist Guardianship
-
+Jurist Guardianship gave the senior clergy power over the unfortunate people. However, after the 1979 Revolution, Ayatollah Khomeini declared that it gave the senior clergy (himself) authority over all of the Shia community.
 #### *velayet -e faqih*
-
+Another term for Jurist Guardianship.
 ## Legitimacy
 
 ### Constitution of 1979
 
 ### Religion
-
+The government follows sharia islamic law. It is ruled by religious leadership.
 ### Democratic Elements
 
 ## Cleavages
 
 ### Religion
-
+![religions](../../images/2019/03/religions.png)
+![religion-iran](../../images/2019/03/religion-iran.png)
 #### Sunni
-
+![sunni](../../images/2019/03/sunni.png)
 #### Shi'ism
-
+![shiism](../../images/2019/03/shiism.png)
 #### Zoroastrianism
-
+![zoroastrianism](../../images/2019/03/zoroastrianism.png)
 #### Judaism
-
+![judaism](../../images/2019/03/judaism.png)
 #### Christian
-
+![christianity](../../images/2019/03/christianity.png)
 ### Ethnicity
-
+![ethnic-mix](../../images/2019/03/ethnic-mix.png)
+![cultural-properties](../../images/2019/03/cultural-properties.png)
+#### Azeris
+Many Azeris live in the northwest close to the former Soviet republic of Azerbaijan, creating a worry for the Iranain government that the Azeris will want to form a larger state and take land from Iran.
 ## Economic Policy
 
 ### Statists vs Free-Marketers
 
 ### Rentier State
-
+A rentier economy is heavily supported by the state expenditure, while the state recieves rent from other countires. Iran was transformed into a rentier state under the Pahlavis because of the increasing oil income. Iran recieved an increasing amount of income by exporting its oil and leasing oil fields to foreign countires.
 ### Import Substitution Idustrialization
-
+Encourages domestic industries to provide products that the population needs. Under the Pahlavis, President Mossadegh adopted this practice to boost the state's oil industry.
 ### Impact of Sanctions on Iran
 
 ## Government Institutions
 
 ### Supreme Leader
-
+The position at the top of Iran's government was meant to be filled by Ayatollah Khomeini, the leader of the 1979 Revolution. The supreme leader is the imam of the whole community, and he represents the pinnacle of theocratic principles of the state. The supreme leader is the main *faqih*, or interpreter of sharia law. The Supreme leader can also vet elected candidates, declare war and peace, and appoint major administrators.
 ### President
-
+The president is the chief executive and the highest state official after the supreme leader. He is directly elected every four years by iranian citizens, and he is limited to two consecutive terms in office. Although he is democratically elected, the Constitution requires him to be a pious Shiite. Some of the president's powers include:
+ - Devising the budget
+ - Supervising economic matters
+ - Proposing legislation to the Majiles
+ - Executing policies
+ - Signing of treaties, laws, and agreements
+ - Chairing the National Security council
+ - Selecting vice presidents and cabinet members
+ - Appointing provinical governors, town mayors, and ambassadors
 ### Cabinet & Bureaucracy
-
+The president heads a huge bureaucracy that has expanded to provide jobs for college students. It has doubled since 1979, and includes:
+ - Culture and Islamic Guidance that censors the media
+ - Intelligence that serves as the chief security organization
+ - Heavy Industry that guides that manages nationalized factories.
+The clergy dominates the bureaucracy and the presidency.
 ### Majiles
-
+The Majiles first came to be in 1906 after the Constitutional Revolution. It was a part of Iran's early experiments with democracy.
+#### Pahlavis
+Although they can technically act independently, The Majiles acted as a rubber stamp legislature that let the shah do as they pleased.
+#### Modern Times
+The Majiles have a weakened relationship with the presidency. However, the Majiles still remain as the main legislation of Iran. Some of the Majiles' powers include:
+ - Enacting or changing laws
+ - Interpreting legislation
+ - Appointing six of the twelve members of the Guardian Council
+ - Investigating cabinet members.
+ - Removing cabinet members
+ - Approving the budget
 ### Guardian Council
-
+The Guardian Coucnil is another theocratic body in Iranian government. Six are appointed by the supreme leader, and the other are nominated by the chief judge and approved by the Majiles. Bills passed by the Majiles are checked by the guardian council to see if they follow sharia law.
 ### Expediency Council
-
+Because the Guardian Council and can overturn the laws made by the Majiles, they often argue fiercly. The Expediency Council referees their disputes. It orignially consisted of 13 clerics. Over time, it grew to 32 members with much more power than it used to have. For example, it can originate its own legislature.
 ### Assembly of Religious Experts
-
+The assembly of religious experts is an 86-man house that is directly elected by the people every four years. The assembly, along with the supreme leader and the guardian council, broadly interpret the constitution.
 ### Judiciary
-
+#### Pahlavis
+Unlike most of Iran's government institutions, the Judiciary was completely secularized from the government. They had a European style judicial system and law codes in place.
 #### Sharia
-
+Sharia, or Islamic law, was built up over several centuries after the death of the religion's founder, Muhammad, in the 7th century. Sharia is considered to be the foundation of all islamic civilization.
 #### Qanun
-
+Unlike sharia, qanun has no sacred basis, but instead is a body of statues made by the legislature. In Iran, qanun are passed by the Majiles.
 ### Regular Army
 
 ### Revolutionary Guard
 
 ### Basij
-
+A collection of Revolutionary Guards and voluntary militia men.
 ### Qud's Force
 
 ## Political Parties
-
+The constitution provides for political parties, but the government did not allow them until Muhammad Khatami's presidency in 1997. Since then, multiple parties have formed. Most of the parties are personality based, not issue based.
 ### Khordad Front
-
+The election of 2000 saw many reformists fill the seats through a coalition of reformist parties known as the Khordad Front. They won 80% of the vote in a campaign and drew in over 70% of the electorate.
 ## Electoral System
 
 ### Single Member Plurality
 
 ### Run-Off Elections for President
-
-## System of Law
-
-### Sharia
 
 ## Public Policy
 
@@ -272,7 +281,7 @@ See [Muhammad Khatami](#muhammad-khatami)
 ### Women's Rights
 
 #### Equality with Difference
-
+Equality with Difference is Iran's policy towards women. It gives men more favor in divorce and custody laws according to islam law. Women must wear long scarves and coats in public, and cannot leave the country without their male relatives' permission.
 ### Nuclear Ambitions
 
 ## Human Rights in Iran
@@ -298,15 +307,7 @@ See [Muhammad Khatami](#muhammad-khatami)
 #### Protests
 
 #### Green Movement
-
+The Green Movement, named after Mir-Hossein Mousavi's campaign color, was a protest that opposed the 2009 election. The protest followed the announcement that Mahmoud Ahmadinejad had won the election with 63% of the votes. People on both sides of the issue poured onto the streets. The government sent the Basij to disperse the crowds, and violence followed. Around 20 people died.
 #### Twitter & Facebook Impact
 
 #### Show Trials
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTgxOTM1MDAsMTUzMjY3MTczNCwzOT
-M1NTg0NzAsLTEzMjIwMzUzMDYsLTQ0OTg1MzI4OSwtMTY0MDEz
-NTY1OCw4NTUxNDI4MjYsLTE0NzQzMjkxNDUsLTQ5MTc1OTIzMC
-wtNDczOTMzNDQ0LDEzNjYzNzEzODksMTA5MTc1MjI3XX0=
--->
