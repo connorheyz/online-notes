@@ -1,12 +1,10 @@
-@import "https://stackedit.io/style.css"
 # Iran Least You Need To Know
 ## General Information About Iran
-![4j3gzc3h](/assets/images/4j3gzc3h.bmp)
-![tmrrpjj6](/assets/images/tmrrpjj6.bmp)
-![bt8cmiqi](/assets/images/bt8cmiqi.bmp)
-![jn9mz7fs](/assets/images/jn9mz7fs.bmp)
+![4j3gzc3h](../../assets/images/4j3gzc3h.bmp)
+![tmrrpjj6](../../assets/images/tmrrpjj6.bmp)
+![bt8cmiqi](../../assets/images/bt8cmiqi.bmp)
+![jn9mz7fs](../../assets/images/jn9mz7fs.bmp)
 ## People
-
 ### Mohammed Mossadegh
 #### Basic Information
 ![](../../assets/images/gi_mohammed_mossadegh.png)
@@ -22,7 +20,6 @@ ___
 ### Ayatollah Ruhollah Khomeini
 #### Basic Information
 ![](../../assets/images/gi_ayatollah_khomeini.png)
-
 Sayyid Ruhollah Mūsavi Khomeini (24 September 1902 - 3 June 1989), known in the Western world as Ayatollah Khomeini, was an Iranian politician and marja. He was the founder of the Islamic Republic of Iran and the leader of the 1979 Iranian Revolution that saw the overthrow of the last Shah of Iran.
 #### Leadership
 ![](../../assets/images/lp_ayatollah_khomeini.png)
@@ -139,22 +136,22 @@ The White Revolution, or the Shah and People Revolution, was a far-reaching seri
  - The encouragement and support of industrial growth
  - Enfranchisement of women
 #### Industrialization
-
+Reza Shah improved the country's overall infrastrucutre, implemented educational reform, campaigned against foreign influence, reformed the legal system, and introduced modern industries. In the interwar period, modern industries were introduced. Whereas fewer than 20 modern industrial plants existed in 1925, by 1941 more than 800 new plants had been established.
 #### Westernization & Secularization
-
+The White Revolution introduced reforms like secularization and westernization.
 #### Resurgence Party
 In 1975, Muhammad Reza Shah created the resurgence party and declared Iran to be a one party state with him as its head. He replaced the islamic calendar with a new one. He also instated religious corps to tach peasants "true islam".
 #### SAVAK
-
+The SAVAK was the secret police, domestic security and intelligence service in Iran during the Pahlavi period.
 #### OPEC
-
+The Organization of the Petroleum Exporting Countries is an intergovernmental organization founded in 1960 in Baghdad by the first five members (Iran, Iraq, Kuwait, Saudi Arabia, and Venezuela). It accounts for 44.5% of all oil production
 ### Islamic Revolution of 1979
 The Islamic Revolution of 1979 was very unique because it was entirely religious. The people overthrew the Shah because of his ties to the west and his fast paced secularization of the government. The revolution was headed by [Ayatollah Khomeini](#ayatollah-ruhollah-khomeini) who became the next leader of Iran
 #### Revolution of Rising Expectations
 The theory of the revolution of rising expectations states that revolution is more likely to occur when people are doing better than they once were, but some type of setback happens.
 
 ### Hostage Crisis
-
+The Iran Hostage Crisis was a diplomatic standoff between Iran and the United States of America. Fifty-two American diplomats and citizens were held hostage for 444 days from november 4, 1979, to January 20, 1981.
 ### Cultural Revolution
 The Cultural Revolution in Iran aimed to purify the country from the shah's regime and secular values and western ideas.
 #### Comparison With China
@@ -166,9 +163,9 @@ The Tehran Spring was a period under the presidency of Muhammad Khatami when cau
 ## System of Government
 
 ### Unitary System
-
+Iran is a Unitary system. This means that the main or central government holds all of the power. In Iran's case, the supreme leader holds all of the power.
 ### Theocracy
-
+Iran has a theocracy which means that they accept religious figures as their supreme leader. In this case, the supreme leader is an interpreter of islam law.
 ### Jurist Guardianship
 Jurist Guardianship gave the senior clergy power over the unfortunate people. However, after the 1979 Revolution, Ayatollah Khomeini declared that it gave the senior clergy (himself) authority over all of the Shia community.
 #### *velayet -e faqih*
@@ -176,11 +173,11 @@ Another term for Jurist Guardianship.
 ## Legitimacy
 
 ### Constitution of 1979
-
+The Constitution of 1979 replace the Constitution of 1906. The constitution has been called a "hybrid" of "theocratic and democratic elements". While articles One and Two vest sovereignty in God, article six "mandates popular elections for the presidency and the Majlis, or parliament."
 ### Religion
 The government follows sharia islamic law. It is ruled by religious leadership.
 ### Democratic Elements
-
+The aftermath of the 1979 revolution meant to combine democratic involvement with theocratic oversight. Iran has a few democratic elements. They have an elected president and parliament. However, they still have an unelected supreme leader
 ## Cleavages
 
 ### Religion
@@ -204,19 +201,30 @@ Many Azeris live in the northwest close to the former Soviet republic of Azerbai
 ## Economic Policy
 
 ### Statists vs Free-Marketers
-
+#### Statists
+Statists in Iran belive the government should take an active role in controlling the economy. The government should have powers and responsiblilites such as:
+ - Redistributing land and wealth
+ - Eliminating Unemployment
+ - Financing social welfare programs
+#### Free-Marketers
+Free-Marketers in Iran want to:
+- Remove price controls
+- Lower business taxes
+- Encouage private enterprise
+- Balance the Budget
+- Use Western principles in the economy
 ### Rentier State
 A rentier economy is heavily supported by the state expenditure, while the state recieves rent from other countires. Iran was transformed into a rentier state under the Pahlavis because of the increasing oil income. Iran recieved an increasing amount of income by exporting its oil and leasing oil fields to foreign countires.
 ### Import Substitution Idustrialization
 Encourages domestic industries to provide products that the population needs. Under the Pahlavis, President Mossadegh adopted this practice to boost the state's oil industry.
 ### Impact of Sanctions on Iran
-
+United States President Donald Trump withdrew the United States from the JCPOA and to re-impose U.S. sanctions on Iran that had been suspended under the JCPOA agreement. The impact of the sanctions caused the Iranian oil production and GDP to fall. Iran's currency is weakening, and inflation is picking up.
 ## Government Institutions
 
 ### Supreme Leader
 The position at the top of Iran's government was meant to be filled by Ayatollah Khomeini, the leader of the 1979 Revolution. The supreme leader is the imam of the whole community, and he represents the pinnacle of theocratic principles of the state. The supreme leader is the main *faqih*, or interpreter of sharia law. The Supreme leader can also vet elected candidates, declare war and peace, and appoint major administrators.
 ### President
-The president is the chief executive and the highest state official after the supreme leader. He is directly elected every four years by iranian citizens, and he is limited to two consecutive terms in office. Although he is democratically elected, the Constitution requires him to be a pious Shiite. Some of the president's powers include:
+The president is the chief executive and the highest state official after the supreme leader. He is directly elected every four years by iranian citizens, and he is limited to two consecutive terms in office. The president in the head of government, while the supreme leader is the head of state. Although he is democratically elected, the Constitution requires him to be a pious Shiite. Some of the president's powers include:
  - Devising the budget
  - Supervising economic matters
  - Proposing legislation to the Majiles
@@ -257,13 +265,13 @@ Sharia, or Islamic law, was built up over several centuries after the death of t
 #### Qanun
 Unlike sharia, qanun has no sacred basis, but instead is a body of statues made by the legislature. In Iran, qanun are passed by the Majiles.
 ### Regular Army
-
+The Regular Army was the precursor to the Revolutionary Guard. It was appinted by the Shah.
 ### Revolutionary Guard
-
+An elite military force whose commanders are appointed by the Supreme Leader
 ### Basij
-A collection of Revolutionary Guards and voluntary militia men.
-### Qud's Force
-
+A collection of Revolutionary Guards and voluntary militia men. They act ad Iran's military police.
+### Quds Force
+The Quds Force is a unit of Iran's Revolutionary Guards directed to carry out unconventional warfare and intelligence activities. They are also responsible for extraterritorial operations.
 ## Political Parties
 The constitution provides for political parties, but the government did not allow them until Muhammad Khatami's presidency in 1997. Since then, multiple parties have formed. Most of the parties are personality based, not issue based.
 ### Khordad Front
@@ -271,43 +279,50 @@ The election of 2000 saw many reformists fill the seats through a coalition of r
 ## Electoral System
 
 ### Single Member Plurality
-
+Single Member Plurality (SMP) electoral systems, some times known as fist past the post, are simple systems to administer. The candidate who gets more votes than any other candidate is declared the winner.  Depending upon the number of candidates and their relative popularity, the winning candidate may or may not need a majority of votes to win. Iran uses a Single Member Plurality system with a two ballot run-off for the top two candidates.
 ### Run-Off Elections for President
-
+A runoff election is a second general election conducted to determine which of the top vote-getters in the first general election will be elected to office. Runoffs occur in states that require candidates to receive a majority (as opposed to a plurality) of the vote to win an election. In Iran, run-off elections follow the single member plurality election if a candidate does not get more than 50% of the votes.
 ## Public Policy
-
 ### Population Policy
-
+After years of successful efforts to curb its population growth by offering free or very inexpensive family planning services and promoting the idea that “two children are enough” in their health centers, Iran is dramatically changing its population policy. Iranian President Mahmoud Ahmadinejad announced a new policy to encourage population growth saying that previous family planning was ungodly and a Western import. The new policy will pay families for each child and deposit money into that child’s bank account through their 18th birthday. This has the potential to undo the gains that were achieved under the old policy where population growth went from 3.9 percent a year in 1986 to 1.6 percent in 2006.
 ### Women's Rights
-
+For Iranian women, their rights and legal status have changed since the early 20th century. Women's rights in Iran are limited compared to the women in developed nations. The World Economic Forum’s 2017 Global Gender Gap Report ranked Iran 140 out of 144 countries for gender parity.
 #### Equality with Difference
 Equality with Difference is Iran's policy towards women. It gives men more favor in divorce and custody laws according to islam law. Women must wear long scarves and coats in public, and cannot leave the country without their male relatives' permission.
 ### Nuclear Ambitions
-
+The United States provided Iran with nuclear energy in the 1950s. Since then, Iran has been suspected of using it to develop weapons instead of civilian programs. In 2015, Iran negotiated the JCPOA, a 25 year nuclear agreement limiting Iran's nuclear capacity in exchange for sanctions relief. In 2018, Trump pulled out of JCPOA and reimplemented sanctions.
 ## Human Rights in Iran
 
-### Bahai
-
+### Baha'i
+Iran has persecuted and arrested baha'i leaders for what they call "security reasons". Baha'i is an offshoot of islam and is viewed as unholy by Iran.
 ### Journalists
-
+Iran does not have tolerance for slander against the government. News sites are not allowd to critisize the government. Journalists can be imprisoned for reporting about corruption in the government.
 ## Recent Elections
-
 ### Majiles Elections
-
 #### 2004
-
+The 2004 Majiles elections was a victory for the islamic conservatives over the reformists. The elections took place amidst the January 2004 decision to ban about 2500 candidates -- nearly half of the total -- including 80 sitting Parliament deputies. The main targets were reformist candidates.
+![8kd08gp4](/assets/images/8kd08gp4.bmp)
+ - **Blue** -- Principlists (Conservatives)
+ - **Green** -- Reformists
+ - **Gray** -- Independents
+ - **Red** -- Religious Minorites
 #### 2008
-
+![i1qo1r5q](/assets/images/i1qo1r5q.bmp)
+- **Red** -- Principlists (Conservatives)
+- **Green** -- Reformists
+- **Gray** -- Independents
+- **Yellow** -- Religious Minorites
 ### Presidential Election 2005
-
+After Mohammad Khatami stepped down after his term ended, a new presidential election took place. The run-off election was between Mahmoud Ahmadinejad (Conservative) and Akbar Hashemi Rafsanjani (Clerical).
 #### Run-off Elections
-
+Ahmadinejad won 62% of the votes while Rafsanjani won 35% of the votes.
 ### Presidential Election 2009
-
+The presiential election follow Mahmoud Ahmadinejad's first term as president. His re-election was challenged by Mir-Hossein Mousavi, a reformist candidate. Mahmoud won 63% of the votes and Mousavi won only 34%.
 #### Protests
-
+Many Iranian figures on both sides claimed that the votes were fraudulent. This caused millions of Iranians around the entire country to protest the election. The Iranian government persecuted protestors.
 #### Green Movement
 The Green Movement, named after Mir-Hossein Mousavi's campaign color, was a protest that opposed the 2009 election. The protest followed the announcement that Mahmoud Ahmadinejad had won the election with 63% of the votes. People on both sides of the issue poured onto the streets. The government sent the Basij to disperse the crowds, and violence followed. Around 20 people died.
 #### Twitter & Facebook Impact
-
+Social media and messaging apps have become crucial for antigovernment protestors around the world, as means of organizing and delivering messages to other citizens. Not suprisingly, Iran has blocked these apps to prevent protests and government slander.
 #### Show Trials
+There was a trial after the 2009 Iran poll protests. It had over 140 defendants who were being tries for orchestrating a revolution in Iran. The trials were widely condemned as being "show trials". A show trial is a public trial in which the judicial authorities have already determined the guilt of the defendant. The actual trial has as its only goal the presentation of both the accusation and the verdict to the public so they will serve as both an impressive example and a warning to other would-be dissidents or transgressors.
