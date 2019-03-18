@@ -31,9 +31,10 @@ After Nigeria gained independence from Britain in  1960, they have used the mili
 An Important source of legitimacy in the north has been *sharia*, especially since the fall of military leadership in 1999.
 
 >#### Sharia
-> *Sharia* 
+> *Sharia* is Islamic law derived from the Qur'an and Muhammad's teachings. They are not laws, but principles.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzUyODk3OTRdfQ==
+eyJoaXN0b3J5IjpbMTc4MzcxMzU3M119
 -->
