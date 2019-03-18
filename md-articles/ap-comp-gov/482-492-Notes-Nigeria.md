@@ -44,8 +44,8 @@ Centralized states developed early in Nigeria. Transportation and communication 
 - **Early Islam influence** -- Islam gradually replaced traditional customs and religions.
 - **Kinship-based politics** -- political organizations did not go past the village level.
 - **Complex political identities** -- The difference between centralized state and local governance is not clear cut.
-- **Demo
+- **Democratic impulses** -- Rulers were expected to seek advice and to govern in the interest of the people. If the
 #### Colonial Era
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzOTM1NzMwNywtMjI2MjIyMDg3XX0=
+eyJoaXN0b3J5IjpbLTIwMjIwOTE0MiwtMjI2MjIyMDg3XX0=
 -->
