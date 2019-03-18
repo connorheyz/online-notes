@@ -11,7 +11,9 @@
  - They are taking steps. 2011 and 2015's national elections were far cleaner.
 
 ## Sovereignty, Authority, and Power
-Nigeria has very polarizing and opposing views on how the government should be run. The leaders and citizens can't agree on 
+Nigeria has very polarizing and opposing views on how the government should be run. The leaders and citizens can't agree on who rules and how. This is known as the **national question**.
+### Constitutionalism
+nigeria's first constitution was written in 1917
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTM0NTYzNl19
+eyJoaXN0b3J5IjpbNjc4MzI5Nzg1XX0=
 -->
