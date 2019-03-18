@@ -20,15 +20,17 @@ The **national question** is at the heart of the country's legitimacy, so establ
 >#### Goodluck Jonathan
 >Goodluck Jonathan was the 2010 Nigerian president. He was one of the few presidents who was not a military leader.
 
-After Nigeria gained independence from Britain in  1960, they have used the military to enforce their beliefs. However, the citizens are used to rule of law.
+After Nigeria gained independence from Britain in  1960, they have used the military to enforce their beliefs. However, the citizens are used to rule of law. Ibrahim Babangida and Sani Abacha alienated citizens and corrupted their leaderships.
 
 >#### Ibrahim Babangida
 >Ibrahim Babangida ruled from 1985 to 1993. He was known for being corrupted.
 
 >#### Sani Abacha
->Sani Abacha ruled from 1993 to 1998. He is known for corruption
+>Sani Abacha ruled from 1993 to 1998. He is known for corruption and alienating citizens.
+
+An Important source of legitimacy has been 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTY0MTI1NDddfQ==
+eyJoaXN0b3J5IjpbLTE2NDA2OTA4Ml19
 -->
