@@ -28,9 +28,12 @@ After Nigeria gained independence from Britain in  1960, they have used the mili
 >#### Sani Abacha
 >Sani Abacha ruled from 1993 to 1998. He is known for corruption and alienating citizens.
 
-An Important source of legitimacy has been 
+An Important source of legitimacy in the north has been *sharia*, especially since the fall of military leadership in 1999.
+
+>#### Sharia
+> *Sharia* 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDA2OTA4Ml19
+eyJoaXN0b3J5IjpbLTEwMzUyODk3OTRdfQ==
 -->
