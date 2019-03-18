@@ -10,7 +10,8 @@
  - Nigeria has had fraudulent elections such as the national election of 2007
  - They are taking steps. 2011 and 2015's national elections were far cleaner.
 
-## Sovereignty
+## Sovereignty, Authority, and Power
+Nigeria has very polarizing and opposing views on how the government should be run. The leaders and citizens can't agree on 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEzODUxMzk4XX0=
+eyJoaXN0b3J5IjpbLTQxNTM0NTYzNl19
 -->
