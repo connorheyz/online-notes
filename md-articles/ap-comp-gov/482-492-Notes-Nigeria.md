@@ -36,7 +36,11 @@ An Important source of legitimacy in the north has been *sharia*, especially sin
 In 2008 the government banned religious and ethnic militias. Sharia law is beginning to return in Nigeria.
 
 ### Political Traditions
-Kingdoms appeared as early as 800 CE, and historical influences may be divided into thr
+Kingdoms appeared as early as 800 CE, and historical influences may be divided into three eras:
+
+#### Pre-Colonial Era
+Centralized states developed early in Nigeria. Transportation and communication was easier were
+#### Colonial Era
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NzE4MDIwMSwtMjI2MjIyMDg3XX0=
+eyJoaXN0b3J5IjpbMzM3ODQ3MTk4LC0yMjYyMjIwODddfQ==
 -->
