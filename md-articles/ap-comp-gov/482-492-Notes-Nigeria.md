@@ -17,7 +17,12 @@ Nigeria's first constitution was written in 1914, but since then, eight more con
 ### Legitimacy
 The **national question** is at the heart of the country's legitimacy, so establishing legitimacy is a challenge. The military is an important organization that brings stability to an unstable country. Military leaders have ruled Nigeria.
 
+#### Goodluck Jonathan
+2010 Nigerian President
+#### Ibrahim Babangida
+Rul
+
 After Nigeria gained independence from Britain in  1960, they have used the military to enforce their beliefs. However, the citizens are used to rule of law.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MjYxMzY3Ml19
+eyJoaXN0b3J5IjpbOTk0NDk5ODUxXX0=
 -->
