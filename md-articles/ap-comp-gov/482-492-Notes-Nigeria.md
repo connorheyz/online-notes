@@ -39,8 +39,9 @@ In 2008 the government banned religious and ethnic militias. Sharia law is begin
 Kingdoms appeared as early as 800 CE, and historical influences may be divided into three eras:
 
 #### Pre-Colonial Era
-Centralized states developed early in Nigeria. Transportation and communication was easier were
+Centralized states developed early in Nigeria. Transportation and communication were easier in the South. The north needed government to coordinate crops irrigation. Influences from this era include:
+- **Trade connections** -- The Niger River and Sahara Desert opened connections with other trading 
 #### Colonial Era
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3ODQ3MTk4LC0yMjYyMjIwODddfQ==
+eyJoaXN0b3J5IjpbLTgyNzQ4NjYyOSwtMjI2MjIyMDg3XX0=
 -->
