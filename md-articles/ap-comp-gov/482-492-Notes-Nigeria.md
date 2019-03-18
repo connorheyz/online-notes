@@ -15,7 +15,7 @@ Nigeria has very polarizing and opposing views on how the government should be r
 ### Constitutionalism
 Nigeria's first constitution was written in 1914, but since then, eight more constitutions have been written. **constitutionalism** has eluded Nigeria.
 ### Legitimacy
-The **national question** is at the heart of the country's legitimacy, so establishing legitimacy is a challenge.
+The **national question** is at the heart of the country's legitimacy, so establishing legitimacy is a challenge. The military is an important organization that brings stability to an unstable country. Military leaders have ruled Nigeria.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODI1ODIwMzddfQ==
+eyJoaXN0b3J5IjpbLTQ5MjIwODMzNl19
 -->
