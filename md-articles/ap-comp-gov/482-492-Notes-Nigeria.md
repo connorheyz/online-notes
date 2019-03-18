@@ -50,7 +50,11 @@ Centralized states developed early in Nigeria. Transportation and communication 
 - **Complex political identities** -- The difference between centralized state and local governance is not clear cut.
 - **Democratic impulses** -- Rulers were expected to seek advice and to govern in the interest of the people. If they did not, they were often removed from their position.
 #### Colonial Era
-```merm
+```mermaid
+graph LR
+d1[1860] --> d2[1960]
+```
+During the colonial era, Great Britain 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njk4MzQ0NjksLTIyNjIyMjA4N119
+eyJoaXN0b3J5IjpbLTIxMzY5NzYxNjIsLTIyNjIyMjA4N119
 -->
