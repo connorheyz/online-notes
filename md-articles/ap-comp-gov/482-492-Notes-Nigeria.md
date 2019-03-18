@@ -13,7 +13,7 @@
 ## Sovereignty, Authority, and Power
 Nigeria has very polarizing and opposing views on how the government should be run. The leaders and citizens can't agree on who rules and how. This is known as the **national question**.
 ### Constitutionalism
-nigeria's first constitution was written in 1917
+Nigeria's first constitution was written in 1914, but since then, eight more constitutions have been written. **constitutionalism has eluded Nife
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc4MzI5Nzg1XX0=
+eyJoaXN0b3J5IjpbMTE5MTY0MDE3XX0=
 -->
