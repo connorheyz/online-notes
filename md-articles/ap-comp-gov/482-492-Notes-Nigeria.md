@@ -44,19 +44,19 @@ graph LR
 d1[800] --> d2[1860]
 ```
 Centralized states developed early in Nigeria. Transportation and communication were easier in the South. The north needed government to coordinate crops irrigation. Influences from this era include:
-- **Trade connections** -- The Niger River and Sahara Desert opened connections with other trading civilizations.
-- **Early Islam influence** -- Islam gradually replaced traditional customs and religions.
-- **Kinship-based politics** -- political organizations did not go past the village level.
-- **Complex political identities** -- The difference between centralized state and local governance is not clear cut.
-- **Democratic impulses** -- Rulers were expected to seek advice and to govern in the interest of the people. If they did not, they were often removed from their position.
+- **Trade connections** --- The Niger River and Sahara Desert opened connections with other trading civilizations.
+- **Early Islam influence** --- Islam gradually replaced traditional customs and religions.
+- **Kinship-based politics** --- political organizations did not go past the village level.
+- **Complex political identities** --- The difference between centralized state and local governance is not clear cut.
+- **Democratic impulses** --- Rulers were expected to seek advice and to govern in the interest of the people. If they did not, they were often removed from their position.
 #### Colonial Era
 ```mermaid
 graph LR
 d1[1860] --> d2[1960]
 ```
 During the colonial era, Great Britain implemented both rule of law and practices that went against democracy. Influences from this era include:
- - **Authoritarian rule** -- 
+ - **Authoritarian rule** --- Britain ruled by implementing chiefs that govern with Britain's economic goals in mind. Britain increased the Authority of the chiefs, making t
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTgyNDY1MDIsLTIyNjIyMjA4N119
+eyJoaXN0b3J5IjpbLTE3MjMxNDAwMTgsLTIyNjIyMjA4N119
 -->
