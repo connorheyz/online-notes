@@ -22,9 +22,13 @@ The **national question** is at the heart of the country's legitimacy, so establ
 
 After Nigeria gained independence from Britain in  1960, they have used the military to enforce their beliefs. However, the citizens are used to rule of law.
 
-#### Ibrahim Babangida
-Ibrahim Babangida ruled from
+>#### Ibrahim Babangida
+>Ibrahim Babangida ruled from 1985 to 1993. He was known for being corrupted.
+
+>#### Sani Abacha
+>Sani Abacha ruled from 1993 to 1998. He is known for corruption
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3ODc1MTI3NF19
+eyJoaXN0b3J5IjpbLTIwMTY0MTI1NDddfQ==
 -->
