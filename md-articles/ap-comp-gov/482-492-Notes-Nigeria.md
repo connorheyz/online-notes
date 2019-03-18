@@ -33,8 +33,8 @@ An Important source of legitimacy in the north has been *sharia*, especially sin
 >#### Sharia
 > *Sharia* is Islamic law derived from the Qur'an and Muhammad's teachings. They are not laws, but principles.
 
-
+In 2008 the government banned religious and ethnic militias.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzcxMzU3M119
+eyJoaXN0b3J5IjpbLTIyNjIyMjA4N119
 -->
