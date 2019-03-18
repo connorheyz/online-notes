@@ -54,7 +54,9 @@ Centralized states developed early in Nigeria. Transportation and communication 
 graph LR
 d1[1860] --> d2[1960]
 ```
-During the colonial era, Great Britain 
+During the colonial era, Great Britain implemented both rule of law and practices that went against democracy. Influences from this era include:
+ - **Authoritarian rule** -- 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzY5NzYxNjIsLTIyNjIyMjA4N119
+eyJoaXN0b3J5IjpbLTE3MTgyNDY1MDIsLTIyNjIyMjA4N119
 -->
