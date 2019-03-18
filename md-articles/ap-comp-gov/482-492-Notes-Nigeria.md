@@ -43,7 +43,9 @@ Centralized states developed early in Nigeria. Transportation and communication 
 - **Trade connections** -- The Niger River and Sahara Desert opened connections with other trading civilizations.
 - **Early Islam influence** -- Islam gradually replaced traditional customs and religions.
 - **Kinship-based politics** -- political organizations did not go past the village level.
+- **Complex political identities** -- The difference between centralized state and local governance is not clear cut.
+- **Demo
 #### Colonial Era
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTA4MTI1MjEsLTIyNjIyMjA4N119
+eyJoaXN0b3J5IjpbMTUzOTM1NzMwNywtMjI2MjIyMDg3XX0=
 -->
