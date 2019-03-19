@@ -1,3 +1,4 @@
+@import "https://stackedit.io/style.css"
 # Iran Least You Need To Know
 ## General Information About Iran
 ![4j3gzc3h](../../assets/images/4j3gzc3h.bmp)
@@ -7,19 +8,20 @@
 ## People
 ### Mohammed Mossadegh
 #### Basic Information
-![](../../assets/images/gi_mohammed_mossadegh.png)
+![](../../assets/images/gi_mohammed_mossadegh.pn
 Mohammad Mosaddegh (16 June 1882 - 5 March 1967) was the 35th prime minister of Iran, holding office from 1951 until 1953, when his government was overthrown in a coup d'état orchestrated by the United States' Central Intelligence Agency and the United Kingdom's MI6.
 #### Leadership
 ![](../../assets/images/lp_mohammed_mossadegh.png)
 ___
 #### Notable Facts
- - Prime Minister of Iran for two years until his 1953 overthrow in a coup organized by the United States Central Intelligence Agency
+ - Primeran for two years until his 1953 overthrow in a coup organized by the United States Central Intelligence Agency
 
- - Nationalized the Iranian oil industry, previously controlled by Great Britain, and introduced progressive social reforms
+ - Nationalized the Iranian oil industry, previously controlled by Great Britain, and introduced progressive social reformssoasadepng
 ___
 ### Ayatollah Ruhollah Khomeini
 #### Basic Information
 ![](../../assets/images/gi_ayatollah_khomeini.png)
+assetsimagegayatolahomeiipg)
 Sayyid Ruhollah Mūsavi Khomeini (24 September 1902 - 3 June 1989), known in the Western world as Ayatollah Khomeini, was an Iranian politician and marja. He was the founder of the Islamic Republic of Iran and the leader of the 1979 Iranian Revolution that saw the overthrow of the last Shah of Iran.
 #### Leadership
 ![](../../assets/images/lp_ayatollah_khomeini.png)
@@ -35,10 +37,10 @@ ___
 ___
 ### Ayatollah Ali Khamenei
 #### Basic Information
-![](../../assets/images/gi_ayatollah_khamenei.png)
+![](../../assets/images/gi_ayatollah_khamenei.pngaetiagesiaatolahameipg)
 Sayyid Ali Hosseini Khamenei (born 17 July 1939) is a marja and the second and current Supreme Leader of Iran, in office since 1989. He was previously President of Iran from 1981 to 1989. Khamenei is the second-longest serving head of state in the Middle East (after Oman's Sultan Qaboos), as well as the second-longest serving Iranian leader of the last century, after Shah Mohammed Reza Pahlavi.
 #### Leadership
-![](../../assets/images/lp_ayatollah_khamenei.png)
+![](../../assets/images/lp_ayatollah_khamenei.pnglahheeig)
 ___
 #### Notable Facts
  - Iranian politician known as one of three people considered to have had important influences on the Islamic Republic of Iran
@@ -46,12 +48,12 @@ ___
  - Victim of assassination attack which left his right arm paralyzed for life
  - Imprisoned intellectual dissenters and had riot police attack protesters in Tehran in 2010
 ___
-### Mohammad Khatami
+### Mhammad Khatami
 #### General Information
-![](../../assets/images/gi_mohammad_khatami.png)
+![](../../assets/images/gi_mohammad_khatami.png)aetimagesohaadhtam.pg)
 Seyyed Mohammad Khatami (born 14 October 1943) is an Iranian scholar, Shia theologian, and reformist politician. He served as the fifth President of Iran from 3 August 1997 to 3 August 2005. He also served as Iran's Minister of Culture from 1982 to 1992. He was an outspoken critic of former President Mahmoud Ahmadinejad's government.
 #### Leadership
-![](../../assets/images/lp_mohammad_khatami.png)
+![](../../assets/images/lp_mohammad_khatami.pngassetsages/lmhamahatpg)
 ___
 #### Notable Facts
  - Scholar and politician who served as the President of Iran and became one of the leader's of the country's Green Movement
@@ -64,7 +66,7 @@ ___
 ![](../../assets/images/gi_mahmoud_ahmadinejad.png)
 Mahmoud Ahmadinejad (born Mahmoud Sabbaghian on 28 October 1956) is an Iranian politician who was the sixth President of Iran from 2005 to 2013. He was also the main political leader of the Alliance of Builders of Islamic Iran, a coalition of conservative political groups in the country.
 #### Leadership
-![](../../assets/images/lp_mahmoud_ahmadinejad.png)
+![](../../assets/images/lp_mahmoud_ahmadinejad.pngassetsages/lmahouahmaeg)
 ___
 #### Notable Facts
  - Former President of the Islamic Republic of Iran, a controversial figure both within and outside of Iran for his economic weaknesses and perceived disregard for human rights
@@ -75,8 +77,7 @@ ___
  - Cut the allowable interest rates for public and private banking facilities
  ___
 ### Mir-Hossein Mousavi
-#### Basic Information
-![](../../assets/images/gi_mir-hossein_mousavi.png)
+#### ](../../assets/images/gi_mir-hossein_mousavi.pngassesimaeirhoseinmouaig)
 Mir-Hossein Mousavi Khameneh (born 2 March 1942) is an Iranian reformist politician, artist and architect who served as the seventy-ninth and last Prime Minister of Iran from 1981 to 1989. He was a reformist candidate for the 2009 presidential election and eventually the leader of the opposition in the post-election unrest. Mousavi served as the president of the Iranian Academy of Arts until 2009, when Conservative authorities removed him.
 #### Leadership
 ![](../../assets/images/lp_mir-hossein_mousavi.png)
@@ -92,7 +93,7 @@ ___
 #### Time Period
 ```mermaid
 graph LR
-d1[1501] --> d2[1736]
+d1[1501] --> d2[1736]acformai
 ```
 #### Basic Information
  The Safavid dynasty was one of the most significant ruling dynasties of Iran, often considered the beginning of modern Iranian history. The Safavid shahs ruled over one of the Gunpowder Empires. They ruled one of the greatest Iranian empires after the 7th-century Muslim conquest of Iran.
@@ -105,18 +106,16 @@ The Safavid dynasty established the Twelver school of Shia Islam as the official
 graph LR
 d1[1794] --> d2[1925]
 ```
-#### Basic Information
-The Qajar dynasty was an Iranian royal dynasty of Turkic origin, specifically from the Qajar tribe, which ruled Persia (Iran) from 1794 to 1925. The state ruled by the dynasty was officially known as the Sublime State of Persia. The Qajar family took full control of Iran in 1794, deposing Lotf 'Ali Khan.
+####  Qajar dynasty was an Iranian royal dynasty of Turkic origin, specifically from the Qajar tribe, which ruled Persia (Iran) from 1794 to 1925. The state ruled by the dynasty was officially known as the Sublime State of Persia. The Qajar family took full control of Iran in 1794, deposing Lotf 'Ali Khan.
 
 #### Constitution of 1906
-The Persia Constitution of 1906 was the first constitution of Persia (Iran) that resulted from the Persian Constitutional Revolution and it was written by Hassan Pirnia, Hossein Pirnia, and Ismail Mumtaz, among others. It divides into five chapters with many articles that developed over several years. The Belgian constitution, like the constitutions of other European states, served as a partial model for the Iranian constitution.
-
+The Persia Constitution of 1906sormatio
+The Qajar dynasty was the first constitution of Persia (Iran) that resulted from the Persian Constitutional Revolution and it was written by Hassan Pirnia, Hossein Pirnia, and Ismail Mumtaz, among others. It divides into five chapters with many articles that developed over several years. The Belgian constitution, like the constitutions of other European states, served as a partial model for the Iranian constitution.
 #### Tehran
 Qajar king Agha Mohammad Khan chose Tehran as the capital of Iran in 1786.
 
 #### Secularization
 The consititution of 1906 secularized the government and religion.
-
 ### Pahlavis
 #### Time Period
 ```mermaid
@@ -135,19 +134,23 @@ The White Revolution, or the Shah and People Revolution, was a far-reaching seri
  - A number of dam and irrigation projects
  - The encouragement and support of industrial growth
  - Enfranchisement of women
-#### Industrialization
+ ndutrialization
 Reza Shah improved the country's overall infrastrucutre, implemented educational reform, campaigned against foreign influence, reformed the legal system, and introduced modern industries. In the interwar period, modern industries were introduced. Whereas fewer than 20 modern industrial plants existed in 1925, by 1941 more than 800 new plants had been established.
-#### Westernization & Secularization
+ esterniation cularization
 The White Revolution introduced reforms like secularization and westernization.
 #### Resurgence Party
 In 1975, Muhammad Reza Shah created the resurgence party and declared Iran to be a one party state with him as its head. He replaced the islamic calendar with a new one. He also instated religious corps to tach peasants "true islam".
 #### SAVAK
 The SAVAK was the secret police, domestic security and intelligence service in Iran during the Pahlavi period.
 #### OPEC
-The Organization of the Petroleum Exporting Countries is an intergovernmental organization founded in 1960 in Baghdad by the first five members (Iran, Iraq, Kuwait, Saudi Arabia, and Venezuela). It accounts for 44.5% of all oil production
-### Islamic Revolution of 1979
-The Islamic Revolution of 1979 was very unique because it was entirely religious. The people overthrew the Shah because of his ties to the west and his fast paced secularization of the government. The revolution was headed by [Ayatollah Khomeini](#ayatollah-ruhollah-khomeini) who became the next leader of Iran
-#### Revolution of Rising Expectations
+The Organization of the Petroleum Exporting Countries is an intergovernmental organization founded in 1960 in Baghdad by the first five members (Iran, Iraq, Kuwait, Saudi Arabia, and Venezuela). It accounts for 44.5% of all oil production#### Westernization & Se elariation esurgence Party
+In 1975, Muhammad Reza Shah created the resurgence party and declared Iran to be a one party state with him as its head. He replaced the islamic calendar with a new one. He also instated religious corps to tach peasants "true islam".
+#### SAVAK
+
+
+### 
+ Islamic Revolution of 1979
+The Islamic Revolution of 1979 was very unique because it was entirely religious. The people overthrew the Shah because of his ties to the west and his fast paced secularization of the government. The revolution was headed by [Ayatollah Khomeini](#ayatollah-ruhollah-khomeini) who became the next leader of Iran#### Revolution of Rising Expectations
 The theory of the revolution of rising expectations states that revolution is more likely to occur when people are doing better than they once were, but some type of setback happens.
 
 ### Hostage Crisis
@@ -166,6 +169,8 @@ The Tehran Spring was a period under the presidency of Muhammad Khatami when cau
 Iran is a Unitary system. This means that the main or central government holds all of the power. In Iran's case, the supreme leader holds all of the power.
 ### Theocracy
 Iran has a theocracy which means that they accept religious figures as their supreme leader. In this case, the supreme leader is an interpreter of islam law.
+### Theocracy
+
 ### Jurist Guardianship
 Jurist Guardianship gave the senior clergy power over the unfortunate people. However, after the 1979 Revolution, Ayatollah Khomeini declared that it gave the senior clergy (himself) authority over all of the Shia community.
 #### *velayet -e faqih*
@@ -178,6 +183,10 @@ The Constitution of 1979 replace the Constitution of 1906. The constitution has 
 The government follows sharia islamic law. It is ruled by religious leadership.
 ### Democratic Elements
 The aftermath of the 1979 revolution meant to combine democratic involvement with theocratic oversight. Iran has a few democratic elements. They have an elected president and parliament. However, they still have an unelected supreme leader
+### Religion
+The government follows sharia islamic law. It is ruled by religious leadership.
+### Democratic Elements
+
 ## Cleavages
 
 ### Religion
@@ -268,9 +277,11 @@ Unlike sharia, qanun has no sacred basis, but instead is a body of statues made 
 The Regular Army was the precursor to the Revolutionary Guard. It was appinted by the Shah.
 ### Revolutionary Guard
 An elite military force whose commanders are appointed by the Supreme Leader
+### Revolutionary Guard
+
 ### Basij
 A collection of Revolutionary Guards and voluntary militia men. They act ad Iran's military police.
-### Quds Force
+### Qud's Force
 The Quds Force is a unit of Iran's Revolutionary Guards directed to carry out unconventional warfare and intelligence activities. They are also responsible for extraterritorial operations.
 ## Political Parties
 The constitution provides for political parties, but the government did not allow them until Muhammad Khatami's presidency in 1997. Since then, multiple parties have formed. Most of the parties are personality based, not issue based.
@@ -282,7 +293,10 @@ The election of 2000 saw many reformists fill the seats through a coalition of r
 Single Member Plurality (SMP) electoral systems, some times known as fist past the post, are simple systems to administer. The candidate who gets more votes than any other candidate is declared the winner.  Depending upon the number of candidates and their relative popularity, the winning candidate may or may not need a majority of votes to win. Iran uses a Single Member Plurality system with a two ballot run-off for the top two candidates.
 ### Run-Off Elections for President
 A runoff election is a second general election conducted to determine which of the top vote-getters in the first general election will be elected to office. Runoffs occur in states that require candidates to receive a majority (as opposed to a plurality) of the vote to win an election. In Iran, run-off elections follow the single member plurality election if a candidate does not get more than 50% of the votes.
+### Run-Off Elections for President
+
 ## Public Policy
+
 ### Population Policy
 After years of successful efforts to curb its population growth by offering free or very inexpensive family planning services and promoting the idea that “two children are enough” in their health centers, Iran is dramatically changing its population policy. Iranian President Mahmoud Ahmadinejad announced a new policy to encourage population growth saying that previous family planning was ungodly and a Western import. The new policy will pay families for each child and deposit money into that child’s bank account through their 18th birthday. This has the potential to undo the gains that were achieved under the old policy where population growth went from 3.9 percent a year in 1986 to 1.6 percent in 2006.
 ### Women's Rights
@@ -291,14 +305,24 @@ For Iranian women, their rights and legal status have changed since the early 20
 Equality with Difference is Iran's policy towards women. It gives men more favor in divorce and custody laws according to islam law. Women must wear long scarves and coats in public, and cannot leave the country without their male relatives' permission.
 ### Nuclear Ambitions
 The United States provided Iran with nuclear energy in the 1950s. Since then, Iran has been suspected of using it to develop weapons instead of civilian programs. In 2015, Iran negotiated the JCPOA, a 25 year nuclear agreement limiting Iran's nuclear capacity in exchange for sanctions relief. In 2018, Trump pulled out of JCPOA and reimplemented sanctions.
+### Women's Rights
+
+#### Equality with Difference
+Equality with Difference is Iran's policy towards women. It gives men more favor in divorce and custody laws according to islam law. Women must wear long scarves and coats in public, and cannot leave the country without their male relatives' permission.
+### Nuclear Ambitions
+
 ## Human Rights in Iran
 
 ### Baha'i
 Iran has persecuted and arrested baha'i leaders for what they call "security reasons". Baha'i is an offshoot of islam and is viewed as unholy by Iran.
 ### Journalists
 Iran does not have tolerance for slander against the government. News sites are not allowd to critisize the government. Journalists can be imprisoned for reporting about corruption in the government.
+### Journalists
+
 ## Recent Elections
+
 ### Majiles Elections
+
 #### 2004
 The 2004 Majiles elections was a victory for the islamic conservatives over the reformists. The elections took place amidst the January 2004 decision to ban about 2500 candidates -- nearly half of the total -- including 80 sitting Parliament deputies. The main targets were reformist candidates.
 ![8kd08gp4](/assets/images/8kd08gp4.bmp)
@@ -326,3 +350,21 @@ The Green Movement, named after Mir-Hossein Mousavi's campaign color, was a prot
 Social media and messaging apps have become crucial for antigovernment protestors around the world, as means of organizing and delivering messages to other citizens. Not suprisingly, Iran has blocked these apps to prevent protests and government slander.
 #### Show Trials
 There was a trial after the 2009 Iran poll protests. It had over 140 defendants who were being tries for orchestrating a revolution in Iran. The trials were widely condemned as being "show trials". A show trial is a public trial in which the judicial authorities have already determined the guilt of the defendant. The actual trial has as its only goal the presentation of both the accusation and the verdict to the public so they will serve as both an impressive example and a warning to other would-be dissidents or transgressors.
+#### 2008
+
+### Presidential Election 2005
+
+#### Run-off Elections
+
+### Presidential Election 2009
+
+#### Protests
+
+#### Green Movement
+The Green Movement, named after Mir-Hossein Mousavi's campaign color, was a protest that opposed the 2009 election. The protest followed the announcement that Mahmoud Ahmadinejad had won the election with 63% of the votes. People on both sides of the issue poured onto the streets. The government sent the Basij to disperse the crowds, and violence followed. Around 20 people died.
+#### Twitter & Facebook Impact
+
+#### Show Trials
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTkyMzk1NjA5N119
+-->
