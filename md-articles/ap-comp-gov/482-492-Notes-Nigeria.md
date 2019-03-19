@@ -97,9 +97,10 @@ Nigeria's ethnic groups can be divided into six geographic zones:
  - **Middle Belt** --- Home to smaller groups, mix of Muslims and Christians.
  - **Southwest** --- The large ethnic group called the Yoruba dominate this area. It is 40% Muslim, 40% Christian, and 20% native religions.
  - **Southeast** --- This are is inhabited by the Igbo, who are primarily Roman Catholic, with a growing number of Potestants
+
  - **The Southern Zone** --- This area is home to small minority groups, it include the Niger River's delta. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODE0OTcxNyw5OTMxOTc1NzksNzkxMT
-M4NzQ0LDIxMDUzMTA0ODgsLTE1MjM4ODU3NDEsMTU5NjcyMDUx
-NywtMjI2MjIyMDg3XX0=
+eyJoaXN0b3J5IjpbMzA0OTE1MDA1LDk5MzE5NzU3OSw3OTExMz
+g3NDQsMjEwNTMxMDQ4OCwtMTUyMzg4NTc0MSwxNTk2NzIwNTE3
+LC0yMjYyMjIwODddfQ==
 -->
