@@ -8,6 +8,7 @@
  - Islam and Christian Cleavages
  - Lack of coherent national identity
  - Nigeria has had fraudulent elections such as the national election of 2007
+ 
  - They are taking steps. 2011 and 2015's national elections were far cleaner.
 
 ## Sovereignty, Authority, and Power
@@ -48,6 +49,7 @@ Centralized states developed early in Nigeria. Transportation and communication 
 - **Early Islam influence** --- Islam gradually replaced traditional customs and religions.
 - **Kinship-based politics** --- political organizations did not go past the village level.
 - **Complex political identities** --- The difference between centralized state and local governance is not clear cut.
+
 - **Democratic impulses** --- Rulers were expected to seek advice and to govern in the interest of the people. If they did not, they were often removed from their position.
 #### Colonial Era
 ```mermaid
@@ -59,6 +61,7 @@ During the colonial era, Great Britain implemented both rule of law and practice
  - **The interventionist state** --- The colonialists trained chiefs to run the country in order to reach economic goals. The people learned to just listen to the government .
  - **Individualism** --- In Nigeria it caused the chiefs to think about the personal benefits of governence.
  - **Christianity** --- The British brought christianity with them to Nigeria. This created a Muslim Christian cleavage.
+ 
  - **Intensification of ethnic politics** --- Three ethnic groups:
 	 - Huasa-Fulani
 	 - Igbo
@@ -80,8 +83,10 @@ Nigeria struggled to implement parliamentary systems and established a military 
  - **Federalism** --- In an attempt to calm down ethnic tensions, Nigerian leaders set up a federal system. This system did not work well under military rule. However, after the military lost power, Nigeria benefited from the federal system. 
  - **Economic dependence on oil** --- Nigeria's rich oil reserves have proved to be too tempting temping for most military rulers to resist. Corruption has caused the oil industry's money to only benefit the elite. However, Nigeria is entirely dependent on oil for political and economic stability, so this creates some problems.
 
+### Political Culture
+Nigeria's political culture is shaped by ethnic diversity and confli
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODk5MDQxMSw5OTMxOTc1NzksNzkxMT
-M4NzQ0LDIxMDUzMTA0ODgsLTE1MjM4ODU3NDEsMTU5NjcyMDUx
-NywtMjI2MjIyMDg3XX0=
+eyJoaXN0b3J5IjpbLTE2Mzg4NzQ3OTUsOTkzMTk3NTc5LDc5MT
+EzODc0NCwyMTA1MzEwNDg4LC0xNTIzODg1NzQxLDE1OTY3MjA1
+MTcsLTIyNjIyMjA4N119
 -->
