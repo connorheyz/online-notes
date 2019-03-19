@@ -88,9 +88,11 @@ Nigeria's political culture is shaped by ethnic diversity and conflict, corrupti
  - Patron-clientelism (prebendalism)
  - State control
  - Rich civil society
- - Tension between modern
+ - Tension between modernity and tradition
+ - Religious conflict
+ - **Geographic Influences** --- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2NzQ0NzUyLDk5MzE5NzU3OSw3OTExMz
-g3NDQsMjEwNTMxMDQ4OCwtMTUyMzg4NTc0MSwxNTk2NzIwNTE3
-LC0yMjYyMjIwODddfQ==
+eyJoaXN0b3J5IjpbLTE0OTE4NTc4NDIsOTkzMTk3NTc5LDc5MT
+EzODc0NCwyMTA1MzEwNDg4LC0xNTIzODg1NzQxLDE1OTY3MjA1
+MTcsLTIyNjIyMjA4N119
 -->
