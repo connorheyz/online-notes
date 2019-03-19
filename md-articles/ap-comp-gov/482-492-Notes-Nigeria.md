@@ -94,9 +94,11 @@ Nigeria's political culture is shaped by ethnic diversity and conflict, corrupti
 Nigeria's ethnic groups can be divided into six geographic zones:
  - **Northwest** --- Hausa-Fauni people, predominately Muslim.
  - **Northeast** --- Home to smaller groups, also Muslim.
+ - **Middle Belt** --- Home to smaller groups, mix of Muslims and Christians.
+ - **Southwest** --- The large ethnic group called the Yoruba dominate this area. It is 40% Muslim, 40% Christian, and 20% native religions.
  - ** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQzNTE3NDUwLDk5MzE5NzU3OSw3OTExMz
-g3NDQsMjEwNTMxMDQ4OCwtMTUyMzg4NTc0MSwxNTk2NzIwNTE3
-LC0yMjYyMjIwODddfQ==
+eyJoaXN0b3J5IjpbLTk2ODQ0MTQ2MCw5OTMxOTc1NzksNzkxMT
+M4NzQ0LDIxMDUzMTA0ODgsLTE1MjM4ODU3NDEsMTU5NjcyMDUx
+NywtMjI2MjIyMDg3XX0=
 -->
