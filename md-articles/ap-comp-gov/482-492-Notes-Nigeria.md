@@ -60,9 +60,14 @@ During the colonial era, Great Britain implemented both rule of law and practice
  - **Individualism** --- In Nigeria it caused the chiefs to think about the personal benefits of governence.
  - **Christianity** --- The British brought christianity with them to Nigeria. This created a Muslim Christian cleavage.
  - **Intensification of ethnic politics** --- Three ethnic groups:
-	 - Huasa-Fulani 
+	 - Huasa-Fulani
+	 - Igbo
+	 - Yoruba
+- The British pitted them agaisnt each other in order to manage the colonies.
+  
+  ##
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxODUyNzQ2LDIxMDUzMTA0ODgsLTE1Mj
-M4ODU3NDEsMTU5NjcyMDUxNywtMjI2MjIyMDg3XX0=
+eyJoaXN0b3J5IjpbMjAwMzM1MTUyMiwyMTA1MzEwNDg4LC0xNT
+IzODg1NzQxLDE1OTY3MjA1MTcsLTIyNjIyMjA4N119
 -->
