@@ -65,13 +65,14 @@ During the colonial era, Great Britain implemented both rule of law and practice
 	 - Yoruba
 - The British pitted them agaisnt each other in order to manage the colonies.
   
-  #### The Era Since Independence
- ```mermaid
+#### The Era Since Independence
+```mermaid
 graph LR
 1960 --> Present
 ```
+Nigeria struggled to implement parliamentary systems and established a milita
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkyNDgwNTkzLDIxMDUzMTA0ODgsLTE1Mj
+eyJoaXN0b3J5IjpbOTk5NDU5NDUwLDIxMDUzMTA0ODgsLTE1Mj
 M4ODU3NDEsMTU5NjcyMDUxNywtMjI2MjIyMDg3XX0=
 -->
