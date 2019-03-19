@@ -65,9 +65,9 @@ During the colonial era, Great Britain implemented both rule of law and practice
 	 - Yoruba
 - The British pitted them agaisnt each other in order to manage the colonies.
   
-  ##
+  #### The Era Since Independence
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzM1MTUyMiwyMTA1MzEwNDg4LC0xNT
+eyJoaXN0b3J5IjpbLTI5MzQ1NjMwMywyMTA1MzEwNDg4LC0xNT
 IzODg1NzQxLDE1OTY3MjA1MTcsLTIyNjIyMjA4N119
 -->
