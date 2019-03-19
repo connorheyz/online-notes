@@ -8,7 +8,7 @@
 ## People
 ### Mohammed Mossadegh
 #### Basic Information
-![](../../assets/images/gi_mohammed_mossadegh.pn
+![](../../assets/images/gi_mohammed_mossadegh.png)
 Mohammad Mosaddegh (16 June 1882 - 5 March 1967) was the 35th prime minister of Iran, holding office from 1951 until 1953, when his government was overthrown in a coup d'état orchestrated by the United States' Central Intelligence Agency and the United Kingdom's MI6.
 #### Leadership
 ![](../../assets/images/lp_mohammed_mossadegh.png)
@@ -48,9 +48,9 @@ ___
  - Victim of assassination attack which left his right arm paralyzed for life
  - Imprisoned intellectual dissenters and had riot police attack protesters in Tehran in 2010
 ___
-### Mhammad Khatami
+### Mohammad Khatami
 #### General Information
-![](../../assets/images/gi_mohammad_khatami.png)aetimagesohaadhtam.pg)
+![](../../assets/images/gi_mohammad_khatami.png)
 Seyyed Mohammad Khatami (born 14 October 1943) is an Iranian scholar, Shia theologian, and reformist politician. He served as the fifth President of Iran from 3 August 1997 to 3 August 2005. He also served as Iran's Minister of Culture from 1982 to 1992. He was an outspoken critic of former President Mahmoud Ahmadinejad's government.
 #### Leadership
 ![](../../assets/images/lp_mohammad_khatami.pngassetsages/lmhamahatpg)
@@ -66,7 +66,7 @@ ___
 ![](../../assets/images/gi_mahmoud_ahmadinejad.png)
 Mahmoud Ahmadinejad (born Mahmoud Sabbaghian on 28 October 1956) is an Iranian politician who was the sixth President of Iran from 2005 to 2013. He was also the main political leader of the Alliance of Builders of Islamic Iran, a coalition of conservative political groups in the country.
 #### Leadership
-![](../../assets/images/lp_mahmoud_ahmadinejad.pngassetsages/lmahouahmaeg)
+![](../../assets/images/lp_mahmoud_ahmadinejad.png)
 ___
 #### Notable Facts
  - Former President of the Islamic Republic of Iran, a controversial figure both within and outside of Iran for his economic weaknesses and perceived disregard for human rights
@@ -77,7 +77,8 @@ ___
  - Cut the allowable interest rates for public and private banking facilities
  ___
 ### Mir-Hossein Mousavi
-#### ](../../assets/images/gi_mir-hossein_mousavi.pngassesimaeirhoseinmouaig)
+#### Basic Information
+![](../../assets/images/gi_mir-hossein_mousavi.png)
 Mir-Hossein Mousavi Khameneh (born 2 March 1942) is an Iranian reformist politician, artist and architect who served as the seventy-ninth and last Prime Minister of Iran from 1981 to 1989. He was a reformist candidate for the 2009 presidential election and eventually the leader of the opposition in the post-election unrest. Mousavi served as the president of the Iranian Academy of Arts until 2009, when Conservative authorities removed him.
 #### Leadership
 ![](../../assets/images/lp_mir-hossein_mousavi.png)
@@ -93,7 +94,7 @@ ___
 #### Time Period
 ```mermaid
 graph LR
-d1[1501] --> d2[1736]acformai
+d1[1501] --> d2[1736]
 ```
 #### Basic Information
  The Safavid dynasty was one of the most significant ruling dynasties of Iran, often considered the beginning of modern Iranian history. The Safavid shahs ruled over one of the Gunpowder Empires. They ruled one of the greatest Iranian empires after the 7th-century Muslim conquest of Iran.
@@ -106,7 +107,9 @@ The Safavid dynasty established the Twelver school of Shia Islam as the official
 graph LR
 d1[1794] --> d2[1925]
 ```
-####  Qajar dynasty was an Iranian royal dynasty of Turkic origin, specifically from the Qajar tribe, which ruled Persia (Iran) from 1794 to 1925. The state ruled by the dynasty was officially known as the Sublime State of Persia. The Qajar family took full control of Iran in 1794, deposing Lotf 'Ali Khan.
+
+#### Basic Information
+The Qajar dynasty was an Iranian royal dynasty of Turkic origin, specifically from the Qajar tribe, which ruled Persia (Iran) from 1794 to 1925. The state ruled by the dynasty was officially known as the Sublime State of Persia. The Qajar family took full control of Iran in 1794, deposing Lotf 'Ali Khan.
 
 #### Constitution of 1906
 The Persia Constitution of 1906sormatio
@@ -148,7 +151,7 @@ In 1975, Muhammad Reza Shah created the resurgence party and declared Iran to be
 #### SAVAK
 
 
-### 
+###
  Islamic Revolution of 1979
 The Islamic Revolution of 1979 was very unique because it was entirely religious. The people overthrew the Shah because of his ties to the west and his fast paced secularization of the government. The revolution was headed by [Ayatollah Khomeini](#ayatollah-ruhollah-khomeini) who became the next leader of Iran#### Revolution of Rising Expectations
 The theory of the revolution of rising expectations states that revolution is more likely to occur when people are doing better than they once were, but some type of setback happens.

@@ -8,7 +8,7 @@
  - Islam and Christian Cleavages
  - Lack of coherent national identity
  - Nigeria has had fraudulent elections such as the national election of 2007
- 
+
  - They are taking steps. 2011 and 2015's national elections were far cleaner.
 
 ## Sovereignty, Authority, and Power
@@ -61,13 +61,13 @@ During the colonial era, Great Britain implemented both rule of law and practice
  - **The interventionist state** --- The colonialists trained chiefs to run the country in order to reach economic goals. The people learned to just listen to the government .
  - **Individualism** --- In Nigeria it caused the chiefs to think about the personal benefits of governence.
  - **Christianity** --- The British brought christianity with them to Nigeria. This created a Muslim Christian cleavage.
- 
+
  - **Intensification of ethnic politics** --- Three ethnic groups:
-	 - Huasa-Fulani
+	 - Hausa-Fulani
 	 - Igbo
 	 - Yoruba
 - The British pitted them agaisnt each other in order to manage the colonies.
-  
+
 #### The Era Since Independence
 ```mermaid
 graph LR
@@ -79,8 +79,8 @@ Nigeria struggled to implement parliamentary systems and established a military 
  - **Intensification of ethnic conflict** --- After ethnic conflicts, and Igbo military group seized power in 1966 and established military rule.
  - **Military rule** --- The militray was kept in power by charismatic legitimacy. There was a coup that killed the first Igbo leader. This caused the Biafran Civil War, a fight for Igbo Independence of their land, called Biafra. The country remained together under military rule.
  - **Corruption** --- Native leaders lost touch with traditions that encouraged them to govern in the interest of the people.
- 
- - **Federalism** --- In an attempt to calm down ethnic tensions, Nigerian leaders set up a federal system. This system did not work well under military rule. However, after the military lost power, Nigeria benefited from the federal system. 
+
+ - **Federalism** --- In an attempt to calm down ethnic tensions, Nigerian leaders set up a federal system. This system did not work well under military rule. However, after the military lost power, Nigeria benefited from the federal system.
  - **Economic dependence on oil** --- Nigeria's rich oil reserves have proved to be too tempting temping for most military rulers to resist. Corruption has caused the oil industry's money to only benefit the elite. However, Nigeria is entirely dependent on oil for political and economic stability, so this creates some problems.
 
 ### Political Culture
@@ -89,6 +89,7 @@ Nigeria's political culture is shaped by ethnic diversity and conflict, corrupti
  - State control
  - Rich civil society
  - Tension between modernity and tradition
+
  - Religious conflict
 #### Geographic Influences
 Nigeria's ethnic groups can be divided into six geographic zones:
@@ -98,7 +99,7 @@ Nigeria's ethnic groups can be divided into six geographic zones:
  - **Southwest** --- The large ethnic group called the Yoruba dominate this area. It is 40% Muslim, 40% Christian, and 20% native religions.
  - **Southeast** --- This area is inhabited by the Igbo, who are primarily Roman Catholic, with a growing number of Potestants
 
- - **The Southern Zone** --- This area is home to small minority groups, it includes the Niger River's delta. 
+ - **The Southern Zone** --- This area is home to small minority groups, it includes the Niger River's delta.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTUwOTM1OTg0NSwzMDQ5MTUwMDUsOTkzMT
 k3NTc5LDc5MTEzODc0NCwyMTA1MzEwNDg4LC0xNTIzODg1NzQx
