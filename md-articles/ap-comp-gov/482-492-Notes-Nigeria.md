@@ -74,12 +74,13 @@ Nigeria struggled to implement parliamentary systems and established a military 
 
  - **Parliamentary system replaced by a presidential system** --- From 1960 to 1979 Nigeria followed the British parliamentary system. However, ethnic divisions made it hard to identify a majority party or allow a prime minister to have the right authority. In 1979 the country switched to a presidential system.
  - **Intensification of ethnic conflict** --- After ethnic conflicts, and Igbo military group seized power in 1966 and established military rule.
- - **Military Rule** --- The militray was kept in power by charismatic legitimacy. There was a coup that killed the first Igbo leader. This caused the Biafran Civil War, a fight for Igbo Independence of their land, called Biafra. The country remained together under military rule.
+ - **Military rule** --- The militray was kept in power by charismatic legitimacy. There was a coup that killed the first Igbo leader. This caused the Biafran Civil War, a fight for Igbo Independence of their land, called Biafra. The country remained together under military rule.
  - **Corruption** --- Native leaders lost touch with traditions that encouraged them to govern in the interest of the people.
  - **Federalism** --- In an attempt to calm down ethnic tensions, Nigerian leaders set up a federal system. This system did not work well under military rule. However, after the military lost power, Nigeria benefited from the federal system. 
+ - **Economic dependence on oil** --- Nigeria's rich oil reserves have proved to be too tempting temping for most military rulers to resist.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzMTk3NTc5LDc5MTEzODc0NCwyMTA1Mz
-EwNDg4LC0xNTIzODg1NzQxLDE1OTY3MjA1MTcsLTIyNjIyMjA4
-N119
+eyJoaXN0b3J5IjpbMjAxMTIzNDI3Nyw5OTMxOTc1NzksNzkxMT
+M4NzQ0LDIxMDUzMTA0ODgsLTE1MjM4ODU3NDEsMTU5NjcyMDUx
+NywtMjI2MjIyMDg3XX0=
 -->
