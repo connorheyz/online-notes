@@ -24,8 +24,12 @@ Imperialism has caused the legitimacy of the government to become charismatic. W
  - **Hausa-Fulani** --- A maily Muslim group that lives in the Northwest. They are largely ergrarian. They rely on agriculture and trade.
 
 ### Biafra
-Biafra is the homeland of the Igbo. They fought for its independence in the Biafran Civil War. They lost and the country was held together by miliary rule. The regime was replaced by a presidential system in 1979. They don't really coincide with the democracy.
+Biafra is the home land of the Igbo. They fought for its independence in the Biafran Civil War. They lost and the country was held together by miliary rule. The regime was replaced by a presidential system in 1979. They don't really coincide with the democracy.
 
 ## Classwork
 
 ### How to Rule Nigeria Plan
+- **Andrew's Group** --- Split Nigeria into two states, and let the people decide where to go
+- **Kylie's Group** --- Offer the Hausa more autonomy and financial aide
+- **Zach's Group** --- Semi-presidential system with federalist regime. The prime minister is always Hausa and the president is Igbo
+- **Lexy's Group** --- Different heirarchies with intermidiate groups
