@@ -58,9 +58,10 @@ During the colonial era, Great Britain implemented both rule of law and practice
  - **Authoritarian rule** --- Britain ruled by implementing chiefs that govern with Britain's economic goals in mind. Britain increased the Authority of the chiefs, making them only accountable to the British.
  - **The interventionist state** --- The colonialists trained chiefs to run the country in order to reach economic goals. The people learned to just listen to the government .
  - **Individualism** --- In Nigeria it caused the chiefs to think about the personal benefits of governence.
- - **Christianity** --- The British brought christianity with them
+ - **Christianity** --- The British brought christianity with them to Nigeria. This created a Muslim Christian cleavage.
+ - **Intensification**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjM4ODU3NDEsMTU5NjcyMDUxNywtMj
-I2MjIyMDg3XX0=
+eyJoaXN0b3J5IjpbMjEwNTMxMDQ4OCwtMTUyMzg4NTc0MSwxNT
+k2NzIwNTE3LC0yMjYyMjIwODddfQ==
 -->
