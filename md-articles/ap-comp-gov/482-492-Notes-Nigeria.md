@@ -76,11 +76,12 @@ Nigeria struggled to implement parliamentary systems and established a military 
  - **Intensification of ethnic conflict** --- After ethnic conflicts, and Igbo military group seized power in 1966 and established military rule.
  - **Military rule** --- The militray was kept in power by charismatic legitimacy. There was a coup that killed the first Igbo leader. This caused the Biafran Civil War, a fight for Igbo Independence of their land, called Biafra. The country remained together under military rule.
  - **Corruption** --- Native leaders lost touch with traditions that encouraged them to govern in the interest of the people.
+ 
  - **Federalism** --- In an attempt to calm down ethnic tensions, Nigerian leaders set up a federal system. This system did not work well under military rule. However, after the military lost power, Nigeria benefited from the federal system. 
- - **Economic dependence on oil** --- Nigeria's rich oil reserves have proved to be too tempting temping for most military rulers to resist.
+ - **Economic dependence on oil** --- Nigeria's rich oil reserves have proved to be too tempting temping for most military rulers to resist. Corruption has caused the oil industry's money to only benefit the elite. However, Nigeria is entirely dependent on oil for political and economic stability, so this creates some problems.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTIzNDI3Nyw5OTMxOTc1NzksNzkxMT
+eyJoaXN0b3J5IjpbLTQzODk5MDQxMSw5OTMxOTc1NzksNzkxMT
 M4NzQ0LDIxMDUzMTA0ODgsLTE1MjM4ODU3NDEsMTU5NjcyMDUx
 NywtMjI2MjIyMDg3XX0=
 -->
