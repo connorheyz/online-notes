@@ -66,8 +66,12 @@ During the colonial era, Great Britain implemented both rule of law and practice
 - The British pitted them agaisnt each other in order to manage the colonies.
   
   #### The Era Since Independence
+ ```mermaid
+graph LR
+1980
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzQ1NjMwMywyMTA1MzEwNDg4LC0xNT
+eyJoaXN0b3J5IjpbMTA5NjE5MDIzMCwyMTA1MzEwNDg4LC0xNT
 IzODg1NzQxLDE1OTY3MjA1MTcsLTIyNjIyMjA4N119
 -->
