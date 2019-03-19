@@ -70,9 +70,9 @@ During the colonial era, Great Britain implemented both rule of law and practice
 graph LR
 1960 --> Present
 ```
-Nigeria struggled to implement parliamentary systems and established a milita
+Nigeria struggled to implement parliamentary systems and established a military dictatorship in 1966. Traditions established in this era
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5NDU5NDUwLDIxMDUzMTA0ODgsLTE1Mj
-M4ODU3NDEsMTU5NjcyMDUxNywtMjI2MjIyMDg3XX0=
+eyJoaXN0b3J5IjpbLTEzNzE0MDYwNzYsMjEwNTMxMDQ4OCwtMT
+UyMzg4NTc0MSwxNTk2NzIwNTE3LC0yMjYyMjIwODddfQ==
 -->
