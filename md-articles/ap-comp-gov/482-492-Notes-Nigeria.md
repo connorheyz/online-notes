@@ -68,10 +68,10 @@ During the colonial era, Great Britain implemented both rule of law and practice
   #### The Era Since Independence
  ```mermaid
 graph LR
-1980
+1960 --> Present
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NjE5MDIzMCwyMTA1MzEwNDg4LC0xNT
-IzODg1NzQxLDE1OTY3MjA1MTcsLTIyNjIyMjA4N119
+eyJoaXN0b3J5IjpbMjkyNDgwNTkzLDIxMDUzMTA0ODgsLTE1Mj
+M4ODU3NDEsMTU5NjcyMDUxNywtMjI2MjIyMDg3XX0=
 -->
