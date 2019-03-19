@@ -72,9 +72,9 @@ graph LR
 ```
 Nigeria struggled to implement parliamentary systems and established a military dictatorship in 1966. Traditions established in this era include:
 
- - **Parliamentary system replaced by a presidential system** --- From 1960 to 1979 
+ - **Parliamentary system replaced by a presidential system** --- From 1960 to 1979 Nigeria followed the British parliamentary system. However, ethnic divisions made it hard to identify a majority p
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NzA4NTA2NCwyMTA1MzEwNDg4LC0xNT
-IzODg1NzQxLDE1OTY3MjA1MTcsLTIyNjIyMjA4N119
+eyJoaXN0b3J5IjpbNzkwMDI2ODQyLDIxMDUzMTA0ODgsLTE1Mj
+M4ODU3NDEsMTU5NjcyMDUxNywtMjI2MjIyMDg3XX0=
 -->
