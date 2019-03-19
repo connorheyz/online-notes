@@ -84,9 +84,9 @@ Nigeria struggled to implement parliamentary systems and established a military 
  - **Economic dependence on oil** --- Nigeria's rich oil reserves have proved to be too tempting temping for most military rulers to resist. Corruption has caused the oil industry's money to only benefit the elite. However, Nigeria is entirely dependent on oil for political and economic stability, so this creates some problems.
 
 ### Political Culture
-Nigeria's political culture is shaped by ethnic diversity and confli
+Nigeria's political culture is shaped by ethnic diversity and conflict, corruption, and a politically active military.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzg4NzQ3OTUsOTkzMTk3NTc5LDc5MT
-EzODc0NCwyMTA1MzEwNDg4LC0xNTIzODg1NzQxLDE1OTY3MjA1
-MTcsLTIyNjIyMjA4N119
+eyJoaXN0b3J5IjpbMTM2ODEzNjgyOCw5OTMxOTc1NzksNzkxMT
+M4NzQ0LDIxMDUzMTA0ODgsLTE1MjM4ODU3NDEsMTU5NjcyMDUx
+NywtMjI2MjIyMDg3XX0=
 -->
