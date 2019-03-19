@@ -92,9 +92,11 @@ Nigeria's political culture is shaped by ethnic diversity and conflict, corrupti
  - Religious conflict
 #### Geographic Influences
 Nigeria's ethnic groups can be divided into six geographic zones:
-	 - **Northwest** --- Hausa-Fauni people, predominately Muslim
+ - **Northwest** --- Hausa-Fauni people, predominately Muslim.
+ - **Northeast** --- Home to smaller groups, also Muslim.
+ - ** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDM1ODUzMzEsOTkzMTk3NTc5LDc5MT
-EzODc0NCwyMTA1MzEwNDg4LC0xNTIzODg1NzQxLDE1OTY3MjA1
-MTcsLTIyNjIyMjA4N119
+eyJoaXN0b3J5IjpbMjQzNTE3NDUwLDk5MzE5NzU3OSw3OTExMz
+g3NDQsMjEwNTMxMDQ4OCwtMTUyMzg4NTc0MSwxNTk2NzIwNTE3
+LC0yMjYyMjIwODddfQ==
 -->
