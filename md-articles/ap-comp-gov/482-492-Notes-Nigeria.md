@@ -56,9 +56,9 @@ d1[1860] --> d2[1960]
 ```
 During the colonial era, Great Britain implemented both rule of law and practices that went against democracy. Influences from this era include:
  - **Authoritarian rule** --- Britain ruled by implementing chiefs that govern with Britain's economic goals in mind. Britain increased the Authority of the chiefs, making them only accountable to the British.
- - **The interventionist state** --- The coloni
+ - **The interventionist state** --- The colonialists trained chiefs to run the country in order to reach economic goals. The people learned to just listen to the govern 你的生日
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjU2MTQ4NjcsMTU5NjcyMDUxNywtMj
-I2MjIyMDg3XX0=
+eyJoaXN0b3J5IjpbMTMzNjk4Mjc1NSwxNTk2NzIwNTE3LC0yMj
+YyMjIwODddfQ==
 -->
