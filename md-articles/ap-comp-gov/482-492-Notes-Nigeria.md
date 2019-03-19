@@ -4,7 +4,7 @@
  - Nigeria faces daunting problems
  - Nigeria is Africa's most populous state, with about  140 million citizens.
  - 70% live in poverty
- - PPP -- $6000/yr
+ - PPP --- $6000/yr
  - Islam and Christian Cleavages
  - Lack of coherent national identity
  - Nigeria has had fraudulent elections such as the national election of 2007
@@ -59,5 +59,6 @@ During the colonial era, Great Britain implemented both rule of law and practice
  - **The interventionist state** --- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NjcyMDUxNywtMjI2MjIyMDg3XX0=
+eyJoaXN0b3J5IjpbLTE4ODcwMDk0OTgsMTU5NjcyMDUxNywtMj
+I2MjIyMDg3XX0=
 -->
