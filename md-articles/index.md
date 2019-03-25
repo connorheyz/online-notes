@@ -6,7 +6,7 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 
 | Most Recent Notes | Date | Teacher |
 |--|--|--|
-| 3/23 496 - 508 Reading | 3/23/2019 | Scott Wilson |
+| Nigeria Tables and Documents | 3/25/2019 | Scott Wilson |
 
 ### [Study Guides](articles/ap-comp-gov/index.html#study-guides)
 | Most Recent Study Guide | Test | Teacher |
@@ -35,7 +35,7 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 |--|--|--|
 | -- | -- | Christopher Devine |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MjE4ODg0NSw2NzU2Njk3MDUsLTUwOT
-M4OTcyNyw4MjI1MzYzODUsMjQ2NTY3ODUxLDIwNTYwOTU3OTAs
-LTIwMDIyMzg2NDhdfQ==
+eyJoaXN0b3J5IjpbNzI2MzU1NjAwLC05NzIxODg4NDUsNjc1Nj
+Y5NzA1LC01MDkzODk3MjcsODIyNTM2Mzg1LDI0NjU2Nzg1MSwy
+MDU2MDk1NzkwLC0yMDAyMjM4NjQ4XX0=
 -->
