@@ -1,16 +1,16 @@
-# 3/19 Notes Nigeria
 
+# 3/19 Notes Nigeria
 ## Classroom Warm-ups
 ### State & Regime Pyramids
 #### Colonial
 The British put chiefs at the top of the heirarchy. They ruled with an Authoritarian regime and had Britain's economic interests in mind. The state was a British colony.
 
-![cnp2](/assets/images/cnp2.png)
+![cnp2](../../assets/images/cnp2.png)
 
 #### Post colonial
 After the Colonial Era, Nigeria kept the British parliamentary system. In 1966, the military took control and established military rule. In 1979, due to ethnic tensions and divisions, they switched to a presidential system. The military is still very active in policy though.
 
-![cnp](/assets/images/cnp.png)
+![cnp](../../assets/images/cnp.png)
 
 ### National question
 The national question is the question of who rules Nigeria and how do they rule it? Nigeria has gone through a lot of regime changes and has not found a regime that worked for a long time.
@@ -33,3 +33,6 @@ Biafra is the home land of the Igbo. They fought for its independence in the Bia
 - **Kylie's Group** --- Offer the Hausa more autonomy and financial aide
 - **Zach's Group** --- Semi-presidential system with federalist regime. The prime minister is always Hausa and the president is Igbo
 - **Lexy's Group** --- Different heirarchies with intermidiate groups
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2MDQ5NTI2ODhdfQ==
+-->

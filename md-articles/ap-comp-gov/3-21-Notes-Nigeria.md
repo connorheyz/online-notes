@@ -23,7 +23,7 @@ Total of all goods and services.
 
 ## Classwork
 Compare data from China, Russia, Mexico, Nigeria, Iran, and the UK
-### HDI
-<a href="/3-21-Notes-Nigeria.html" target="_blank">
-  <img class="align" alt="" src="/images/2019/03/h" width="" height="" />
-</a>
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1OTM1MjkxMTldfQ==
+-->

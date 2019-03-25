@@ -1,4 +1,4 @@
-# Nigeria Reading: 496 → 508
+# Nigeria Reading: 496 --- 508
 ## Societal Issues
 There are many societal characteristics that make democratization a challenge:
  - **A large gap between the rich and poor** --- Distribution of wealth in Nigeria is not equal (.48 Gini Index).
