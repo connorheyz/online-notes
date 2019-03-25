@@ -20,3 +20,16 @@ Niger militants are ransacking American oil providers. International oil provide
 
 ### Has Boko Haram been Defeated?
 President Buhari has claimed that Boko Haram's activities have been greatly reduced since his presidency. His opponents say he is lying. He is not wrong, but Boko Haram is still active and on the rise. They have kidnapped hundreds since Buhari's presidency.
+
+## Lecture
+### MAN
+A group that fights the corrupted oil industry in Nigeria that pollutes both the politics and the environment of Nigeria. They also fight black-market oil sale.
+### Rentier State
+| Pros | Cons |
+|-|-|
+| Wealth | Corruption |
+| Foreign Investment | No Taxes → More Autonomy |
+| Trade | Pollution |
+| Liberalism? | Too Dependent on Oil |
+### Dirty Oil
+There's a lot of black market oil sale because the multi-billion dollar oil industry is not benefitting citizens, only the elite.
