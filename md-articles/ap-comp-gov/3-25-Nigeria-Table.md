@@ -22,7 +22,7 @@ Niger militants are ransacking American oil providers. International oil provide
 President Buhari has claimed that Boko Haram's activities have been greatly reduced since his presidency. His opponents say he is lying. He is not wrong, but Boko Haram is still active and on the rise. They have kidnapped hundreds since Buhari's presidency.
 
 ## Lecture
-### MAN
+### Environmental Group
 A group that fights the corrupted oil industry in Nigeria that pollutes both the politics and the environment of Nigeria. They also fight black-market oil sale.
 ### Rentier State
 | Pros | Cons |
