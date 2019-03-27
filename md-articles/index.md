@@ -1,4 +1,4 @@
-\# Welcome To Connor's Online Notes!
+# Welcome To Connor's Online Notes!
 This is the homepage for  Connor's Online Notes. See the links below to view class notes.
 
 ## [AP Comparative Government](articles/ap-comp-gov/index.html)
