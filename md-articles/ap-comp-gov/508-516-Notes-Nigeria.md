@@ -16,4 +16,15 @@ Elections after 1993. Majority vote needed. If majority is not met, a second bal
  - **2003**
  - **2011** --- Goodluck Jonathan won in the first round, making him the first in Nigeria's history.
 #### Legislative Elections
-The Senate has 109 Senators, 3 from each of its 36 states. They are elected by popular vote. The House of representatives are elected from single memeber districts. No run-off elections occur for these seats. It is mainly regional representation
+The Senate has 109 Senators, 3 from each of its 36 states. They are elected by popular vote. The 360 House of representatives seats are elected from single memeber districts. No run-off elections occur for these seats. It is mainly regional representation.
+### Election Fraud
+The 2003 and 2007 elections were highly fraudulent. In 2003, some politicians were assasinated. However, in 2007, things were even worse. Obasanjo tries to pass a bill that would let him run for three terms, and the races were deeply flawed on local and state levels.
+### The Elections of 2011
+The elections of 2011 were an improvement because of the changes the INEC implemented. Goodluck Jonathan won the presidency in the first round.
+### The Elections of 2015
+The elections of 2015 were also an improvement over 2003 and 2007. Muhammadu Buhari won the presidency and Goodluck Jonathan was the first president to lose re-election in Nigeria.
+
+Boko Haram tried to disrupt the elections by attacking voting centers.
+
+## Mass Media
+In contrast to most less-developed countires, Nigeria has long had a well developed independent press. Most newspapers are in the South.
