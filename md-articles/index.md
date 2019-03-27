@@ -28,14 +28,15 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 ### [Notes](articles/ib-math-hl-1/index.html#notes)
 | Most Recent Notes | Date | Teacher |
 |--|--|--|
-| -- | -- | Christopher Devine |
+| Geometric Sequences and Series | 3/27/2019 | Christopher Devine |
 
 ### [Study Guides](articles/ib-math-hl-1/index.html#study-guides)
 | Most Recent Study Guide | Test | Teacher |
 |--|--|--|
 | -- | -- | Christopher Devine |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzI3MzgyOSw3MjYzNTU2MDAsLTk3Mj
-E4ODg0NSw2NzU2Njk3MDUsLTUwOTM4OTcyNyw4MjI1MzYzODUs
-MjQ2NTY3ODUxLDIwNTYwOTU3OTAsLTIwMDIyMzg2NDhdfQ==
+eyJoaXN0b3J5IjpbODc3Njk4MzM4LDEwMjcyNzM4MjksNzI2Mz
+U1NjAwLC05NzIxODg4NDUsNjc1NjY5NzA1LC01MDkzODk3Mjcs
+ODIyNTM2Mzg1LDI0NjU2Nzg1MSwyMDU2MDk1NzkwLC0yMDAyMj
+M4NjQ4XX0=
 -->
