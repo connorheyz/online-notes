@@ -6,7 +6,7 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 
 | Most Recent Notes | Date | Teacher |
 |--|--|--|
-| entWood Book 508 - 516: Political Instis | 3/256/019 | Scott Wilson |
+| Wood Book 508 - 516: Political Institutions | 3/25/2019 | Scott Wilson |
 
 ### [Study Guides](articles/ap-comp-gov/index.html#study-guides)
 | Most Recent Study Guide | Test | Teacher |
@@ -35,8 +35,8 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 |--|--|--|
 | -- | -- | Christopher Devine |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3Njk4MzM4LDEwMjcyNzM4MjksNzI2Mz
-U1NjAwLC05NzIxODg4NDUsNjc1NjY5NzA1LC01MDkzODk3Mjcs
-ODIyNTM2Mzg1LDI0NjU2Nzg1MSwyMDU2MDk1NzkwLC0yMDAyMj
-M4NjQ4XX0=
+eyJoaXN0b3J5IjpbNzQyMzU5MTY2LDg3NzY5ODMzOCwxMDI3Mj
+czODI5LDcyNjM1NTYwMCwtOTcyMTg4ODQ1LDY3NTY2OTcwNSwt
+NTA5Mzg5NzI3LDgyMjUzNjM4NSwyNDY1Njc4NTEsMjA1NjA5NT
+c5MCwtMjAwMjIzODY0OF19
 -->
