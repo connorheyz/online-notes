@@ -11,7 +11,7 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 ### [Study Guides](articles/ap-comp-gov/index.html#study-guides)
 | Most Recent Study Guide | Test | Teacher |
 |--|--|--|
-| Iran Least You Need To Know | Iran Unit Test | Scott Wilson |
+| Nigeria Least You Need To Know | Nigeria Unit Test | Scott Wilson |
 
 ## [IB Chemstry](articles/ib-chemistry/index.html)
 ### [Notes](articles/ib-chemistry/index.html#notes)
