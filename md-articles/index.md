@@ -11,7 +11,7 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 ### [Study Guides](articles/ap-comp-gov/index.html#study-guides)
 | Most Recent Study Guide | Test | Teacher |
 |--|--|--|
-| Nigeria Least You Need To Know | Nigeria Unit Test | Scott Wilson |
+|  Least You Need To Know | Nigeria Unit Test | Scott Wilson |
 
 ## [IB Chemstry](articles/ib-chemistry/index.html)
 ### [Notes](articles/ib-chemistry/index.html#notes)
@@ -28,15 +28,16 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 ### [Notes](articles/ib-math-hl-1/index.html#notes)
 | Most Recent Notes | Date | Teacher |
 |--|--|--|
-| Geometric Sequences and Series | 3/27/2019 | Christopher Devine |
+| Geometric Sequences and ttu | /27/2019 | Christopher Devine |
 
 ### [Study Guides](articles/ib-math-hl-1/index.html#study-guides)
 | Most Recent Study Guide | Test | Teacher |
 |--|--|--|
 | -- | -- | Christopher Devine |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzOTcwMTE1LDc0MjM1OTE2Niw4Nzc2OT
-gzMzgsMTAyNzI3MzgyOSw3MjYzNTU2MDAsLTk3MjE4ODg0NSw2
-NzU2Njk3MDUsLTUwOTM4OTcyNyw4MjI1MzYzODUsMjQ2NTY3OD
-UxLDIwNTYwOTU3OTAsLTIwMDIyMzg2NDhdfQ==
+eyJoaXN0b3J5IjpbMTAzNjcyMDA0OCw2MTM5NzAxMTUsNzQyMz
+U5MTY2LDg3NzY5ODMzOCwxMDI3MjczODI5LDcyNjM1NTYwMCwt
+OTcyMTg4ODQ1LDY3NTY2OTcwNSwtNTA5Mzg5NzI3LDgyMjUzNj
+M4NSwyNDY1Njc4NTEsMjA1NjA5NTc5MCwtMjAwMjIzODY0OF19
+
 -->
