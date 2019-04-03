@@ -6,12 +6,12 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 
 | Most Recent Notes | Date | Teacher |
 |--|--|--|
-| Wood Book 516 - 523: Political Institutions | 3/28/2019 | Scott Wilson |
+| Wood Book 350 - 355: Sovereignty, Authority, and Power | 4/3/2019 | Scott Wilson |
 
 ### [Study Guides](articles/ap-comp-gov/index.html#study-guides)
 | Most Recent Study Guide | Test | Teacher |
 |--|--|--|
-|  Least You Need To Know | Nigeria Unit Test | Scott Wilson |
+| Least You Need To Know | Nigeria Unit Test | Scott Wilson |
 
 ## [IB Chemstry](articles/ib-chemistry/index.html)
 ### [Notes](articles/ib-chemistry/index.html#notes)
