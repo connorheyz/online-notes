@@ -28,7 +28,7 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 ### [Notes](articles/ib-math-hl-1/index.html#notes)
 | Most Recent Notes | Date | Teacher |
 |--|--|--|
-| Geometric Sequences and ttu | /27/2019 | Christopher Devine |
+| Geometric Sequences and Series | 3/27/2019 | Christopher Devine |
 
 ### [Study Guides](articles/ib-math-hl-1/index.html#study-guides)
 | Most Recent Study Guide | Test | Teacher |
