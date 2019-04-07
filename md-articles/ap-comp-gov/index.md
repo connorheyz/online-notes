@@ -12,6 +12,7 @@
 - **3/27/2019** -- [Nigeria Political Structure](3-27-Notes-Nigeria.html)
 - **3/28/2019** -- [Wood Book 516 - 523: Institutions of Government](516-523-Reading-Notes.html)
 - **4/3/2019** -- [Wood Book 350 - 355: Sovereignty, Authority, and Power](350-355-Notes-Mexico.html)
+- **4/7/2019** -- [Wood Book 356 - 364: Political and Economic Change](356-364-Notes-Mexico.html)
 ## Study Guides
  - **Iran Unit Test** -- [Least you need to know](Iran-Least-You-Need-To-Know.html)
  - **Nigeria Unit Test** -- [Least you need to know](Nigeria-Least-You-Need-To-Know.html)

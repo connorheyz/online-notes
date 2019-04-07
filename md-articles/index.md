@@ -6,7 +6,7 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 
 | Most Recent Notes | Date | Teacher |
 |--|--|--|
-| Wood Book 350 - 355: Sovereignty, Authority, and Power | 4/3/2019 | Scott Wilson |
+| Wood Book 356 - 364: Political and Economic Change | 4/7/2019 | Scott Wilson |
 
 ### [Study Guides](articles/ap-comp-gov/index.html#study-guides)
 | Most Recent Study Guide | Test | Teacher |
