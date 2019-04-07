@@ -6,7 +6,7 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 
 | Most Recent Notes | Date | Teacher |
 |--|--|--|
-| Wood Book 35 - Economic Change55: Sovereignty, Authority, and Power | 4/73/2019 | Scott Wilson |
+| Wood Book 356 - 364 | 4/73/2019 | Scott Wilson |
 
 ### [Study Guides](articles/ap-comp-gov/index.html#study-guides)
 | Most Recent Study Guide | Test | Teacher |
@@ -35,9 +35,9 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 |--|--|--|
 | -- | -- | Christopher Devine |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODE1NDM1OSwxMDM2NzIwMDQ4LDYxMz
-k3MDExNSw3NDIzNTkxNjYsODc3Njk4MzM4LDEwMjcyNzM4Mjks
-NzI2MzU1NjAwLC05NzIxODg4NDUsNjc1NjY5NzA1LC01MDkzOD
-k3MjcsODIyNTM2Mzg1LDI0NjU2Nzg1MSwyMDU2MDk1NzkwLC0y
-MDAyMjM4NjQ4XX0=
+eyJoaXN0b3J5IjpbLTE4MTkwNTQ4NDMsMTQyODE1NDM1OSwxMD
+M2NzIwMDQ4LDYxMzk3MDExNSw3NDIzNTkxNjYsODc3Njk4MzM4
+LDEwMjcyNzM4MjksNzI2MzU1NjAwLC05NzIxODg4NDUsNjc1Nj
+Y5NzA1LC01MDkzODk3MjcsODIyNTM2Mzg1LDI0NjU2Nzg1MSwy
+MDU2MDk1NzkwLC0yMDAyMjM4NjQ4XX0=
 -->
