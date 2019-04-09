@@ -48,9 +48,9 @@ The revolution of 1910 was a coup from within the elite. Another round of instab
 #### The Chaos of the Early 20$^{th}$ Century
  - Revolution by elites to remove Diaz.
  - **Patron-Clientelism** --- In order to overthrow Diaz, **caudillos**, political strongmen from different areas, rose the challenge each other. **Emiliano Zapata** and **Pancho Villa** emerged and a Patron-Clientel system arose around each.
- - **Constitution of 1917** --- It was the end of the revolution but not the violence.
+ - **Constitution of 1917** --- It was the end of the revolution but not the violence. Sets up a three branch presidential system.
  - **Conflict with Catholic Church** --- The Cristero Rebellion in 1920 was one of the bloodiest in Mexcian history. Liberals saw the church as a bastion of conservatism. They set up laws that forbid the influence of the church in any way.
- - **The establishment of PRI** --- PRI is a party coalition that institutionalized the revolution. They passed around the presidency in six year terms, called **sexenio**.
+ - **The establishment of PRI** --- PRI is a party coalition that institutionalized the revolution. They passed around the presidency in six year terms, called **sexenio**. The PRI stays in power by a patron-client system known as **camarillas**.
 #### The Cardenas Upheaval
 ```mermaid
 graph LR
