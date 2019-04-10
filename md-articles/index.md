@@ -6,7 +6,7 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 
 | Most Recent Notes | Date | Teacher |
 |--|--|--|
-| Wood Book 356 - 364: Political and Economic Change | 4/7/2019 | Scott Wilson |
+| Wood Book 356 - 364 | 4/73/2019 | Scott Wilson |
 
 ### [Study Guides](articles/ap-comp-gov/index.html#study-guides)
 | Most Recent Study Guide | Test | Teacher |
@@ -35,9 +35,9 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 |--|--|--|
 | -- | -- | Christopher Devine |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNjcyMDA0OCw2MTM5NzAxMTUsNzQyMz
-U5MTY2LDg3NzY5ODMzOCwxMDI3MjczODI5LDcyNjM1NTYwMCwt
-OTcyMTg4ODQ1LDY3NTY2OTcwNSwtNTA5Mzg5NzI3LDgyMjUzNj
-M4NSwyNDY1Njc4NTEsMjA1NjA5NTc5MCwtMjAwMjIzODY0OF19
-
+eyJoaXN0b3J5IjpbLTE4MTkwNTQ4NDMsMTQyODE1NDM1OSwxMD
+M2NzIwMDQ4LDYxMzk3MDExNSw3NDIzNTkxNjYsODc3Njk4MzM4
+LDEwMjcyNzM4MjksNzI2MzU1NjAwLC05NzIxODg4NDUsNjc1Nj
+Y5NzA1LC01MDkzODk3MjcsODIyNTM2Mzg1LDI0NjU2Nzg1MSwy
+MDU2MDk1NzkwLC0yMDAyMjM4NjQ4XX0=
 -->
