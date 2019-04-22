@@ -1,11 +1,11 @@
 # IB Math 1
 
 ## Notes
-start{equation}
+ - **3/27/2019** -- [Geometric Sequences and Series]()
 
 ## Study Guides
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk3NDkzNTY0LC0xMDMwMTAyNzM3LC0yMD
-g1MDEyMzY1LC0xMTg0NDgzMDI0LDkxNzUzODcyMCwxMjY3NjY0
-MjI4XX0=
+eyJoaXN0b3J5IjpbMjA2Mjc4NDU5NSw5OTc0OTM1NjQsLTEwMz
+AxMDI3MzcsLTIwODUwMTIzNjUsLTExODQ0ODMwMjQsOTE3NTM4
+NzIwLDEyNjc2NjQyMjhdfQ==
 -->
