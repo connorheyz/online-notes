@@ -337,7 +337,7 @@ g1[<b>Socialist</b><br>Cardenas<br>Ruiz Cortines] --- g2[<b>Capitalist</b><br>Mi
  - Emerged after Pendulum Theory stopped and took control of the government
  - Free market politics
 ### Zapatista Army of National Liberation (EZLN)
-A military organization of Zapatistas that rose during the turmoil of the Chiapas Rebellion against the NAFTA agreement
+ - A military organization of Zapatistas that rose during the turmoil of the Chiapas Rebellion against the NAFTA agreement
 ### Televisa
  - Number one wireless company in Mexico, over 70 % of the population uses it
  - Controls the broadcast television market
