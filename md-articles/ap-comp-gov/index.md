@@ -19,9 +19,10 @@
 ## Study Guides
  - **Iran Unit Test** -- [Least you need to know](Iran-Least-You-Need-To-Know.html)
  - **Nigeria Unit Test** -- [Least you need to know](Nigeria-Least-You-Need-To-Know.html)
+ - **Mexico Unit test** -- [Least you need to know]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDA5NDg4MDYsLTExMDAyMTE4NywzND
-M4ODI4NjUsMTQxOTMxODk1OSw2NTUxNTUwNjEsMjAyNDE2MTYw
-NiwtNDEwNzY3MTc3LDYwMzQ0MDYxNF19
+eyJoaXN0b3J5IjpbODMzNjAyOTI2LC0xMTAwOTQ4ODA2LC0xMT
+AwMjExODcsMzQzODgyODY1LDE0MTkzMTg5NTksNjU1MTU1MDYx
+LDIwMjQxNjE2MDYsLTQxMDc2NzE3Nyw2MDM0NDA2MTRdfQ==
 -->
