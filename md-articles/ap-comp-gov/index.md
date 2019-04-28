@@ -16,6 +16,7 @@
 - **4/9/2019** -- [Comparing Revolutions in The AP 6](4-9-Notes-Mexico.html)
 - **4/20/2019** -- [Wood Book 365 - 370](365-370-Notes-Mexico.html)
 - **4/22/2019** -- [Pratice AP Test FRQs](4-22-Practice-FRQs.html)
+- **4/26/2019** -- [Mexico State Chart](State-Charts-Mexico.html)
 ## Study Guides
  - **Iran Unit Test** -- [Least you need to know](Iran-Least-You-Need-To-Know.html)
  - **Nigeria Unit Test** -- [Least you need to know](Nigeria-Least-You-Need-To-Know.html)

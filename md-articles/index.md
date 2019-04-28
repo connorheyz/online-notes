@@ -6,7 +6,7 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 
 | Most Recent Notes | Date | Teacher |
 |--|--|--|
-| Practice AP FRQs | 4/22/2019 | Scott Wilson |
+| Mexico State Chart | 4/26/2019 | Scott Wilson |
 
 ### [Study Guides](articles/ap-comp-gov/index.html#study-guides)
 | Most Recent Study Guide | Test | Teacher |
