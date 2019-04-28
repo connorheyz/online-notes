@@ -1,3 +1,4 @@
+# Mexico Least You Need To Know
 ## People
 ### Father Miguel Hidalgo
  - Priest and rebellion leader
@@ -341,3 +342,6 @@ g1[<b>Socialist</b><br>Cardenas<br>Ruiz Cortines] --- g2[<b>Capitalist</b><br>Mi
 ### Televisa
  - Number one wireless company in Mexico, over 70 % of the population uses it
  - Controls the broadcast television market
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTY0NTgxMzE1NF19
+-->
