@@ -1,6 +1,17 @@
 # Welcome To Connor's Online Notes!
 This is the homepage for  Connor's Online Notes. See the links below to view class notes.
 
+## AP US History
+### [Notes](articles/ap-comp-gov/index.html#notes)
+
+| Most Recent Notes | Date | Teacher |
+|--|--|--|
+| Chapter 5 Notes | 10/1/2019 | Jarott Ward |
+
+### [Study Guides](articles/ap-comp-gov/index.html#study-guides)
+| Most Recent Study Guide | Test | Teacher |
+|--|--|--|
+| Least You Need To Know | Mexico Unit Test | Scott Wilson |
 ## AP Comparative Government
 ### [Notes](articles/ap-comp-gov/index.html#notes)
 
@@ -24,7 +35,7 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 |--|--|--|
 | -- | -- | Karen McClean |
 
-## IB Math 1 HL](articles/ib-math-hl-1/index.html)
+## IB Math 1 HL
 ### [Notes](articles/ib-math-hl-1/index.html#notes)
 | Most Recent Notes | Date | Teacher |
 |--|--|--|
@@ -35,7 +46,7 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 |--|--|--|
 | -- | -- | Christopher Devine |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTUzMTcwMDIsMTM3NzExMzcwOSwtMj
+eyJoaXN0b3J5IjpbLTEzNjk0Mzc0ODYsMTM3NzExMzcwOSwtMj
 E0MzkyMzI0MywtMTgxOTA1NDg0MywxNDI4MTU0MzU5LDEwMzY3
 MjAwNDgsNjEzOTcwMTE1LDc0MjM1OTE2Niw4Nzc2OTgzMzgsMT
 AyNzI3MzgyOSw3MjYzNTU2MDAsLTk3MjE4ODg0NSw2NzU2Njk3
