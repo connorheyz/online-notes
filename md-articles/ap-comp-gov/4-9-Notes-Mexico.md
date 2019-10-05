@@ -1,8 +1,8 @@
 # 4/9 Mexico Notes
 ## Comparing Political Revolutions in the AP 6
-Country | Year(s)  | Causes | Leaders | Immediate Results | Long-term Results
+Country | Year(s) | Causes | Leaders | Immediate Results | Long-term Results
 --|---|---|---|---|--
-China  | 1966 - 1964 | Mao said people were trying to restore capitalism | Mao Zedong | A personality cult arose around Mao | 
-Russia  | 1917 | Working class supression | V.I. Lenin | Tsars overthrown | Communism established in Russia
-Nigeria  |   |   |   |   |
-Iran  | 1980 - 1983 | Religious tension | Ayatollah Khomeini | Pruging western influence | Western ideas are heavily censored
+China | 1966 - 1964 <br>---<br>1911 | Mao said people were trying to restore capitalism<br>---<br>Imperialist rule in China | Mao Zedong<br>---<br>Sun-Yat Sen | The Red Guard destroyed capitalism like a boss<br>---<br>Established the Republic of China and ended the imperial system | A personality cult arose around Mao <br>---<br> The republic of china lasted until 1949 and struggles between Nationalists and communists arose |
+Russia  | 1917 | Working class suppression | V.I. Lenin | Tsars overthrown | Communism established in Russia
+Iran  | 1980 - 1983 <br>---<br> 1979 | Religious tension <br>---<br> Discontent with the Shahs| Ayatollah Khomeini <br>---<br> Ayatollah Khomeini | Purging western influence <br>---<br> Overthrow of the Shahs | Western ideas are heavily censored <br>---<br> 1979 Oil crisis and Hostage crisis|
+Mexico | 1911 | The "Porfiriato" and Diaz' authoritarian rule| The ovethrow of Porfirio Diaz | Emiliano Zapata | The constitution of 1917 was established
