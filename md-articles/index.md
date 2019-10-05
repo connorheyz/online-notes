@@ -12,6 +12,18 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 | Most Recent Chart | Chapter | Teacher |
 |--|--|--|
 | AMSCO Guided Reading | 5 | Jarott Ward|
+
+## IB Business Management
+### [Notes](articles/ib-business/index.html#notes)
+
+| Most Recent Notes | Date | Teacher |
+|--|--|--|
+| Mexico State Chart | 4/26/2019 | Scott Wilson |
+
+### [Study Guides](articles/ib-business/index.html#study-guides)
+| Most Recent Study Guide | Test | Teacher |
+|--|--|--|
+| Least You Need To Know | Mexico Unit Test | Scott Wilson |
 ## AP Comparative Government
 ### [Notes](articles/ap-comp-gov/index.html#notes)
 
@@ -46,10 +58,10 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 |--|--|--|
 | -- | -- | Christopher Devine |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM3NzM3NDkyLDEzNzcxMTM3MDksLTIxND
-M5MjMyNDMsLTE4MTkwNTQ4NDMsMTQyODE1NDM1OSwxMDM2NzIw
-MDQ4LDYxMzk3MDExNSw3NDIzNTkxNjYsODc3Njk4MzM4LDEwMj
-cyNzM4MjksNzI2MzU1NjAwLC05NzIxODg4NDUsNjc1NjY5NzA1
-LC01MDkzODk3MjcsODIyNTM2Mzg1LDI0NjU2Nzg1MSwyMDU2MD
-k1NzkwLC0yMDAyMjM4NjQ4XX0=
+eyJoaXN0b3J5IjpbLTE5Nzk4NjU5MDIsMTM3NzExMzcwOSwtMj
+E0MzkyMzI0MywtMTgxOTA1NDg0MywxNDI4MTU0MzU5LDEwMzY3
+MjAwNDgsNjEzOTcwMTE1LDc0MjM1OTE2Niw4Nzc2OTgzMzgsMT
+AyNzI3MzgyOSw3MjYzNTU2MDAsLTk3MjE4ODg0NSw2NzU2Njk3
+MDUsLTUwOTM4OTcyNyw4MjI1MzYzODUsMjQ2NTY3ODUxLDIwNT
+YwOTU3OTAsLTIwMDIyMzg2NDhdfQ==
 -->
