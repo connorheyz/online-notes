@@ -1,10 +1,10 @@
 # AP US History
 
 ## Notes
- - **
-## Guided Reading Charts
 
+## Guided Reading Charts
+ - **AMSCO 
 ## Resources
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzUxNjEzNF19
+eyJoaXN0b3J5IjpbLTI5NzE5NTQwMV19
 -->
