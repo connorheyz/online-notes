@@ -3,8 +3,9 @@
 ## Notes
 
 ## Guided Reading Charts
- - **AMSCO 
+ - **AMSCO Book Chaper 4** -- [Guided Reading](Chapter-4-Notes.html)
+ - **AMSCO Book Chaper 5** -- [Guided Reading](Chapter-5-Notes.html)
 ## Resources
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NzE5NTQwMV19
+eyJoaXN0b3J5IjpbMjE0MzAyMjUwM119
 -->
