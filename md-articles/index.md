@@ -6,12 +6,12 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 
 | Most Recent Notes | Date | Teacher |
 |--|--|--|
-| Chapter 5 Notes | 10/1/2019 | Jarott Ward |
+| | |  |
 
-### [Guided Reading Charts](articles/apush/index.html#study-guides)
-| Most Recent Study Guide | Test | Teacher |
+### [Guided Reading Charts](articles/apush/index.html#Guided-Reading-Charts)
+| Most Recent Chart | Chapter | Teacher |
 |--|--|--|
-|Chapter 5 Notes | 10/1/2019 | Jarott Ward|
+| AMSCO Guided Reading | 5 | Jarott Ward|
 ## AP Comparative Government
 ### [Notes](articles/ap-comp-gov/index.html#notes)
 
@@ -46,10 +46,10 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 |--|--|--|
 | -- | -- | Christopher Devine |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzU1MjgzMiwxMzc3MTEzNzA5LC0yMT
-QzOTIzMjQzLC0xODE5MDU0ODQzLDE0MjgxNTQzNTksMTAzNjcy
-MDA0OCw2MTM5NzAxMTUsNzQyMzU5MTY2LDg3NzY5ODMzOCwxMD
-I3MjczODI5LDcyNjM1NTYwMCwtOTcyMTg4ODQ1LDY3NTY2OTcw
-NSwtNTA5Mzg5NzI3LDgyMjUzNjM4NSwyNDY1Njc4NTEsMjA1Nj
-A5NTc5MCwtMjAwMjIzODY0OF19
+eyJoaXN0b3J5IjpbNDM3NzM3NDkyLDEzNzcxMTM3MDksLTIxND
+M5MjMyNDMsLTE4MTkwNTQ4NDMsMTQyODE1NDM1OSwxMDM2NzIw
+MDQ4LDYxMzk3MDExNSw3NDIzNTkxNjYsODc3Njk4MzM4LDEwMj
+cyNzM4MjksNzI2MzU1NjAwLC05NzIxODg4NDUsNjc1NjY5NzA1
+LC01MDkzODk3MjcsODIyNTM2Mzg1LDI0NjU2Nzg1MSwyMDU2MD
+k1NzkwLC0yMDAyMjM4NjQ4XX0=
 -->
