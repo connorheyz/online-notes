@@ -11,7 +11,7 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 ### [Guided Reading Charts](articles/apush/index.html#Guided-Reading-Charts)
 | Most Recent Chart | Chapter | Teacher |
 |--|--|--|
-| AMSCO Guided Reading | 5 | Jarott Ward|
+| AMSCO Guided Reading | 6 | Jarott Ward|
 
 ## IB Business Management
 ### [Notes](articles/ib-business/index.html#notes)
@@ -58,10 +58,10 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 |--|--|--|
 | -- | -- | Christopher Devine |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0Njc0MDIzLDEzNzcxMTM3MDksLTIxND
-M5MjMyNDMsLTE4MTkwNTQ4NDMsMTQyODE1NDM1OSwxMDM2NzIw
-MDQ4LDYxMzk3MDExNSw3NDIzNTkxNjYsODc3Njk4MzM4LDEwMj
-cyNzM4MjksNzI2MzU1NjAwLC05NzIxODg4NDUsNjc1NjY5NzA1
-LC01MDkzODk3MjcsODIyNTM2Mzg1LDI0NjU2Nzg1MSwyMDU2MD
-k1NzkwLC0yMDAyMjM4NjQ4XX0=
+eyJoaXN0b3J5IjpbMTIxNzgyMzg3OCw1NzQ2NzQwMjMsMTM3Nz
+ExMzcwOSwtMjE0MzkyMzI0MywtMTgxOTA1NDg0MywxNDI4MTU0
+MzU5LDEwMzY3MjAwNDgsNjEzOTcwMTE1LDc0MjM1OTE2Niw4Nz
+c2OTgzMzgsMTAyNzI3MzgyOSw3MjYzNTU2MDAsLTk3MjE4ODg0
+NSw2NzU2Njk3MDUsLTUwOTM4OTcyNyw4MjI1MzYzODUsMjQ2NT
+Y3ODUxLDIwNTYwOTU3OTAsLTIwMDIyMzg2NDhdfQ==
 -->
