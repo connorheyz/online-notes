@@ -68,7 +68,7 @@
 ### Debating the Consitution
 
 #### Comparing Federalists and Anti-Federalists Chart
-![../../images/chart.png]()
+![../../assets/images/chart.png]()
 ### Virginia
  - In 1788, Virginia was the most populous of the original 13 colonies
  - George Mason and Patrick Henry were the main anti-feds the Virginians rallied behind
@@ -136,7 +136,7 @@ of 13 district courts and three circuit courts of appeals.
  3. Create a national bank with a universal stable currency
 
  - Anti-feds opposed this, they thought the states would lose power
- - TJ though Hamilton's plan would only benefit the rich
+ - TJ thought Hamilton's plan would only benefit the rich
  - Congress adopted Hamilton's plans with lower tariffs
 ### Debt
  - Anti-feds agreed to pay off debt
@@ -147,64 +147,80 @@ of 13 district courts and three circuit courts of appeals.
  - Bank of the United States was privately owned with the government being a major shareholder
  - The government could print paper currency and use federal deposits
 ### Foreign Affairs
-
+ - Colonists debated whether or not to help in the French Revolution
 ### The French Revolution
-
+ - Americans admired the French people's will to set up a republic, but winced at the public executions and hysteria
 ### Proclamation of Neutrality *1793*
-
-### "Citizen" Genet
-
+ - GW believed the U.S. was not strong enough to assist yet
+ - Jefferson resigned in disagreement with GW's decision
+### "Citizen" Genêt
+ - Genêt broke all diplomacy rules by appealing directly to the American people to support the French cause
+ - He was recalled to America where he became a citizen
 ### The Jay Treaty *1794*
-
+ - GW sent John Jay to talk Britain out of being hostile towarda American ships
+ - The Jay Treaty had Britain abandon its outposts in America, but it didn't say anything about searching American ships
 ### The Pickney Treaty *1795*
-
+ - The Jay Treaty caused Spain to want a greater grip on its colonies
+ - Pickney, the U.S. minister to Spain, negotiated a treaty which opened the lower Mississippi River and New Orleans to trade
 ### Domestic Concerns
-
+ - Number of credit, new organization issues
 ### American Indians
-
+ - NW Confederacy to stop colonists from moving westward
+ - Tribes won early bloody victories against the colonists
+ - Battle of Fallen Timbers was a victory for the colonists
+ - Treaty of Greenville surrendered Indian claims to the Ohio Territory
 ### Whiskey Rebellion
-
+ - Hamilton got congress to pass export taxes on whiskey
+ - In Pennsylvania, some people refused and attacked tax collectors
+ - Hamilton sent 15,000 soldiers
+ - The rebellion dispersed with no bloodshed
 ### Western Lands
-
+ - Public Land Act of 1796 set out the process for dividing and selling federal lands
+ - The process for adding new states went smoothly
+ - Vermont was the first new state in 1791, followed by Kentucky and Tennessee
 ## Political Parties *pp. 113-115*
 
 ### Political Parties
-
+ - The Framers didn't expect parties to arise
+ - Feds vs. Anti-feds proved them wrong
 ### Origins
-
+ - In colonial times, groups of legislators formed factions and voted together for or against a certain policy
+ - Feds vs Anti-feds
 ### Differences Between the Parties
-
+ - Democrat-Republicans were strongest in southern states and on the western frontier
+ - Argued for states' rights
 ## John Adams' Presidency *pp. 115-117*
 
 ### John Adams' Presidency
-
+ - Adams beat Jefferson by 3 electoral votes
+ - TJ was appointed VP
 ### Comparison of Federalist and Democratic-Republican Parties
-
-### Leaders
-
-### Views on Consitution
-
-### Foreign Policy
-
-### Military Policy
-
-### Economic Policy
-
-### Chief Supporters
-
+![../../assets/images/chartdrpcomp.png]()
 ### The XYZ Affair
-
+ - French were seizing American ships, not happy
+ - Adams sent a delegation to Paris to negotiate
+ - X, Y, and Z (Unnamed French Delegates) demanded bribes
+ - Americans were furious, some wanted war, Adams did not
 ### The Alien and Sedition Acts
-
+ - Elections of 1798 had Federalist majority in both house
+ - Passed laws to restrict opponent
+ - Increased years required to become a U.S. citizen
+ - Allowed the executive to throw out dangerous immigrants
 ### The Kentucky and Virginia Resolutions
-
+ - No judicial review yet
+ - A compact with the federal government
+ - If they break the conpact, the states could nullify federal law
+ - When feds lost majority, the acts faded away
 ## The Election of 1800 *pp. 117-118*
 
 ### The Election of 1800
-
+ - Federalist popularity declined because of taxes and the acts
 ### Election Results
-
+ - Feds lost power
 ### A Peaceful Revolution
+ - Parties tranfered power peacefully
+ - Very rare for the time
+ - Foreshadowing for how good the U.S. model was
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTU0NzY2MTAyM119
 -->
