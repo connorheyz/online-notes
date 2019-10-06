@@ -20,9 +20,9 @@
  - Representatives decided on another meeting in Annapolis, MD
  - Only five states sent delegates to Annapolis
  - James Madison and Alexander Hamilton decided to meet in Philly to revise the Articles of Confederation
-## Drafting the Consitution at Philadelphia *pp. 104-106*
+## Drafting the Constitution at Philadelphia *pp. 104-106*
 
-### Drafting the Consitution at Philadelphia
+### Drafting the Constitution at Philadelphia
  - All 13 states (except Rhode Island) sent delegates to Philly
  - Sole purpose of revising the Articles
 ### The Delegates
@@ -57,7 +57,7 @@
 ## Federalists and Anti-Federalists *pp. 106-107*
 
 ### Federalists and Anti-Federalists
- - Ratification was fiercly debated for a year
+ - Ratification was fiercely debated for a year
  - Supporters were federalists
  - Opponents were anti-federalists
 ### The Federalist Papers
@@ -81,7 +81,7 @@
  - Anti-feds said that adding a bill of rights would prevent Tyranny
 ### Arguments Against a Bill of Rights
  - Feds argued that since congress is elected by the people, they didn't need to be protected against themselves. People should assume all rights are protected
-### The First Ten Ammendments
+### The First Ten Amendments
  - Drafted in 1789
  - Drafted largely by James Madison
  - Adopted in 1791
@@ -222,5 +222,5 @@ of 13 district courts and three circuit courts of appeals.
  - Very rare for the time
  - Foreshadowing for how good the U.S. model was
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NzY2MTAyM119
+eyJoaXN0b3J5IjpbLTE3NTUyNjczOSwtNTQ3NjYxMDIzXX0=
 -->
