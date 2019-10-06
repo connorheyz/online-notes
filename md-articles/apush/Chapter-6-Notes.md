@@ -68,7 +68,7 @@
 ### Debating the Consitution
 
 #### Comparing Federalists and Anti-Federalists Chart
-![../../images/chart.png]
+![../../images/chart.png]()
 ### Virginia
  - In 1788, Virginia was the most populous of the original 13 colonies
  - George Mason and Patrick Henry were the main anti-feds the Virginians rallied behind
@@ -205,3 +205,6 @@ of 13 district courts and three circuit courts of appeals.
 ### Election Results
 
 ### A Peaceful Revolution
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTU0NzY2MTAyM119
+-->
