@@ -199,3 +199,6 @@ powers."
  - Cotton Gin ruined that hope
 ### Population of Enslaved African Americans chart…
 ![](../../assets/images/enslavedpop.png)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzk2MTU0ODI3XX0=
+-->
