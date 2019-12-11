@@ -65,15 +65,15 @@
 	-  New product released
     
 
-Extension Strategies![](https://lh4.googleusercontent.com/AxrE3bxkPfcQz5fjThei8qS-fiXpaLi9nddDRyJL29QIutXAQZpRsKHOFpMZ40dP_3RJV3ohFDGZiZF6RjKtDpPRV1K2tJ_8myz77F8ysbermVhLk3JmTNGFR2W9J9TdLSkb918M)
+### Extension Strategies![](https://lh4.googleusercontent.com/AxrE3bxkPfcQz5fjThei8qS-fiXpaLi9nddDRyJL29QIutXAQZpRsKHOFpMZ40dP_3RJV3ohFDGZiZF6RjKtDpPRV1K2tJ_8myz77F8ysbermVhLk3JmTNGFR2W9J9TdLSkb918M)
 
-BCG Matrix
+### BCG Matrix
 
   
 
 ![](https://lh6.googleusercontent.com/rrNtIG0dR8rjXMadU7ugeReRxVBmEGOiVQL0QX31-pdbdAQtTztrRLhFtBCXu-NktS4s2oylCJnR1ooYlMBh03vdaRlYIaZtXxnjV-UnbihRGwMG-aHP2rHOl71eFyrHs7KgS_vx)
 
-Cash Cows
+#### Cash Cows
 
 -   High market share and low growth
     
@@ -86,7 +86,7 @@ Cash Cows
 -   Extension strategies
     
 
-Dogs
+#### Dogs
 
 -   Low Market Share
     
@@ -95,7 +95,7 @@ Dogs
 -   Less Cash
     
 
-Question Marks
+#### Question Marks
 
 -   CONCERN
     
@@ -106,7 +106,7 @@ Question Marks
 -   Bad market?
     
 
-Stars
+#### Stars
 
 -   More cash
     
@@ -119,21 +119,21 @@ Stars
 
   
 
-Branding
+### Branding
 
 -   Differentiation from the competition
     
 
   
 
-Brand
+#### Brand
 
 -   A name that is identifiable w/ a product of a particular business
     
 
   
 
-Differences
+#### Differences
 
 -   Intangibility
     
@@ -142,7 +142,7 @@ Differences
 -   Timeless
     
 
-Advantages
+#### Advantages
 
 -   Pricing
     
@@ -153,7 +153,7 @@ Advantages
 
   
 
-Brand Names
+#### Brand Names
 
 -   7/11 - Original business hours were 7 am - 11 pm
     
@@ -162,7 +162,7 @@ Brand Names
 
   
 
-Aspects of Branding
+#### Aspects of Branding
 
 -   Brand Awareness
     
@@ -195,7 +195,7 @@ Aspects of Branding
 
   
 
-Functions of Packaging
+### Functions of Packaging
 
 -   Quality packaging = quality product
     
@@ -222,5 +222,5 @@ Important Terms
     
 -   Multi-brand Strategy vs Product Cannibalization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDc1MzIxXX0=
+eyJoaXN0b3J5IjpbLTE2ODI2NTY0NTNdfQ==
 -->
