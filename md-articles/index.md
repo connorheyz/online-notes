@@ -1,7 +1,7 @@
 # Welcome To Connor's Online Notes!
 This is the homepage for  Connor's Online Notes. See the links below to view class notes.
 
-## [AP US History
+## AP US History
 ### [Notes](articles/apush/index.html#notes)
 
 | Most Recent Notes | Date | Teacher |
@@ -25,7 +25,7 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 |--|--|--|
 | || |
 ## AP Comparative Government
-### [Notes](articles/ib-businessComparative Government](articles/ap-comp-gov/index.html)
+
 ### [Notes](articles/ap-comp-gov/index.html#notes)
 
 | Most Recent Notes | Date | Teacher |
@@ -59,7 +59,7 @@ This is the homepage for  Connor's Online Notes. See the links below to view cla
 |--|--|--|
 | -- | -- | Christopher Devine |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2Njg3ODkwMiwxMjE3ODIzODc4LDU3ND
+eyJoaXN0b3J5IjpbLTIxOTM1NDg5MywxMjE3ODIzODc4LDU3ND
 Y3NDAyMywxMzc3MTEzNzA5LC0yMTQzOTIzMjQzLC0xODE5MDU0
 ODQzLDE0MjgxNTQzNTksMTAzNjcyMDA0OCw2MTM5NzAxMTUsNz
 QyMzU5MTY2LDg3NzY5ODMzOCwxMDI3MjczODI5LDcyNjM1NTYw
