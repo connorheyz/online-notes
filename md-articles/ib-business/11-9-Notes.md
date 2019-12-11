@@ -212,7 +212,7 @@
 
   
 
-Important Terms
+### Important Terms
 
 -   Functional vs Emotional Value
     
@@ -222,5 +222,5 @@ Important Terms
     
 -   Multi-brand Strategy vs Product Cannibalization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODI2NTY0NTNdfQ==
+eyJoaXN0b3J5IjpbLTE2OTM4MjQ3MTJdfQ==
 -->
