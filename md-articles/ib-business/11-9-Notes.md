@@ -29,40 +29,40 @@
 
   
 
-Product Life Cycle
+### Product Life Cycle
 
 ![](https://lh6.googleusercontent.com/x0UrrAVrRJEwtm993Aj5zpCqqq9y1xcaZeVGphS5zLLB-1nYgHATfSKgrm7Sjjqbd7pQXwOTy-sc4hDlYd68ki0T-uIxVTMWALhhxGgECcGCNLVdjEnbO5xrXVO2p9garaEY5uzZ)
 
 1.  Introduction
     
 
-1.  Product first introduced
+	-  Product first introduced
     
 
 3.  Growth
     
 
-1.  Selling the product in multiple locations
+	-  Selling the product in multiple locations
     
-2.  Start achieving profits
+	-  Start achieving profits
     
-3.  Product takes off
-    
-
-5.  Maturity or Stabilization
+	-  Product takes off
     
 
-1.  Can last long or short
-    
-2.  Games: Short
-    
-3.  Clothes: Long
+7.  Maturity or Stabilization
     
 
-7.  Decline
+	-  Can last long or short
+    
+	-  Games: Short
+    
+	-  Clothes: Long
     
 
-1.  New product released
+8.  Decline
+    
+
+	-  New product released
     
 
 Extension Strategies![](https://lh4.googleusercontent.com/AxrE3bxkPfcQz5fjThei8qS-fiXpaLi9nddDRyJL29QIutXAQZpRsKHOFpMZ40dP_3RJV3ohFDGZiZF6RjKtDpPRV1K2tJ_8myz77F8ysbermVhLk3JmTNGFR2W9J9TdLSkb918M)
@@ -222,5 +222,5 @@ Important Terms
     
 -   Multi-brand Strategy vs Product Cannibalization
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU4NjE4MDg3XX0=
+eyJoaXN0b3J5IjpbMTEyMDc1MzIxXX0=
 -->
